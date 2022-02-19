@@ -13,6 +13,7 @@ Dr. Angelyn Lao
 - Dr. Divina Amalin
 - Dr. Ma. Luisa Enriquez
 - Dr. Anish MS Shrestha
+- Dr. Llewelyn Moron
 - Ms. Nathalie Rose Lim
 - Prof. Ma. Nilda Muñoz
 
