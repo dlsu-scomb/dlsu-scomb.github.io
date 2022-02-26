@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dlsu-scomb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: ""
-#url: ""
 facebook_username:
 twitter_username: 
 github_username: dlsu-scomb
