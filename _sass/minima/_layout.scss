@@ -26,6 +26,7 @@
 
 .site-nav {
   float: right;
+  padding: 20px+$base-font-size*1.7 0 0;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
