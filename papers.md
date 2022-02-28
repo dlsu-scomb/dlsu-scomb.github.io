@@ -3,7 +3,7 @@ layout: page
 title: Papers
 permalink: /papers/
 ---
-**ARTICLES**
+<i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2022 <br>
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
@@ -143,7 +143,7 @@ H. Alcantara, <u>A. Lao</u>, and L.Ruivivar. <br>
 DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A. Lao</u>, D Amalin, and D Alvindia. <br>
 *In 2016 IEEE Region 10 Symposium (TENSYMP), 384-389.*
 
-**CONFERENCE PROCEEDINGS**
+<i class="fa-solid fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
 
 2020 <br>
 [**State Analysis of Three-node Network Motifs using Boolean Model.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-15.pdf) <br>

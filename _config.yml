@@ -21,12 +21,18 @@
 title: Systems and Computational Biology (SComB)
 email: dlsu.scomb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme.
+  This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme. Some icons were loaded from Font Awesome and Academicons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dlsu-scomb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 facebook_username:
-twitter_username: 
 github_username: dlsu-scomb
+linkedin_username:
+scholar_username:
+twitter_username:
+orcid_username:
+researchgate_username:
+scopus_username:
 
 # Build settings
 theme: minima
