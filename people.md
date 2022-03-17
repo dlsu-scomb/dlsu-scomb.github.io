@@ -4,11 +4,15 @@ title: People
 permalink: /people/
 ---
 
-# Unit Head
+**UNIT HEAD**
 
 Dr. Angelyn Lao
 
-# Members
+**HONORARY SCIENTIST-IN-RESIDENCE**
+
+[Dr. Eduardo Mendoza](https://www.dlsu.edu.ph/colleges/cos/departments/mathematics/adjunct-professor/)
+
+**MEMBERS**
 
 - Dr. Divina Amalin
 - Dr. Ma. Luisa Enriquez
@@ -17,6 +21,6 @@ Dr. Angelyn Lao
 - Ms. Nathalie Rose Lim
 - Prof. Ma. Nilda Muñoz
 
-# Research Assistant
+**RESEARCH ASSISTANT**
 
-- Paul Yu
+[Paul Yu](https://yupaulk.github.io/)
