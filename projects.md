@@ -10,9 +10,9 @@ Candida albicans is a commensal fungus pathogen commonly reported to cause candi
 We aim to investigate the azole resistance mechanisms in Candida albicans using systems approach (mathematical and computational modeling) to identify important biomarkers for possible drug targets. The models aim to aid researchers narrow down the possible drug targets prior to doing costly and time-consuming experiments, and to serve as a cross-validation tool for experimental data.
 
 **Research Team**
-- Dr. Angelyn Lao
-- Dr. Llewelyn Moron
-- [Paul Yu](https://yupaulk.github.io/)
+- Dr. Angelyn Lao [<i class="fa-regular fa-envelope"></i>](mailto:angelyn.lao@dlsu.edu.ph)
+- Dr. Llewelyn Moron [<i class="fa-regular fa-envelope"></i>](mailto:llewelyn.moron@dlsu.edu.ph)
+- Paul Yu [<i class="fa-regular fa-envelope"></i>](mailto:paul_k_yu@dlsu.edu.ph)
 
 **Funding & Partners**
 
