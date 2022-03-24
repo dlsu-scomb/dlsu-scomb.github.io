@@ -6,7 +6,7 @@ permalink: /people/
 
 **UNIT HEAD**
 
-Dr. Angelyn Lao
+[Dr. Angelyn Lao](https://angelynlao.github.io/)
 
 **HONORARY SCIENTIST-IN-RESIDENCE**
 

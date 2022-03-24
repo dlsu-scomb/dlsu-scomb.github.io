@@ -8,6 +8,6 @@ SComB is a research unit that integrates computational, mathematical and statist
 
 **CURRENT PROJECTS**
 
-[Systems biology approach of understanding azole resistance mechanisms in *Candida albicans*](/projects/)
+[**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics**](/projects/)
 
 **EVENTS**
