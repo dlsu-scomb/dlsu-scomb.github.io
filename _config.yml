@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Systems and Computational Biology (SComB)
-email: dlsu.scomb@gmail.com
+email: dlsu.scomb[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme. Some icons were loaded from Font Awesome and Academicons.
 baseurl: "" # the subpath of your site, e.g. /blog

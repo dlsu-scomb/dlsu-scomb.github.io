@@ -12,6 +12,10 @@ permalink: /people/
 
 [Dr. Eduardo Mendoza](https://www.dlsu.edu.ph/colleges/cos/departments/mathematics/adjunct-professor/)
 
+**GUEST RESEARCHER**
+
+Patrick Lubenia
+
 **MEMBERS**
 
 - Dr. Divina Amalin
