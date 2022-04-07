@@ -14,16 +14,21 @@ permalink: /people/
 
 **GUEST RESEARCHER**
 
-Patrick Lubenia
+[Patrick Lubenia](https://www.linkedin.com/in/patrick-vincent-lubenia-frm-741812102/?originalSubdomain=ph)
 
 **MEMBERS**
 
-- Dr. Divina Amalin
-- Dr. Ma. Luisa Enriquez
-- Dr. Anish MS Shrestha
-- Dr. Llewelyn Moron
-- Ms. Nathalie Rose Lim
-- Prof. Ma. Nilda Muñoz
+[Dr. Divina Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629)
+
+[Dr. Ma. Luisa Enriquez](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742676594)
+
+[Dr. Anish MS Shrestha](https://www.a-transposable-element.com/)
+
+[Dr. Llewelyn Moron](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505)
+
+[Ms. Nathalie Rose Lim](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
+
+[Prof. Ma. Nilda Muñoz](https://scholar.google.com.ph/citations?hl=en&user=5lNV_VEAAAAJ&view_op=list_works&sortby=pubdate)
 
 **RESEARCH ASSISTANT**
 
