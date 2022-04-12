@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<a id="attack_amr"><a/>
 ### **Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics**
 
 The cooperative research project ATTACK-AMR involves teams from the US, Japan, Australia, Thailand, and the Philippines; and it aims to deliver alternative, non-antibiotic therapies to combat antimicrobial resistant (AMR) pathogens. AMR is one of the biggest challenges facing healthcare industries and is on a rapid rise as a result of the overuse of antibiotics. Replacing antibiotics with alternative products will delay the resistance and restore the activity of antibiotics that are no longer effective due to resistance.
