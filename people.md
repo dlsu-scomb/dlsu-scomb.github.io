@@ -26,7 +26,7 @@ permalink: /people/
 
 [Dr. Llewelyn Moron](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505)
 
-[Ms. Nathalie Rose Lim](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
+[Ms. Nathalie Rose Lim-Cheng](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
 
 [Prof. Ma. Nilda Muñoz](https://scholar.google.com.ph/citations?hl=en&user=5lNV_VEAAAAJ&view_op=list_works&sortby=pubdate)
 

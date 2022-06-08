@@ -16,7 +16,13 @@ Candida albicans is a commensal fungus pathogen commonly reported to cause candi
 
 We aim to investigate the azole resistance mechanisms in Candida albicans using systems approach (mathematical and computational modeling) to identify important biomarkers for possible drug targets. The models aim to aid researchers narrow down the possible drug targets prior to doing costly and time-consuming experiments, and to serve as a cross-validation tool for experimental data.
 
-**Research Team**
+<p style='text-align:center;'>
+	<img src='/assets/erg-pathway.jpg' width='500' align='middle' />
+</p>
+
+<br>
+
+### **Research Team**
 - Dr. Angelyn Lao [<i class="fa-regular fa-envelope"></i>](mailto:angelyn.lao@dlsu.edu.ph)
 - Dr. Anish Shrestha [<i class="fa-regular fa-envelope"></i>](mailto:anish.shrestha@dlsu.edu.ph)
 - Dr. Maria Luisa Enriquez [<i class="fa-regular fa-envelope"></i>](mailto:ma.luisa.enriquez@dlsu.edu.ph)
@@ -26,30 +32,30 @@ We aim to investigate the azole resistance mechanisms in Candida albicans using 
 - Joemarie Malana
 - Dr. Evelina Lagamayo
 
-**Research Assistant**
+### **Research Assistant**
 - Paul Yu [<i class="fa-regular fa-envelope"></i>](mailto:paul_k_yu@dlsu.edu.ph)
 
-**Implementing Agency**
+### **Implementing Agency**
 
 <a href='https://www.dlsu.edu.ph/'><img src='/assets/dlsu-logo.png' width='50' height='50' /></a>
 
-**Co-implementing Agencies**
+### **Co-implementing Agencies**
 
 <a href='https://mahidol.ac.th/'><img src='/assets/mahidol-logo.svg' width='50' height='50' /></a>
 <a href='https://www.sdstate.edu/'><img src='/assets/sdstate-logo.png' width='50' height='50' /></a>
 <a href='https://www.unisa.edu.au/'><img src='/assets/unisa-logo.png' width='50' height='50' /></a>
 <a href='https://www.keio.ac.jp/en/'><img src='/assets/keio-logo.png' width='50' height='50' /></a>
 
-**Cooperating Agencies**
+### **Cooperating Agencies**
 
 <a href='https://www.ust.edu.ph/'><img src='/assets/ust-logo.jpg' width='50' height='50' /></a>
 <a href='https://www.stlukes.com.ph/'><img src='/assets/slmc-logo.jpg' width='50' height='50' /></a>
 
-**Funding Agencies** 
+### **Funding Agencies** 
 
 <a href='https://www.pchrd.dost.gov.ph/'><img src='/assets/dost-pchrd-logo.png' width='50' height='50' /></a>
 <a href='https://www.the-easia.org/jrp/'><img src='/assets/easia-jrp-logo.png' width='50' height='50' /></a>
 
-**Partners**
+### **Partners**
 
 <a href='https://www.sei.dost.gov.ph/'><img src='/assets/dost-sei-logo.png' width='50' height='50' /></a>
