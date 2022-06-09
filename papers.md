@@ -14,14 +14,13 @@ O.B. Villasis, D.S. Tan, E. Mendoza, <u>A. Lao</u> <br>
 <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
 *arXiv preprint arXiv:2204.04614.*
 
+[**Concentration Robustness in LP Kinetic Systems.**](https://arxiv.org/pdf/2110.13845.pdf) <br>
+<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
+*MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
+
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
 *In Towards Intelligent Systems Modeling and Simulation, 249-263. Springer, Cham.*
-
-2021 <br>
-[**Concentration Robustness in LP Kinetic Systems.**](https://arxiv.org/pdf/2110.13845.pdf) <br>
-<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
-*arXiv preprint arXiv:2110.13845.*
 
 2018 <br>
 [**A Deficiency-One Algorithm for power-law kinetic systems with reactant-determined interactions.**](https://link.springer.com/article/10.1007/s10910-018-0925-2) <br>
