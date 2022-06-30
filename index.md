@@ -10,4 +10,6 @@ layout: home
 
 [**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics**](/projects/#attack_amr)
 
-**EVENTS**
+**NEWS & EVENTS**
+
+[**2022 DLSU-PSHS Summer Internship Program: Mathematical Modeling**](/events/#pshs_2022)
