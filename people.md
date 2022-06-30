@@ -36,10 +36,10 @@ permalink: /people/
 
 **INTERNS**
 
-Mr. Joaquin Miguel L. Fuentebella - BS Mathematics, De La Salle University (2022/05/30 - 2022/06/07)
+Mr. Gerard C. Aurellano - Philippine Science High School - Bicol Region Campus
 
-Mr. Gerard C. Aurellano - Philippine Science High School - Bicol Region Campus (2022/06/20 - 2022/07/11)
+Ms. Megan Marie B. Sio - Philippine Science High School - Western Visayas Campus
 
-Ms. Megan Marie B. Sio - Philippine Science High School - Western Visayas Campus (2022/06/20 - 2022/07/11)
+Mr. Ethan Lestat L. Tiongson - Philippine Science High School - CALABARZON Region Campus
 
-Mr. Ethan Lestat L. Tiongson - Philippine Science High School - CALABARZON Region Campus (2022/06/20 - 2022/07/11)
+[**ALUMNI**](/alumni)
