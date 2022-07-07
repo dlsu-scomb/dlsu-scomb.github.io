@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2022/07/07] SComB's Poster Entry to the DLSU Research Congress 2022**](/events/#dlsu_rescon_2022)
+
 [**[2022/06/28] LNest Grant Global Challenge Award 2022**](/events/#lnest_grant)
 
 [**[2022/06/20 - 2022/07/11] DLSU-PSHS Summer Internship Program: Mathematical Modeling**](/events/#pshs_2022)

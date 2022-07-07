@@ -3,6 +3,11 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="dlsu_rescon_2022"><a/>
+### [2022/07/07] [SComB's Poster Entry to the DLSU Research Congress 2022](https://www.youtube.com/watch?v=tDnc9jFLe70)
+
+The SComB research unit took part in the [DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon) with a poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling". Using mathematical modeling, we aim to identify possible drug targets in the ergosterol pathway of *Candida albicans*. To view the poster, please click the link: [https://www.youtube.com/watch?v=tDnc9jFLe70](https://www.youtube.com/watch?v=tDnc9jFLe70)
+
 <a id="lnest_grant"><a/>
 ### [2022/06/28] [LNest Grant Global Challenge Award 2022](https://grant.lne.st/research/global-challenge-award/)
 
