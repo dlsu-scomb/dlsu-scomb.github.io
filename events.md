@@ -3,10 +3,19 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="best_poster_dlsu_rescon_2022"><a/>
+### [2022/07/08] [ScomB wins the Best Poster Award in the DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon/videos/1044777786155541)
+
+On Day 3 of the DLSU Research Congress 2022, the Best Poster Award was conferred to the SComB research unit in their poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling".
+
+<img src='/assets/best-poster.png' width='500' />
+
 <a id="dlsu_rescon_2022"><a/>
 ### [2022/07/07] [SComB's Poster Entry to the DLSU Research Congress 2022](https://www.youtube.com/watch?v=tDnc9jFLe70)
 
-The SComB research unit took part in the [DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon) with a poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling". Using mathematical modeling, we aim to identify possible drug targets in the ergosterol pathway of *Candida albicans*. To view the poster, please click the link: [https://www.youtube.com/watch?v=tDnc9jFLe70](https://www.youtube.com/watch?v=tDnc9jFLe70)
+The SComB research unit took part in the [DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon) with a poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling". Using mathematical modeling, we aim to identify possible drug targets in the ergosterol pathway of *Candida albicans*.  
+
+<a href='https://www.youtube.com/watch?v=tDnc9jFLe70'><img src='/assets/poster.png' width='500' /></a>
 
 <a id="lnest_grant"><a/>
 ### [2022/06/28] [LNest Grant Global Challenge Award 2022](https://grant.lne.st/research/global-challenge-award/)
