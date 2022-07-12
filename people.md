@@ -36,10 +36,4 @@ permalink: /people/
 
 **INTERNS**
 
-Mr. Gerard C. Aurellano - Philippine Science High School - Bicol Region Campus
-
-Ms. Megan Marie B. Sio - Philippine Science High School - Western Visayas Campus
-
-Mr. Ethan Lestat L. Tiongson - Philippine Science High School - CALABARZON Region Campus
-
 [**ALUMNI**](/alumni)
