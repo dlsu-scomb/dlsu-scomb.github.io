@@ -8,7 +8,7 @@ layout: home
 
 **CURRENT PROJECTS**
 
-[**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics**](/projects/#attack_amr)
+[**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics (ATTACK-AMR)**](/projects/#attack_amr)
 
 **NEWS & EVENTS**
 
