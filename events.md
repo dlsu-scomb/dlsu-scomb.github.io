@@ -3,6 +3,18 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="meeting2"><a/>
+### [2022/08/25] ATTACK-AMR Project Meeting with Japanese Counterpart
+
+The ATTACK-AMR Philippine team had an online meeting with Japan and Thailand counterparts about the sample handling and bioinformatics process.
+
+<img src='/assets/20220825-meeting.png' width='500' />
+
+<a id="meeting1"><a/>
+### [2022/07/23] ATTACK-AMR Project Meeting
+
+The ATTACK-AMR Philippine team had an online meeting to discuss about the procurement process and sample collection protocol.
+
 <a id="meet_and_greet"><a/>
 ### [2022/07/26] ATTACK-AMR Project's Meet & Greet Session
 
