@@ -14,9 +14,9 @@ layout: home
 
 [**[2022/08/25] ATTACK-AMR Project Meeting with Japanese Counterpart**](/events/#meeting2)
 
-[**[2022/07/23] ATTACK-AMR Project Meeting**](/events/#meeting1)
-
 [**[2022/07/26] ATTACK-AMR Project's Meet & Greet Session**](/events/#meet_and_greet)
+
+[**[2022/07/23] ATTACK-AMR Project Meeting**](/events/#meeting1)
 
 [**[2022/07/08] SComB wins the Best Poster Award in the DLSU Research Congress 2022**](/events/#best_poster_dlsu_rescon_2022)
 

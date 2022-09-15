@@ -10,17 +10,19 @@ The ATTACK-AMR Philippine team had an online meeting with Japan and Thailand cou
 
 <img src='/assets/20220825-meeting.png' width='500' />
 
-<a id="meeting1"><a/>
-### [2022/07/23] ATTACK-AMR Project Meeting
-
-The ATTACK-AMR Philippine team had an online meeting to discuss about the procurement process and sample collection protocol.
-
 <a id="meet_and_greet"><a/>
 ### [2022/07/26] ATTACK-AMR Project's Meet & Greet Session
 
 The DLSU team of the ATTACK-AMR Project had their meet & greet session at Cafe Adriatico, Remedios Circle. In the photo below, from left to right, are Robert Unciano, Llewelyn Moron-Espiritu, Angelyn Lao, Paul Yu, Anish Shrestha.
 
 <img src='/assets/meet-greet.jpg' width='500' />
+
+<a id="meeting1"><a/>
+### [2022/07/23] ATTACK-AMR Project Meeting
+
+The ATTACK-AMR Philippine team had an online meeting to discuss about the procurement process and sample collection protocol.
+
+<img src='/assets/20220723-meeting.png' width='500' />
 
 <a id="best_poster_dlsu_rescon_2022"><a/>
 ### [2022/07/08] [ScomB wins the Best Poster Award in the DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon/videos/1044777786155541)
