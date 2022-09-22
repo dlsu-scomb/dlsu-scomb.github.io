@@ -4,9 +4,9 @@ title: News & Events
 permalink: /events/
 ---
 <a id="dost"><a/>
-### [2022/09/22-23] SComB's Poster Entry to the 10th DOST Graduate Scholars' Conference
+### [2022/09/22-23] SComB's Poster Entry to the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
 
-The SComB research unit took part in the [10th DOST Graduate Scholars' Conference](https://asthrdpconference2022.science.upd.edu.ph/) with a poster entry entitled "A modeling approach of drug target identification in *Candida albicans* ergosterol biosynthesis pathway".
+The SComB research unit took part in the [10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://asthrdpconference2022.science.upd.edu.ph/) with a poster entry entitled "A modeling approach of drug target identification in *Candida albicans* ergosterol biosynthesis pathway".
 
 <img src='/assets/dost.png' width='500' />
 
