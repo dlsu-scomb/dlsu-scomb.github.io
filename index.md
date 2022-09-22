@@ -12,7 +12,7 @@ layout: home
 
 **NEWS & EVENTS**
 
-[**[2022/09/22-23] SComB's Poster Entry to the 10th DOST Graduate Scholars' Conference**](/events/#dost)
+[**[2022/09/22-23] SComB's Poster Entry to the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference**](/events/#dost)
 
 [**[2022/08/25] ATTACK-AMR Project Meeting with Japanese Counterpart**](/events/#meeting2)
 
