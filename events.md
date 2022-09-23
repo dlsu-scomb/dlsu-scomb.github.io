@@ -3,12 +3,23 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
-<a id="dost"><a/>
+<a id="dost2"><a/>
+### [2022/09/23] SComB Posters won First and Third Place in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
+
+The SComB research unit won the First and Third Place in the technical poster competition under the mathematical and computational sciences category in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference. The recording can be seen in the [UP Diliman College of Science Facebook page](https://www.facebook.com/updcollegeofscience/videos/1259858458124312).
+
+<img src='/assets/dost-poster-win1.png' width='500' />
+
+<img src='/assets/dost-poster-win2.png' width='500' />
+
+<a id="dost1"><a/>
 ### [2022/09/22-23] SComB's Poster Entry to the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
 
-The SComB research unit took part in the [10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://asthrdpconference2022.science.upd.edu.ph/) with a poster entry entitled "A modeling approach of drug target identification in *Candida albicans* ergosterol biosynthesis pathway".
+The SComB research unit took part in the [10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://asthrdpconference2022.science.upd.edu.ph/) with two poster entries.
 
-<img src='/assets/dost.png' width='500' />
+<img src='/assets/dost-poster1.png' width='500' />
+
+<img src='/assets/dost-poster2.png' width='500' />
 
 <a id="meeting2"><a/>
 ### [2022/08/25] ATTACK-AMR Project Meeting with Japanese Counterpart

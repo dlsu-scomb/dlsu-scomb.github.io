@@ -34,6 +34,8 @@ permalink: /people/
 
 [Mr. Paul K. Yu](https://yupaulk.github.io/)
 
+[Ms. Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
+
 **INTERNS**
 
 [**ALUMNI**](/alumni)
