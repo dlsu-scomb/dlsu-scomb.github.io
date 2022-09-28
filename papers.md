@@ -7,7 +7,7 @@ permalink: /papers/
 
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of Candida albicans.**](https://www.biorxiv.org/content/biorxiv/early/2022/06/12/2022.06.09.495576.full.pdf) <br>
-P.K. Yu, L.S. Moron-Espiritu, and A.R. Lao.
+P.K. Yu, L.S. Moron-Espiritu, and A.R. Lao. <br>
 *bioRxiv doi:10.1101/2022.06.09.495576.*
 
 [**Systems Biology Approach of Understanding Insulin Resistance: Linkage between Type 2 Diabetes & Alzheimer’s Disease.**](https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.13.463890.full.pdf) <br>
