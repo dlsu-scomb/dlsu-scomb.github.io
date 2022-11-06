@@ -3,6 +3,20 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="lnest_hicph2022"><a/>
+### [2022/11/05] SComB's Poster Entry to the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022
+
+The SComB research unit presented their research at the [Leave a Nest Hyper Interdisciplinary Conference Philippines 2022](https://www.facebook.com/events/1331889717581736), with a poster entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*".
+
+<img src='/assets/lnest-poster.jpg' height='500' />
+
+<a id="apams2022"><a/>
+### [2022/10/11] SComB's Poster Entry to the Annual PAASE Meeting & Symposium 2022
+
+The SComB research unit presented their research at the  [Annual PAASE Meeting & Symposium 2022](https://apams2022.paase.org/), with a poster entitled "Mathematical modeling approach to drug target identification in *Candida albicans* ergosterol biosynthesis pathway".
+
+<img src='/assets/apams2022-poster.png' width='500' />
+
 <a id="dost2"><a/>
 ### [2022/09/23] SComB Posters won First and Third Place in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
 

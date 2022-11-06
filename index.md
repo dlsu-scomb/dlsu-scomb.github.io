@@ -12,6 +12,10 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2022/11/05] SComB's Poster Entry to the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022**](/events/#lnest_hicph2022)
+
+[**[2022/10/11] SComB's Poster Entry to the Annual PAASE Meeting & Symposium 2022**](/events/#apams2022)
+
 [**[2022/09/23] SComB Posters won First and Third Place in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference**](/events/#dost2)
 
 [**[2022/09/22] SComB's Poster Entries to the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference**](/events/#dost1)
