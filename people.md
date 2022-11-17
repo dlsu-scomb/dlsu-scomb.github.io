@@ -36,6 +36,14 @@ permalink: /people/
 
 [Ms. Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
 
+**STUDENTS**
+
+Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
+
+Edriel B. Guanzon (Philippine Science High School - Bicol Region Campus)
+
+Ethan Matthew T. Templonuevo (Philippine Science High School - Bicol Region Campus)
+
 **INTERNS**
 
 [**ALUMNI**](/alumni)
