@@ -37,25 +37,25 @@ We aim to investigate the azole resistance mechanisms in Candida albicans using 
 
 ### **Implementing Agency**
 
-<a href='https://www.dlsu.edu.ph/'><img src='/assets/dlsu-logo.png' width='50' height='50' /></a>
+<a href='https://www.dlsu.edu.ph/'><img src='/assets/dlsu-logo.png' width='100' height='100' /></a>
 
 ### **Co-implementing Agencies**
 
-<a href='https://mahidol.ac.th/'><img src='/assets/mahidol-logo.svg' width='50' height='50' /></a>
-<a href='https://www.sdstate.edu/'><img src='/assets/sdstate-logo.png' width='50' height='50' /></a>
-<a href='https://www.unisa.edu.au/'><img src='/assets/unisa-logo.png' width='50' height='50' /></a>
-<a href='https://www.keio.ac.jp/en/'><img src='/assets/keio-logo.png' width='50' height='50' /></a>
+<a href='https://mahidol.ac.th/'><img src='/assets/mahidol-logo.svg' width='100' height='100' /></a>
+<a href='https://www.sdstate.edu/'><img src='/assets/sdstate-logo.png' width='100' height='100' /></a>
+<a href='https://www.unisa.edu.au/'><img src='/assets/unisa-logo.png' width='100' height='100' /></a>
+<a href='https://www.keio.ac.jp/en/'><img src='/assets/keio-logo.png' width='100' height='100' /></a>
 
 ### **Cooperating Agencies**
 
-<a href='https://www.ust.edu.ph/'><img src='/assets/ust-logo.jpg' width='50' height='50' /></a>
-<a href='https://www.stlukes.com.ph/'><img src='/assets/slmc-logo.jpg' width='50' height='50' /></a>
+<a href='https://www.ust.edu.ph/'><img src='/assets/ust-logo.jpg' width='100' height='100' /></a>
+<a href='https://www.stlukes.com.ph/'><img src='/assets/slmc-logo.jpg' width='100' height='100' /></a>
 
 ### **Funding Agencies** 
 
-<a href='https://www.pchrd.dost.gov.ph/'><img src='/assets/dost-pchrd-logo.png' width='50' height='50' /></a>
-<a href='https://www.the-easia.org/jrp/'><img src='/assets/easia-jrp-logo.png' width='50' height='50' /></a>
+<a href='https://www.pchrd.dost.gov.ph/'><img src='/assets/dost-pchrd-logo.png' width='100' height='100' /></a>
+<a href='https://www.the-easia.org/jrp/'><img src='/assets/easia-jrp-logo.png' width='100' height='100' /></a>
 
 ### **Partners**
 
-<a href='https://www.sei.dost.gov.ph/'><img src='/assets/dost-sei-logo.png' width='50' height='50' /></a>
+<a href='https://www.sei.dost.gov.ph/'><img src='/assets/dost-sei-logo.png' width='100' height='100' /></a>
