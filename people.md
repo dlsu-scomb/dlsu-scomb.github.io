@@ -36,6 +36,10 @@ permalink: /people/
 
 [Ms. Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
 
+Mr. Robert D.L.C. Unciano
+
+Mr. Jiann Carlo E. Santos
+
 **STUDENTS**
 
 Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
