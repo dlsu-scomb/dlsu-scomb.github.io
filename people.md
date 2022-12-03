@@ -36,7 +36,7 @@ permalink: /people/
 
 [Ms. Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
 
-Mr. Robert D.L.C. Unciano
+Mr. Robert D. Unciano
 
 Mr. Jiann Carlo E. Santos
 
