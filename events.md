@@ -8,7 +8,7 @@ permalink: /events/
 
 The ATTACK-AMR team joined in the PSM Cluster 1 Symposium held at the Ricardo & Dr. Rosita Leong Hall, Ateneo de Manila University.
 
-<img src='/assets/psm.jpg' height='500' />
+<img src='/assets/psm.jpg' width='500' />
 
 <a id="psm_tavan"><a/>
 ### [2022/12/03] ATTACK-AMR Workshop by Dr. Tavan Janvilisri in the PSM Cluster 1 Symposium
@@ -26,7 +26,7 @@ In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department 
 
 The SComB research unit presented their research at the [Leave a Nest Hyper Interdisciplinary Conference Philippines 2022](https://www.facebook.com/events/1331889717581736), with a poster entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*".
 
-<img src='/assets/lnest-poster.jpg' height='500' />
+<img src='/assets/lnest-poster.jpg' height='400' />
 
 <a id="apams2022"><a/>
 ### [2022/10/11] SComB's Poster Entry to the Annual PAASE Meeting & Symposium 2022
