@@ -14,7 +14,7 @@ permalink: /people/
 
 **GUEST RESEARCHER**
 
-[Mr. Patrick Vincent N. Lubenia](https://www.linkedin.com/in/patrick-vincent-lubenia-frm-741812102/?originalSubdomain=ph)
+[Patrick Vincent N. Lubenia](https://www.linkedin.com/in/patrick-vincent-lubenia-frm-741812102/?originalSubdomain=ph)
 
 **MEMBERS**
 
