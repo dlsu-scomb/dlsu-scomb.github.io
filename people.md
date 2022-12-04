@@ -26,19 +26,19 @@ permalink: /people/
 
 [Dr. Llewelyn S. Moron](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505)
 
-[Ms. Nathalie Rose Lim-Cheng](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
+[Nathalie Rose Lim-Cheng](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
 
-[Prof. Ma. Nilda M. Muñoz](https://scholar.google.com.ph/citations?hl=en&user=5lNV_VEAAAAJ&view_op=list_works&sortby=pubdate)
+[Ma. Nilda M. Muñoz](https://scholar.google.com.ph/citations?hl=en&user=5lNV_VEAAAAJ&view_op=list_works&sortby=pubdate)
 
 **RESEARCH ASSISTANT**
 
-[Mr. Paul K. Yu](https://yupaulk.github.io/)
+[Paul K. Yu](https://yupaulk.github.io/)
 
-[Ms. Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
+[Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
 
-Mr. Robert D. Unciano
+Robert D. Unciano
 
-Mr. Jiann Carlo E. Santos
+Jiann Carlo E. Santos
 
 **STUDENTS**
 

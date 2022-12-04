@@ -34,6 +34,8 @@ We aim to investigate the azole resistance mechanisms in Candida albicans using 
 
 ### **Research Assistant**
 - Paul Yu [<i class="fa-regular fa-envelope"></i>](mailto:paul_k_yu@dlsu.edu.ph)
+- Robert Unciano
+- Jiann Carlo Santos
 
 ### **Implementing Agency**
 
