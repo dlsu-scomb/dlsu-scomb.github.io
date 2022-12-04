@@ -16,10 +16,14 @@ The ATTACK-AMR team joined in the PSM Cluster 1 Symposium held at the Ricardo & 
 In the PSM cluster 1 symposium, Dr. Tavan Janvilisri, Professor, Department of Biochemistry, Faculty of Science Mahidol University, gave a talk on "Alternative Therapeutics to Tackle AMR Pathogens (ATTACK-
 AMR) A case of *Clostridioides difficile*"
 
+<img src='/assets/psm_tavan.jpg' width='500' />
+
 <a id="psm_joy"><a/>
 ### [2022/12/03] ATTACK-AMR Workshop by Dr. Joy Scaria in the PSM Cluster 1 Symposium
 
 In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department of Veterinary and Biomedical Sciences, South Dakota State University, gave a talk on "Genomics Based Detection of Foodborne Pathogens to Improve Food Safety"
+
+<img src='/assets/psm_joy.jpg' width='500' />
 
 <a id="lnest_hicph2022"><a/>
 ### [2022/11/05] SComB's Poster Entry to the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022
