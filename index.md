@@ -18,7 +18,7 @@ layout: home
 
 [**[2022/12/03] ATTACK-AMR Workshop by Dr. Joy Scaria in the PSM Cluster 1 Symposium**](/events/#psm_joy)
 
-[**[2022/11/05] SComB's Poster Entry to the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022**](/events/#lnest_hicph2022)
+[**[2022/11/05] SComB's Poster Entry and Research Splash at the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022**](/events/#lnest_hicph2022)
 
 [**[2022/10/11] SComB's Poster Entry to the Annual PAASE Meeting & Symposium 2022**](/events/#apams2022)
 

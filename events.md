@@ -26,11 +26,18 @@ In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department 
 <img src='/assets/psm_joy.jpg' width='500' />
 
 <a id="lnest_hicph2022"><a/>
-### [2022/11/05] SComB's Poster Entry to the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022
+### [2022/11/05] SComB's Poster Entry and Research Splash at the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022
 
-The SComB research unit presented their research at the [Leave a Nest Hyper Interdisciplinary Conference Philippines 2022](https://www.facebook.com/events/1331889717581736), with a poster entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*".
+The SComB research unit presented their research at the [Leave a Nest Hyper Interdisciplinary Conference Philippines 2022](https://fb.watch/hk_cgUcHnW/), with a poster entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*".
 
-<img src='/assets/lnest-poster.jpg' height='400' />
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/lnest-poster.jpg' height='380' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/lnest-talk.png' width='500' />
+	</div>
+</div>
 
 <a id="apams2022"><a/>
 ### [2022/10/11] SComB's Poster Entry to the Annual PAASE Meeting & Symposium 2022
