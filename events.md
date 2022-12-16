@@ -3,6 +3,20 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="xmas2022"><a/>
+### [2022/12/15] ATTACK-AMR Christmas Party
+
+The ATTACK-AMR team had a Christmas Party at Romantic Baboy.
+
+<img src='/assets/xmas2022.png' width='500' />
+
+<a id="workshop20221215"><a/>
+### [2022/12/15] ATTACK-AMR Workshop by Dr. Llewelyn Espiritu
+
+The ATTACK-AMR team had a workshop on "Antimicrobial resistance and its mechanisms" by Dr. Llewelyn Espiritu. It was held at the Research Commons, De La Salle University.
+
+<img src='/assets/workshop20221215.png' width='500' />
+
 <a id="psm"><a/>
 ### [2022/12/03] ATTACK-AMR Team joined in the PSM Cluster 1 Symposium
 

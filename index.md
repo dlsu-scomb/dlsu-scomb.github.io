@@ -12,6 +12,10 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2022/12/15] ATTACK-AMR Christmas Party**](/events/#xmas2022)
+
+[**[2022/12/15] ATTACK-AMR Workshop by Dr. Llewelyn Espiritu**](/events/#workshop20221215)
+
 [**[2022/12/03] ATTACK-AMR Team joined in the PSM Cluster 1 Symposium**](/events/#psm)
 
 [**[2022/12/03] ATTACK-AMR Workshop by Dr. Tavan Janvilisri in the PSM Cluster 1 Symposium**](/events/#psm_tavan)
