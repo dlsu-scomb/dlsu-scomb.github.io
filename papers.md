@@ -8,7 +8,7 @@ permalink: /papers/
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans*.**](https://journals.asm.org/doi/10.1128/msystems.00691-22) <br>
 P.K. Yu, L.S. Moron-Espiritu, and A.R. Lao. <br>
-*mSystems*
+*mSystems, 7(6), e00691-22.*
 
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans*.**](https://www.biorxiv.org/content/biorxiv/early/2022/06/12/2022.06.09.495576.full.pdf) <br>
 P.K. Yu, L.S. Moron-Espiritu, and A.R. Lao. <br>
