@@ -10,7 +10,7 @@ permalink: /people/
 
 **HONORARY SCIENTIST-IN-RESIDENCE**
 
-[Dr. Eduardo R. Mendoza](https://www.dlsu.edu.ph/colleges/cos/departments/mathematics/adjunct-professor/)
+[Dr. Eduardo R. Mendoza](https://ed-r-mendoza.github.io/)
 
 **GUEST RESEARCHER**
 
