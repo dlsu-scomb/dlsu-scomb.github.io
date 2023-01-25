@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/1/25] ATTACK-AMR Seminar by Dr. Windi Musiazari**](/events/#seminar20230125)
+
 [**[2022/12/15] ATTACK-AMR Christmas Party**](/events/#xmas2022)
 
 [**[2022/12/15] ATTACK-AMR Workshop by Dr. Llewelyn Espiritu**](/events/#workshop20221215)

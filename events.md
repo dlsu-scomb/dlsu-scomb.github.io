@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="seminar20230125"><a/>
+### [2023/1/25] ATTACK-AMR Seminar by Dr. Windi Musiazari
+
+The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistance and bacterial pathogens in the environment" by Dr. Windi Muziasari. It was held at Yuchengco Hall, De La Salle University.
+
+<img src='/assets/seminar20230125.jpg' width='500' />
+
 <a id="xmas2022"><a/>
 ### [2022/12/15] ATTACK-AMR Christmas Party
 
