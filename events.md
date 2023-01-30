@@ -3,12 +3,26 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="ust_visit20230127"><a/>
+### [2023/1/27] ATTACK-AMR Visits UST Team
+
+The ATTACK-AMR team visited the UST team and the collection site at the UST hospital.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/ust-visit-team.jpg' width='420' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/ust-visit-site.jpg' width='300' />
+	</div>
+</div>
+
 <a id="seminar20230125"><a/>
 ### [2023/1/25] ATTACK-AMR Seminar by Dr. Windi Musiazari
 
 The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistance and bacterial pathogens in the environment" by Dr. Windi Muziasari. It was held at Yuchengco Hall, De La Salle University.
 
-<img src='/assets/seminar20230125.jpg' width='500' />
+<img src='/assets/seminar20230125.jpg' width='800' />
 
 <a id="xmas2022"><a/>
 ### [2022/12/15] ATTACK-AMR Christmas Party
@@ -95,7 +109,7 @@ The ATTACK-AMR Philippine team had an online meeting with Japan and Thailand cou
 
 The DLSU team of the ATTACK-AMR Project had their meet & greet session at Cafe Adriatico, Remedios Circle. In the photo below, from left to right, are Robert Unciano, Llewelyn Moron-Espiritu, Angelyn Lao, Paul Yu, Anish Shrestha.
 
-<img src='/assets/meet-greet.jpg' width='500' />
+<img src='/assets/meet-greet.jpg' width='800' />
 
 <a id="meeting1"><a/>
 ### [2022/07/23] ATTACK-AMR Project Meeting
@@ -132,7 +146,7 @@ This news is featured in the [2401 newsletter Vol. 53 No.13, 07/12/2022](https:/
 
 The SComB research unit took part in the 2022 DLSU-PSHS Summer Internship Program. We conducted lecture-based and hands-on workshop on Mathematical Modeling. Three senior high school students from the Philippine Science High School were accepted as our interns. On week 1, lectures were given on introduction mathematical modeling and its workflow, with hands-on workshop on the Python programming language, Wolfram Mathematica software, and LaTeX typesetting using Overleaf. On week 2, the lecture was on scientific communication and the interns were given a problem set on forecasting fuel prices, to be worked as a group. This is to prepare for their final project, to be presented at the last day of the internship program. The interns attended an actual thesis proposal defense by an MS Mathematics student. On week 3, the interns were exposed to various researches at the 2022 DLSU Research Congress. The full details are shown in the <a href='/assets/pshs_2022_syllabus.pdf'>Course Syllabus<a/>.
 
-<img src='/assets/pshs-sip.png' width='500' />
+<img src='/assets/pshs-sip.png' width='800' />
 
 Instructors: 
 - Dr. Angelyn R. Lao
