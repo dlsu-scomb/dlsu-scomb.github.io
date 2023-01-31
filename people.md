@@ -40,6 +40,8 @@ Robert D. Unciano
 
 Jiann Carlo E. Santos
 
+Christian Joseph Ong
+
 **STUDENTS**
 
 Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
