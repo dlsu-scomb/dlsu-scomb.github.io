@@ -11,6 +11,7 @@ layout: home
 [**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics (ATTACK-AMR)**](/projects/#attack_amr)
 
 **NEWS & EVENTS**
+
 [**[2023/02/01] ATTACK-AMR Team Visits UST Team**](/events/#ust_visit20230201)
 
 [**[2023/02/01] DLSU-URCO Recognition to SComB Members**](/events/#urco_recog_2023)
