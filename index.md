@@ -12,6 +12,7 @@ layout: home
 
 **NEWS & EVENTS**
 
+
 [**[2023/02/01] ATTACK-AMR Team Visits UST Team**](/events/#ust_visit20230201)
 
 [**[2023/02/01] DLSU-URCO Recognition to SComB Members**](/events/#urco_recog_2023)
