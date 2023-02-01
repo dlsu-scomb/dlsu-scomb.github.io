@@ -3,22 +3,53 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="ust_visit20230201"><a/>
+### [2023/02/01] ATTACK-AMR Team Visits UST Team
+
+The ATTACK-AMR team visited the UST team for a face-to-face meeting.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/ust-visit-2-1.jpg' height='185' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/ust-visit-2-2.jpg' height='185' />
+	</div>
+</div>
+
+<a id="urco_recog_2023"><a/>
+### [2023/02/01] DLSU-URCO Recognition to SComB Members
+
+SComB members got recognized at the [DLSU-URCO Research Recognition 2023](https://www.facebook.com/dlsuurco/videos/6042117065874950) held at The Verdure, Henry Sy Sr. Hall, De La Salle University.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/urco2023-1.png' height='160' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/urco2023-2.png' height='160' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/urco2023-3.png' height='160' />
+	</div>
+</div>
+
 <a id="ust_visit20230127"><a/>
-### [2023/1/27] ATTACK-AMR Visits UST Team
+### [2023/01/27] ATTACK-AMR Team Visits UST Team
 
 The ATTACK-AMR team visited the UST team and the collection site at the UST hospital.
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
 	<div class="inline-block">
-		<img src='/assets/ust-visit-team.jpg' width='420' />
+		<img src='/assets/ust-visit-team.jpg' height='215' />
 	</div>
 	<div class="inline-block">
-		<img src='/assets/ust-visit-site.jpg' width='300' />
+		<img src='/assets/ust-visit-site.jpg' height='215' />
 	</div>
 </div>
 
 <a id="seminar20230125"><a/>
-### [2023/1/25] ATTACK-AMR Seminar by Dr. Windi Musiazari
+### [2023/01/25] ATTACK-AMR Seminar by Dr. Windi Musiazari
 
 The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistance and bacterial pathogens in the environment" by Dr. Windi Muziasari. It was held at Yuchengco Hall, De La Salle University.
 
@@ -39,7 +70,7 @@ The ATTACK-AMR team had a workshop on "Antimicrobial resistance and its mechanis
 <img src='/assets/workshop20221215.png' width='500' />
 
 <a id="psm"><a/>
-### [2022/12/03] ATTACK-AMR Team joined in the PSM Cluster 1 Symposium
+### [2022/12/03] ATTACK-AMR Team Joined in the PSM Cluster 1 Symposium
 
 The ATTACK-AMR team joined in the PSM Cluster 1 Symposium held at the Ricardo & Dr. Rosita Leong Hall, Ateneo de Manila University.
 
@@ -67,10 +98,10 @@ The SComB research unit presented their research at the [Leave a Nest Hyper Inte
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
 	<div class="inline-block">
-		<img src='/assets/lnest-poster.jpg' height='380' />
+		<img src='/assets/lnest-poster.jpg' height='500' />
 	</div>
 	<div class="inline-block">
-		<img src='/assets/lnest-talk.png' width='500' />
+		<img src='/assets/lnest-talk.png' width='450' />
 	</div>
 </div>
 

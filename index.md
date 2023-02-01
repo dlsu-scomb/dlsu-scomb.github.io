@@ -11,16 +11,19 @@ layout: home
 [**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics (ATTACK-AMR)**](/projects/#attack_amr)
 
 **NEWS & EVENTS**
+[**[2023/02/01] ATTACK-AMR Team Visits UST Team**](/events/#ust_visit20230201)
 
-[**[2023/1/27] ATTACK-AMR Visits UST Team**](/events/#ust_visit20230127)
+[**[2023/02/01] DLSU-URCO Recognition to SComB Members**](/events/#urco_recog_2023)
 
-[**[2023/1/25] ATTACK-AMR Seminar by Dr. Windi Musiazari**](/events/#seminar20230125)
+[**[2023/01/27] ATTACK-AMR Team Visits UST Team**](/events/#ust_visit20230127)
+
+[**[2023/01/25] ATTACK-AMR Seminar by Dr. Windi Musiazari**](/events/#seminar20230125)
 
 [**[2022/12/15] ATTACK-AMR Christmas Party**](/events/#xmas2022)
 
 [**[2022/12/15] ATTACK-AMR Workshop by Dr. Llewelyn Espiritu**](/events/#workshop20221215)
 
-[**[2022/12/03] ATTACK-AMR Team joined in the PSM Cluster 1 Symposium**](/events/#psm)
+[**[2022/12/03] ATTACK-AMR Team Joined in the PSM Cluster 1 Symposium**](/events/#psm)
 
 [**[2022/12/03] ATTACK-AMR Workshop by Dr. Tavan Janvilisri in the PSM Cluster 1 Symposium**](/events/#psm_tavan)
 
