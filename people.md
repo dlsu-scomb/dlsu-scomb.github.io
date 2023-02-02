@@ -24,7 +24,7 @@ permalink: /people/
 
 [Dr. Anish M.S. Shrestha](https://www.a-transposable-element.com/)
 
-[Dr. Llewelyn S. Moron](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505)
+[Dr. Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505)
 
 [Nathalie Rose Lim-Cheng](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en)
 
@@ -32,24 +32,28 @@ permalink: /people/
 
 **RESEARCH ASSISTANT**
 
-[Paul K. Yu](https://yupaulk.github.io/)
+[Paul K. Yu](https://yupaulk.github.io/) (DOST-SEI CIP MS Graduate Fellow | MS Mathematics, DLSU)
 
-[Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa)
+[Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa) (DOST-SEI CIP MS Graduate Fellow)
 
-Robert D. Unciano
+Robert D. Unciano (Project Assistant, ATTACK-AMR | MS Biology, FEU)
 
-Jiann Carlo E. Santos
+Jiann Carlo E. Santos (Research Assistant, ATTACK-AMR | MS Biology, DLSU)
 
-Christian Joseph Ong
+**GRADUATE STUDENTS**
 
-**STUDENTS**
+Osbert Bryan T. Villasis (PhD Mathematics, DLSU)
+
+John Paul S. Guzman (MS Mathematics, DLSU)
+
+Christian Joseph Ong (MS Biology, DLSU)
+
+**SHS STUDENTS**
 
 Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
 
 Edriel B. Guanzon (Philippine Science High School - Bicol Region Campus)
 
 Ethan Matthew T. Templonuevo (Philippine Science High School - Bicol Region Campus)
-
-**INTERNS**
 
 [**ALUMNI**](/alumni)
