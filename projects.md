@@ -27,15 +27,16 @@ We aim to investigate the azole resistance mechanisms in Candida albicans using 
 - Dr. Anish Shrestha [<i class="fa-regular fa-envelope"></i>](mailto:anish.shrestha@dlsu.edu.ph)
 - Dr. Maria Luisa Enriquez [<i class="fa-regular fa-envelope"></i>](mailto:ma.luisa.enriquez@dlsu.edu.ph)
 - Dr. Llewelyn Moron [<i class="fa-regular fa-envelope"></i>](mailto:llewelyn.moron@dlsu.edu.ph)
-- Sherill Tesalona
-- Dr. Edilberto Manahan
-- Joemarie Malana
 - Dr. Evelina Lagamayo
+- Dr. Edilberto Manahan
+- Sherill Tesalona
+- Joemarie Malana
 
-### **Research Assistant**
-- Paul Yu [<i class="fa-regular fa-envelope"></i>](mailto:paul_k_yu@dlsu.edu.ph)
-- Robert Unciano
-- Jiann Carlo Santos
+### **Research/Student Assistants**
+- Paul K. Yu [<i class="fa-regular fa-envelope"></i>](mailto:paul_k_yu@dlsu.edu.ph)
+- Robert D. Unciano [<i class="fa-regular fa-envelope"></i>](mailto:robert.unciano@dlsu.edu.ph)
+- Jiann Carlo E. Santos [<i class="fa-regular fa-envelope"></i>](mailto:jiaan_carlo_santos@dlsu.edu.ph)
+- Christian Joseph N. Ong [<i class="fa-regular fa-envelope"></i>](mailto:christian_joseph_ong@dlsu.edu.ph)
 
 ### **Implementing Agency**
 

@@ -46,7 +46,7 @@ Osbert Bryan T. Villasis (PhD Mathematics, DLSU)
 
 John Paul S. Guzman (MS Mathematics, DLSU)
 
-Christian Joseph Ong (MS Biology, DLSU)
+Christian Joseph N. Ong (MS Biology, DLSU)
 
 **SHS STUDENTS**
 
