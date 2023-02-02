@@ -32,13 +32,13 @@ permalink: /people/
 
 **RESEARCH ASSISTANT**
 
-[Paul K. Yu](https://yupaulk.github.io/) (DOST-SEI CIP MS Graduate Fellow | MS Mathematics, DLSU)
+[Paul K. Yu](https://yupaulk.github.io/) (DOST-SEI CIP MS Graduate Fellow \| MS Mathematics, DLSU)
 
 [Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa) (DOST-SEI CIP MS Graduate Fellow)
 
-Robert D. Unciano (Project Assistant, ATTACK-AMR | MS Biology, FEU)
+Robert D. Unciano (Project Assistant, ATTACK-AMR \| MS Biology, FEU)
 
-Jiann Carlo E. Santos (Research Assistant, ATTACK-AMR | MS Biology, DLSU)
+Jiann Carlo E. Santos (Research Assistant, ATTACK-AMR \| MS Biology, DLSU)
 
 **GRADUATE STUDENTS**
 
