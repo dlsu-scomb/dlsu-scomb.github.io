@@ -3,6 +3,14 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="pgc_20230217"><a/>
+
+### [2023/02/17] ATTACK-AMR Team Attends PacBio Seminar at PGC, UP Diliman
+
+The ATTACk-AMR team attended the PacBio Seminar entitled "Unlock the promise of genomics through HiFi sequencing," hosted by PGC's DNA Sequencing Core Facility and Noveaulab. The speaker is Dr. Zuwei Qian, Director of Marketing - APAC region for PacBio. This was held at the Philippine Genome Center, UP Diliam
+
+<img src='/assets/pgc-2023.jpg' width='500' />
+
 <a id="ust_visit20230201"><a/>
 ### [2023/02/01] ATTACK-AMR Team Visits UST Team
 
