@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/03/02] ATTACK-AMR Team Visits St. Luke's Medical Center - Quezon City**](/events/#slmc_20230302)
+
 [**[2023/02/17] ATTACK-AMR Team Attends PacBio Seminar at PGC, UP Diliman**](/events/#pgc_20230217)
 
 [**[2023/02/01] ATTACK-AMR Team Visits UST Team**](/events/#ust_visit20230201)

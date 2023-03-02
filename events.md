@@ -3,6 +3,20 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="slmc_20230302"><a/>
+### [2023/03/02] ATTACK-AMR Team Visits St. Luke's Medical Center - Quezon City
+
+The ATTACK-AMR team visited St. Luke's Medical Center - Quezon City for a courtesy call with Associate Director Dr. Mark Pierre Dimamay and Vice President Dr. Rodolfo Pagcatipunan of the Research and Biotechnology Division. The team also visited the collection site at the said hospital.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/slmc-1.jpg' height='185' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/slmc-2.jpg' height='185' />
+	</div>
+</div>
+
 <a id="pgc_20230217"><a/>
 
 ### [2023/02/17] ATTACK-AMR Team Attends PacBio Seminar at PGC, UP Diliman
