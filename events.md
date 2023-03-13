@@ -8,12 +8,10 @@ permalink: /events/
 
 The ATTACK-AMR team visited Chinese General Hospital for the collection site visit and a quick tour by the engineers at the sewage treatment plant.
 
-
+<img src='/assets/cgh.jpg' width='500' />
 
 <a id="slmc_20230302"><a/>
 ### [2023/03/02] ATTACK-AMR Team Visits St. Luke's Medical Center - Quezon City
-
-<img src='/assets/cgh.jpg' width='500' />
 
 The ATTACK-AMR team visited St. Luke's Medical Center - Quezon City for a courtesy call with Associate Director Dr. Mark Pierre Dimamay and Vice President Dr. Rodolfo Pagcatipunan of the Research and Biotechnology Division. The team also visited the collection site at the said hospital.
 
