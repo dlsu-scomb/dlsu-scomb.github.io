@@ -3,6 +3,20 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="seminar20230317"><a/>
+### [2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David
+
+The ATTACK-AMR team organized a seminar entitled "Genomic studies of nutrition and the gut microbiome" by Dr. Lawrence David, Co-director of Duke Microbiome Center, Molecular Genetics & Microbiology, Duke University, Durham, North Carolina. It was held at the Yuchengco Hall, De La Salle University.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/poster20230317.png' width='240' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/seminar20230317.jpg' height='215' />
+	</div>
+</div>
+
 <a id="cgh_20230313"><a/>
 ### [2023/03/13] ATTACK-AMR Team Visits Chinese General Hospital
 
@@ -80,9 +94,18 @@ The ATTACK-AMR team visited the UST team and the collection site at the UST hosp
 <a id="seminar20230125"><a/>
 ### [2023/01/25] ATTACK-AMR Seminar by Dr. Windi Musiazari
 
-The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistance and bacterial pathogens in the environment" by Dr. Windi Muziasari. It was held at Yuchengco Hall, De La Salle University.
+The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistance and bacterial pathogens in the environment" by Dr. Windi Muziasari, Founder & CEO of Resistomap, Helsinki, Finland. It was held at the Yuchengco Hall, De La Salle University.
 
-<img src='/assets/seminar20230125.jpg' width='800' />
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/poster20230125.png' width='200' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/seminar20230125.jpg' height='190' />
+	</div>
+</div>
+
+<img src='/assets/.jpg' width='800' />
 
 <a id="xmas2022"><a/>
 ### [2022/12/15] ATTACK-AMR Christmas Party

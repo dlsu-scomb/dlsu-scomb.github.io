@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David**](/events/#seminar20230317)
+
 [**[2023/03/13] ATTACK-AMR Team Visits Chinese General Hospital**](/events/#cgh_20230313)
 
 [**[2023/03/02] ATTACK-AMR Team Visits St. Luke's Medical Center - Quezon City**](/events/#slmc_20230302)
