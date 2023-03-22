@@ -48,6 +48,8 @@ John Paul S. Guzman (MS Mathematics, DLSU)
 
 Christian Joseph N. Ong (MS Biology, DLSU)
 
+Daphne Janelyn Go (BSMS Computer Science, DLSU)
+
 **SHS STUDENTS**
 
 Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
