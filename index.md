@@ -12,6 +12,12 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman**](/events/#seminar20230422)
+
+[**[2023/04/21] SComB Meets with Dr. Lawrence David**](/events/#david20230421)
+
+[**[2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop**](/events/#workshop20230417)
+
 [**[2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David**](/events/#seminar20230317)
 
 [**[2023/03/13] ATTACK-AMR Team Visits Chinese General Hospital**](/events/#cgh_20230313)

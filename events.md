@@ -3,6 +3,27 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="seminar20230422"><a/>
+### [2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman
+
+SComB hosted a virtual graduate seminar for Mr. John Paul Guzman entitled "The mathematics of attentive neural turing machines (ANTM)", which explores the mathematical aspects of the ANTM, a neural network architecture applied to an aspect-based sentiment classification (ABSC) task for sentiment analysis.
+
+<img src='/assets/seminar20230422.png' width='500' />
+
+<a id="david20230421"><a/>
+### [2023/04/21] SComB Meets with Dr. Lawrence David
+
+SComB had a virtual meeting with Dr. Lawrence David to discuss a possible workshop activity and future collaboration on the computational analysis of the human gut microbiome.
+
+<img src='/assets/david.png' width='500' />
+
+<a id="workshop20230417"><a/>
+### [2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop
+
+The ATTACK-AMR team attended the AMR workshop conducted by QIAGEN Singapore. The workshop covers an end-to-end AMR workflow covering library preparation up to bioinformatics analysis. This was held at the Philippine Genome Center, UP Diliman.
+
+<img src='/assets/qiagen.jpg' width='500' />
+
 <a id="seminar20230317"><a/>
 ### [2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David
 
