@@ -24,6 +24,20 @@ The ATTACK-AMR team attended the AMR workshop conducted by QIAGEN Singapore. The
 
 <img src='/assets/qiagen.jpg' width='500' />
 
+<a id="sample20230413"><a/>
+### [2023/04/13] ATTACK-AMR Team Starts Sample Collection
+
+The ATTACK-AMR Team started the sample collection and processing in preparation for DNA extraction and metagenomic sequencing. This will be conducted weekly for six months by the SComB research assistants and graduate students from the Department of Biology, De La Salle University. They were supervised by Dr. Llewelyn Espiritu, Associate Professor of the Department of Biology, De La Salle University during sample processing.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/2023-04-13-sample1.png' width='420' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/2023-04-13-sample2.png' width='300' />
+	</div>
+</div>
+
 <a id="seminar20230317"><a/>
 ### [2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David
 

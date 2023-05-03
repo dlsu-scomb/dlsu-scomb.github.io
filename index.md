@@ -18,6 +18,8 @@ layout: home
 
 [**[2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop**](/events/#workshop20230417)
 
+[**[2023/04/13] ATTACK-AMR Team Starts Sample Collection**](/events/#sample20230413)
+
 [**[2023/03/17] ATTACK-AMR Seminar by Dr. Lawrence David**](/events/#seminar20230317)
 
 [**[2023/03/13] ATTACK-AMR Team Visits Chinese General Hospital**](/events/#cgh_20230313)
