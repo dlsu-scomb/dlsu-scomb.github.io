@@ -79,7 +79,7 @@ The ATTACK-AMR team visited St. Luke's Medical Center - Quezon City for a courte
 
 The ATTACK-AMR team attended the PacBio Seminar entitled "Unlock the promise of genomics through HiFi sequencing," hosted by PGC's DNA Sequencing Core Facility and Noveaulab. The speaker is Dr. Zuwei Qian, Director of Marketing - APAC region for PacBio. This was held at the Philippine Genome Center, UP Diliman
 
-<img src='/assets/pgc-2023.jpg' width='500' />
+<img src='/assets/pgc-2023.jpg' height='245' />
 
 <a id="ust_visit20230201"><a/>
 ### [2023/02/01] ATTACK-AMR Team Visits UST Team
