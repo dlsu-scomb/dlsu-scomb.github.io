@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="fnri20230531"><a/>
+### [2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration
+
+SComB had a virtual meeting with the DOST-FNRI team and Dr. Lawrence David, Associate Director of the Duke Microbiome Center, to plan the possible collaboration among the three institutions.
+
+<img src='/assets/2023-05-31 FNRI.png' width='500' />
+
 <a id="seminar20230422"><a/>
 ### [2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman
 
@@ -11,9 +18,9 @@ SComB hosted a virtual graduate seminar for Mr. John Paul Guzman entitled "The m
 <img src='/assets/seminar20230422.png' width='500' />
 
 <a id="david20230421"><a/>
-### [2023/04/21] SComB Meets with Dr. Lawrence David
+### [2023/04/21] SComB Meets with Duke University
 
-SComB had a virtual meeting with Dr. Lawrence David to discuss a possible workshop activity and future collaboration on the computational analysis of the human gut microbiome.
+SComB had a virtual meeting with Dr. Lawrence David, Associate Director of the Duke Microbiome Center, to discuss a possible workshop activity and future collaboration on the computational analysis of the human gut microbiome.
 
 <img src='/assets/david.png' width='500' />
 

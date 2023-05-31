@@ -12,9 +12,11 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration**](/events/#fnri20230531)
+
 [**[2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman**](/events/#seminar20230422)
 
-[**[2023/04/21] SComB Meets with Dr. Lawrence David**](/events/#david20230421)
+[**[2023/04/21] SComB Meets with Duke University**](/events/#david20230421)
 
 [**[2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop**](/events/#workshop20230417)
 
