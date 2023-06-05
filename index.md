@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/06/05] SComB Presents at the HKUST SIAM Student Chapter Annual Meeting**](/events/#hkust20230605)
+
 [**[2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration**](/events/#fnri20230531)
 
 [**[2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman**](/events/#seminar20230422)
