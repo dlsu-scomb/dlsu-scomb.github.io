@@ -8,6 +8,8 @@ permalink: /events/
 
 SComB presented their study entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*" at the Hong Kong University of Science and Technology (HKUST) Society for Industrial and Applied Mathematics (SIAM) Student Chapter Annual Meeting virtually
 
+<img src='/assets/2023-06-05 HKUST.png' width='500' />
+
 <a id="fnri20230531"><a/>
 ### [2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration
 
