@@ -10,6 +10,13 @@ SComB presented their study entitled "Mathematical modeling of fluconazole resis
 
 <img src='/assets/2023-06-05 HKUST.png' width='500' />
 
+<a id="talk20230531"><a/>
+### [2023/05/31] SComB Attends Systematic Review & Statistical Analysis Workshop
+
+SComB members attended a workshop organized by the Department of Biology, De La Salle University. The workshop is entitled "Overview of systematic review and statistical analysis in basic sciences." The resource speaker is Dr. Ourlad Alzeus Tantengco, a faculty of the DLSU Department of Biology and a recipient of the National Academy of Science and Technology’s (NAST) 2023 Outstanding Young Scientist (OYS) Award.
+
+<img src='/assets/2023-05-31-talk.jpeg' width='500' />
+
 <a id="fnri20230531"><a/>
 ### [2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration
 
