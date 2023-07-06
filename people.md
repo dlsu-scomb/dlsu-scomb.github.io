@@ -48,7 +48,9 @@ John Paul S. Guzman (MS Mathematics, DLSU)
 
 Christian Joseph N. Ong (MS Biology, DLSU)
 
-Daphne Janelyn L. Go (BSMS Computer Science, DLSU)
+Daphne Janelyn L. Go (BS/MS Computer Science, DLSU)
+
+Mark Edward M. Gonzales (BS/MS Computer Science, DLSU)
 
 **SHS STUDENTS**
 
