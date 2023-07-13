@@ -3,6 +3,23 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+
+[**[2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop**](/events/#)
+
+<a id="workshop20230712"><a/>
+### [2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop
+
+SComB organized a two-part R workshop series. This workshop is the first part entitled "Basic R Workshop." The speakers for this workshop are BS/MS Computer Science students, Ms. Daphne Janelyn Go and Mr. Mark Edward Gonzales. It was held in hybrid format via Zoom and at the Research Commons, 2nd Flr. Br. Andrew Gonzalez Bldg., De La Salle University. Shown below are our on-site participants from our upcoming collaborators from the DOST-FNRI.
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/2023-07-12-r-poster1.png' width='215' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/2023-07-12-r-workshop1.png' height='215' />
+	</div>
+</div>
+
 <a id="hkust20230605"><a/>
 ### [2023/06/05] SComB Presents at the HKUST SIAM Student Chapter Annual Meeting
 
