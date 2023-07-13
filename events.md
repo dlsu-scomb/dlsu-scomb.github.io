@@ -11,6 +11,8 @@ permalink: /events/
 
 SComB organized a two-part R workshop series. This workshop is the first part entitled "Basic R Workshop." The speakers for this workshop are BS/MS Computer Science students, Ms. Daphne Janelyn Go and Mr. Mark Edward Gonzales. It was held in hybrid format via Zoom and at the Research Commons, 2nd Flr. Br. Andrew Gonzalez Bldg., De La Salle University. Shown below are our on-site participants from our upcoming collaborators from the DOST-FNRI.
 
+The training materials can be accessed from this [Kaggle notebook](https://www.kaggle.com/code/daphnejanelyngo/basics-to-r-workshop-part-1).
+
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
 	<div class="inline-block">
 		<img src='/assets/2023-07-12-r-poster1.png' width='215' />
