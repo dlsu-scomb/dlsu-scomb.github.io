@@ -4,7 +4,18 @@ title: News & Events
 permalink: /events/
 ---
 
-[**[2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop**](/events/#)
+<a id="smb2023"><a/>
+### [2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023
+
+SComB presented at the Society for Mathematical Biology Annual Meeting 2023: Celebrating SMB's 50th Anniversary, held at the Ohio State University, Columbus, Ohio. Dr. Angelyn Lao presented at the [Minisymposium (MS01)](https://2023.smb.org/MS01/), entitled "A reaction network analysis of insulin signaling," and at the [Poster Session (PS01)](https://2023.smb.org/PS01/), entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*."
+
+<img src='/assets/smb2023-1.png' width='800' />
+
+<img src='/assets/smb2023-2.png' width='800' />
+
+SComB organized a two-part R workshop series. This workshop is the first part entitled "Basic R Workshop." The speakers for this workshop are BS/MS Computer Science students, Ms. Daphne Janelyn Go and Mr. Mark Edward Gonzales. It was held in hybrid format via Zoom and at the Research Commons, 2nd Flr. Br. Andrew Gonzalez Bldg., De La Salle University. Shown below are our on-site participants from our upcoming collaborators from the DOST-FNRI.
+
+The training materials can be accessed from this [Kaggle notebook](https://www.kaggle.com/code/daphnejanelyngo/basics-to-r-workshop-part-1).
 
 <a id="workshop20230712"><a/>
 ### [2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop
@@ -27,42 +38,42 @@ The training materials can be accessed from this [Kaggle notebook](https://www.k
 
 SComB presented their study entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*" at the Hong Kong University of Science and Technology (HKUST) Society for Industrial and Applied Mathematics (SIAM) Student Chapter Annual Meeting virtually
 
-<img src='/assets/2023-06-05 HKUST.png' width='500' />
+<img src='/assets/2023-06-05 HKUST.png' width='800' />
 
 <a id="talk20230531"><a/>
 ### [2023/05/31] SComB Attends Systematic Review & Statistical Analysis Workshop
 
 SComB members attended a workshop organized by the Department of Biology, De La Salle University. The workshop is entitled "Overview of systematic review and statistical analysis in basic sciences." The resource speaker is Dr. Ourlad Alzeus Tantengco, a faculty of the DLSU Department of Biology and a recipient of the National Academy of Science and Technology’s (NAST) 2023 Outstanding Young Scientist (OYS) Award.
 
-<img src='/assets/2023-05-31-talk.jpeg' width='500' />
+<img src='/assets/2023-05-31-talk.jpeg' width='800' />
 
 <a id="fnri20230531"><a/>
 ### [2023/05/31] SComB Meets with DOST-FNRI and Duke University for Collaboration
 
 SComB had a virtual meeting with the DOST-FNRI team and Dr. Lawrence David, Associate Director of the Duke Microbiome Center, to plan the possible collaboration among the three institutions.
 
-<img src='/assets/2023-05-31 FNRI.png' width='500' />
+<img src='/assets/2023-05-31 FNRI.png' width='800' />
 
 <a id="seminar20230422"><a/>
 ### [2023/04/22] SComB Hosts Graduate Seminar for Mr. John Paul Guzman
 
 SComB hosted a virtual graduate seminar for Mr. John Paul Guzman entitled "The mathematics of attentive neural turing machines (ANTM)", which explores the mathematical aspects of the ANTM, a neural network architecture applied to an aspect-based sentiment classification (ABSC) task for sentiment analysis.
 
-<img src='/assets/seminar20230422.png' width='500' />
+<img src='/assets/seminar20230422.png' width='800' />
 
 <a id="david20230421"><a/>
 ### [2023/04/21] SComB Meets with Duke University
 
 SComB had a virtual meeting with Dr. Lawrence David, Associate Director of the Duke Microbiome Center, to discuss a possible workshop activity and future collaboration on the computational analysis of the human gut microbiome.
 
-<img src='/assets/david.png' width='500' />
+<img src='/assets/david.png' width='800' />
 
 <a id="workshop20230417"><a/>
 ### [2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop
 
 The ATTACK-AMR team attended the AMR workshop conducted by QIAGEN Singapore. The workshop covers an end-to-end AMR workflow covering library preparation up to bioinformatics analysis. This was held at the Philippine Genome Center, UP Diliman.
 
-<img src='/assets/qiagen.jpg' width='500' />
+<img src='/assets/qiagen.jpg' width='800' />
 
 <a id="sample20230413"><a/>
 ### [2023/04/13] ATTACK-AMR Team Starts Sample Collection
@@ -97,7 +108,7 @@ The ATTACK-AMR team organized a seminar entitled "Genomic studies of nutrition a
 
 The ATTACK-AMR team visited Chinese General Hospital for the collection site visit and a quick tour by the engineers at the sewage treatment plant.
 
-<img src='/assets/cgh.jpg' width='500' />
+<img src='/assets/cgh.jpg' width='800' />
 
 <a id="slmc_20230302"><a/>
 ### [2023/03/02] ATTACK-AMR Team Visits St. Luke's Medical Center - Quezon City
@@ -194,14 +205,14 @@ The ATTACK-AMR team had a Christmas Party at Romantic Baboy.
 
 The ATTACK-AMR team had a workshop on "Antimicrobial resistance and its mechanisms" by Dr. Llewelyn Espiritu. It was held at the Research Commons, De La Salle University.
 
-<img src='/assets/workshop20221215.png' width='500' />
+<img src='/assets/workshop20221215.png' width='800' />
 
 <a id="psm"><a/>
 ### [2022/12/03] ATTACK-AMR Team Joined in the PSM Cluster 1 Symposium
 
 The ATTACK-AMR team joined in the PSM Cluster 1 Symposium held at the Ricardo & Dr. Rosita Leong Hall, Ateneo de Manila University.
 
-<img src='/assets/psm.jpg' width='500' />
+<img src='/assets/psm.jpg' width='800' />
 
 <a id="psm_tavan"><a/>
 ### [2022/12/03] ATTACK-AMR Workshop by Dr. Tavan Janvilisri in the PSM Cluster 1 Symposium
@@ -209,14 +220,14 @@ The ATTACK-AMR team joined in the PSM Cluster 1 Symposium held at the Ricardo & 
 In the PSM cluster 1 symposium, Dr. Tavan Janvilisri, Professor, Department of Biochemistry, Faculty of Science Mahidol University, gave a talk on "Alternative Therapeutics to Tackle AMR Pathogens (ATTACK-
 AMR) A case of *Clostridioides difficile*"
 
-<img src='/assets/psm_tavan.jpg' width='500' />
+<img src='/assets/psm_tavan.jpg' width='800' />
 
 <a id="psm_joy"><a/>
 ### [2022/12/03] ATTACK-AMR Workshop by Dr. Joy Scaria in the PSM Cluster 1 Symposium
 
 In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department of Veterinary and Biomedical Sciences, South Dakota State University, gave a talk on "Genomics Based Detection of Foodborne Pathogens to Improve Food Safety"
 
-<img src='/assets/psm_joy.jpg' width='500' />
+<img src='/assets/psm_joy.jpg' width='800' />
 
 <a id="lnest_hicph2022"><a/>
 ### [2022/11/05] SComB's Poster Entry and Research Splash at the Leave a Nest Hyper Interdisciplinary Conference Philippines 2022
@@ -237,25 +248,25 @@ The SComB research unit presented their research at the [Leave a Nest Hyper Inte
 
 The SComB research unit presented their research at the  [Annual PAASE Meeting & Symposium 2022](https://apams2022.paase.org/), with a poster entitled "Mathematical modeling approach to drug target identification in *Candida albicans* ergosterol biosynthesis pathway".
 
-<img src='/assets/apams2022-poster.png' width='500' />
+<img src='/assets/apams2022-poster.png' width='800' />
 
 <a id="dost2"><a/>
 ### [2022/09/23] SComB Posters won First and Third Place in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
 
 The SComB research unit won the First and Third Place in the technical poster competition under the mathematical and computational sciences category in the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference. The recording can be seen in the [UP Diliman College of Science Facebook page](https://www.facebook.com/updcollegeofscience/videos/1259858458124312).
 
-<img src='/assets/dost-poster-win1.png' width='500' />
+<img src='/assets/dost-poster-win1.png' width='800' />
 
-<img src='/assets/dost-poster-win2.png' width='500' />
+<img src='/assets/dost-poster-win2.png' width='800' />
 
 <a id="dost1"><a/>
 ### [2022/09/22-23] SComB's Poster Entry to the 10th DOST-SEI ASTHRDP Graduate Scholars' Conference
 
 The SComB research unit took part in the [10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://asthrdpconference2022.science.upd.edu.ph/) with two poster entries.
 
-<img src='/assets/dost-poster1.png' width='500' />
+<img src='/assets/dost-poster1.png' width='800' />
 
-<img src='/assets/dost-poster2.png' width='500' />
+<img src='/assets/dost-poster2.png' width='800' />
 
 <a id="meeting2"><a/>
 ### [2022/08/25] ATTACK-AMR Project Meeting with Japanese Counterpart
@@ -279,14 +290,14 @@ The ATTACK-AMR Philippine team had an online meeting to discuss about the procur
 
 On Day 3 of the DLSU Research Congress 2022, the Best Poster Award was conferred to the SComB research unit in their poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling".
 
-<img src='/assets/best-poster.png' width='500' />
+<img src='/assets/best-poster.png' width='800' />
 
 <a id="dlsu_rescon_2022"><a/>
 ### [2022/07/07] [SComB's Poster Entry to the DLSU Research Congress 2022](https://www.youtube.com/watch?v=tDnc9jFLe70)
 
 The SComB research unit took part in the [DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon) with a poster entry entitled "Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling". Using mathematical modeling, we aim to identify possible drug targets in the ergosterol pathway of *Candida albicans*.  
 
-<a href='https://www.youtube.com/watch?v=tDnc9jFLe70'><img src='/assets/poster.png' width='500' /></a>
+<a href='https://www.youtube.com/watch?v=tDnc9jFLe70'><img src='/assets/poster.png' width='800' /></a>
 
 <a id="lnest_grant"><a/>
 ### [2022/06/28] [LNest Grant Global Challenge Award 2022](https://grant.lne.st/research/global-challenge-award/)

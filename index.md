@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023**](/events/#smb2023)
+
 [**[2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop**](/events/#workshop20230712)
 
 [**[2023/06/05] SComB Presents at the HKUST SIAM Student Chapter Annual Meeting**](/events/#hkust20230605)
