@@ -38,7 +38,7 @@ permalink: /people/
 
 Robert D. Unciano (Project Assistant, ATTACK-AMR \| MS Biology, FEU)
 
-Jiann Carlo E. Santos (Research Assistant, ATTACK-AMR \| MS Biology, DLSU)
+Jiaan Carlo E. Santos (Research Assistant, ATTACK-AMR \| MS Biology, DLSU)
 
 **GRADUATE STUDENTS**
 
