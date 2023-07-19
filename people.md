@@ -52,12 +52,4 @@ Daphne Janelyn L. Go (BS/MS Computer Science, DLSU)
 
 Mark Edward M. Gonzales (BS/MS Computer Science, DLSU)
 
-**SHS STUDENTS**
-
-Gerard C. Aurellano (Philippine Science High School - Bicol Region Campus)
-
-Edriel B. Guanzon (Philippine Science High School - Bicol Region Campus)
-
-Ethan Matthew T. Templonuevo (Philippine Science High School - Bicol Region Campus)
-
 [**ALUMNI**](/alumni)
