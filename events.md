@@ -4,6 +4,22 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="workshop20230719"><a/>
+### [2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop
+
+SComB organized a two-part R workshop series. This workshop is the second part entitled "R for Computational Biology Workshop." The speakers for this workshop are Mr. Jiaan Carlo Santos, MS Biology student and Mr. Paul Yu, MS Mathematics student. It was held in hybrid format via Zoom and at the Research Commons, 2nd Flr. Br. Andrew Gonzalez Bldg., De La Salle University. Shown below are our on-site participants from our upcoming collaborators from the DOST-FNRI.
+
+The training materials can be accessed from this [Kaggle notebook](https://www.kaggle.com/code/yupaulk/scomb-x-bioinfolab-r-workshop-part-2).
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+	<div class="inline-block">
+		<img src='/assets/2023-07-19-r-poster2.png' width='215' />
+	</div>
+	<div class="inline-block">
+		<img src='/assets/2023-07-19-r-workshop2.png' height='230' />
+	</div>
+</div>
+
 <a id="smb2023"><a/>
 ### [2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023
 
@@ -12,10 +28,6 @@ SComB presented at the Society for Mathematical Biology Annual Meeting 2023: Cel
 <img src='/assets/smb2023-1.png' width='800' />
 
 <img src='/assets/smb2023-2.png' width='800' />
-
-SComB organized a two-part R workshop series. This workshop is the first part entitled "Basic R Workshop." The speakers for this workshop are BS/MS Computer Science students, Ms. Daphne Janelyn Go and Mr. Mark Edward Gonzales. It was held in hybrid format via Zoom and at the Research Commons, 2nd Flr. Br. Andrew Gonzalez Bldg., De La Salle University. Shown below are our on-site participants from our upcoming collaborators from the DOST-FNRI.
-
-The training materials can be accessed from this [Kaggle notebook](https://www.kaggle.com/code/daphnejanelyngo/basics-to-r-workshop-part-1).
 
 <a id="workshop20230712"><a/>
 ### [2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop

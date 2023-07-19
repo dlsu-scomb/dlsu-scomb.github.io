@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop**](/events/#workshop20230719)
+
 [**[2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023**](/events/#smb2023)
 
 [**[2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop**](/events/#workshop20230712)
