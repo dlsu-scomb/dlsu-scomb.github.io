@@ -46,10 +46,10 @@ Osbert Bryan T. Villasis (PhD Mathematics, DLSU)
 
 John Paul S. Guzman (MS Mathematics, DLSU)
 
-Christian Joseph N. Ong (MS Biology, DLSU)
+Christian Joseph N. Ong (Student Assistant, ATTACK-AMR \| MS Biology, DLSU)
 
-Daphne Janelyn L. Go (BS/MS Computer Science, DLSU)
+Daphne Janelyn L. Go (Student Assistant, ATTACK-AMR \| BS/MS Computer Science, DLSU)
 
-Mark Edward M. Gonzales (BS/MS Computer Science, DLSU)
+Mark Edward M. Gonzales (Student Assistant, ATTACK-AMR \| BS/MS Computer Science, DLSU)
 
 [**ALUMNI**](/alumni)
