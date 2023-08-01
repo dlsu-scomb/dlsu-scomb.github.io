@@ -8,7 +8,7 @@ permalink: /papers/
 2023 <br>
 [**Protein Embeddings Improve Phage-Host Interaction Prediction.**](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0289030) <br>
 M.E.M. Gonzales, J.C. Ureta, and A.M.S. Shrestha. <br>
-*PLOS One.*
+*PLOS One, 18(7), e0289030.*
 
 2022 <br>
 [**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans*.**](https://journals.asm.org/doi/10.1128/msystems.00691-22) <br>
