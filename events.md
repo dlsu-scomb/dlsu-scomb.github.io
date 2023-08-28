@@ -4,6 +4,20 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="visit20230821"><a/>
+### [2023/08/21] SComB Visits SBI Tokyo
+
+SComB head Dr. Angelyn Lao and member Paul Yu visited [The Systems Biology Institute](https://www.sbi.jp/) Tokyo headquarters in Japan. We had a meeting with Dr. Samik Ghosh to discuss about a possible collaboration. Dr. Anish Shrestha also attended the meeting virtually.
+
+<img src='/assets/visit-sbi-tokyo.png' width='400' />
+
+<a id="visit20230817"><a/>
+### [2023/08/17] SComB Visits Mahidol University
+
+SComB member Dr. Llewelyn Espiritu visited the ATTACK-AMR Thailand counterpart, Dr. Janvilisri Tavan at Mahidol University. She presented a talk on Antimicrobial Resistance, followed by a tour of the facility at Dr. Tavan's lab. Shown below are Dr. Tavan (4th from the left), members of his lab, and Dr. Espiritu (6th from the left).
+
+<img src='/assets/mahidol-visit.jpg' width='800' />
+
 <a id="workshop20230719"><a/>
 ### [2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop
 
