@@ -14,6 +14,8 @@ layout: home
 
 [**[2023/08/21] SComB Visits SBI Tokyo**](/events/#visit20230821)
 
+[**[2023/08/20-25] SComB Presents at ICIAM2023 Tokyo**](/events/#iciam2023)
+
 [**[2023/08/17] SComB Visits Mahidol University**](/events/#visit20230817)
 
 [**[2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop**](/events/#workshop20230719)

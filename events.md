@@ -11,6 +11,15 @@ SComB head Dr. Angelyn Lao and member Paul Yu visited [The Systems Biology Insti
 
 <img src='/assets/visit-sbi-tokyo.png' width='400' />
 
+<a id="iciam2023"><a/>
+### [2023/08/20-25] SComB Presents at ICIAM2023 Tokyo
+
+SComB members Paul Yu and Feeroz Yusoph presented their poster on Day 3 of the [ICIAM2023](https://iciam2023.org/) conference. SComB head Dr. Angelyn Lao presented in the EASIAM minisymposium on Day 5.
+
+<img src='/assets/iciam2023-1.jpeg' width='400' />
+
+<img src='/assets/iciam2023-2.jpg' width='400' />
+
 <a id="visit20230817"><a/>
 ### [2023/08/17] SComB Visits Mahidol University
 
