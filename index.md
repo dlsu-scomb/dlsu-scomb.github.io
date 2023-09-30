@@ -12,17 +12,19 @@ layout: home
 
 **NEWS & EVENTS**
 
-[**[2023/09/29 - 2023/10/01] SComB Attends Philippine Datathon 2023**](/events/#datathon20230930)
+[**[2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023**](/events/#datathon20230930)
+
+[**[2023/09/25-2023/09/27] SComB Visits Taiwan Universities**](/events/#taiwan20230925)
 
 [**[2023/08/21] SComB Visits SBI Tokyo**](/events/#visit20230821)
 
-[**[2023/08/20-25] SComB Presents at ICIAM2023 Tokyo**](/events/#iciam2023)
+[**[2023/08/20-2023/08/25] SComB Presents at ICIAM2023 Tokyo**](/events/#iciam2023)
 
 [**[2023/08/17] SComB Visits Mahidol University**](/events/#visit20230817)
 
 [**[2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop**](/events/#workshop20230719)
 
-[**[2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023**](/events/#smb2023)
+[**[2023/07/16-2023/07/21] SComB Presents at the SMB 2023**](/events/#smb2023)
 
 [**[2023/07/12] SComB x BioinfoLab Organizes Basic R Workshop**](/events/#workshop20230712)
 
@@ -36,7 +38,7 @@ layout: home
 
 [**[2023/04/21] SComB Meets with Duke University**](/events/#david20230421)
 
-[**[2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop**](/events/#workshop20230417)
+[**[2023/04/17-2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop**](/events/#workshop20230417)
 
 [**[2023/04/13] ATTACK-AMR Team Starts Sample Collection**](/events/#sample20230413)
 
@@ -86,4 +88,4 @@ layout: home
 
 [**[2022/06/28] LNest Grant Global Challenge Award 2022**](/events/#lnest_grant)
 
-[**[2022/06/20 - 2022/07/11] DLSU-PSHS Summer Internship Program: Mathematical Modeling**](/events/#pshs_2022)
+[**[2022/06/20-2022/07/11] DLSU-PSHS Summer Internship Program: Mathematical Modeling**](/events/#pshs_2022)

@@ -5,25 +5,35 @@ permalink: /events/
 ---
 
 <a id="datathon20230930"><a/>
-### [2023/09/29 - 2023/10/01] SComB Attends Philippine Datathon 2023
+### [2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023
 
-SComB head Dr. Angelyn Lao is part of the organizing committee of the [Philippine Datathon 2023](https://www.philippinedatathon.org/) and served as the emcee of the event. SComB member Paul Yu assisted in the ushering, documentation, and logistics of the said event.
+SComB head Prof. Angelyn Lao is part of the organizing committee of the [Philippine Datathon 2023](https://www.philippinedatathon.org/) and served as the emcee of the event. SComB member Paul Yu assisted in the ushering, documentation, and logistics of the said event.
 
 <img src='/assets/2023-09-30-datathon-emcee.jpg' width='400' />
 
 <img src='/assets/2023-09-29-datathon-dinner.jpg' width='400' />
 
+<a id="taiwan20230925"><a/>
+### [2023/09/25-2023/09/27] SComB Visits Taiwan Universities
+
+SComB head Prof. Angelyn Lao presented in [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) and [National Taiwan Normal University](https://cantor.math.ntnu.edu.tw/index.php/2023/09/05/20230927forum/) as part of the 2023 Research and Education Forum of Japan, Philippines and Taiwan.
+
+<img src='/assets/2023-09-27-Taiwan-1.jpg' width='400' />
+
+<img src='/assets/2023-09-27-Taiwan-2.jpg' width='400' />
+
+
 <a id="visit20230821"><a/>
 ### [2023/08/21] SComB Visits SBI Tokyo
 
-SComB head Dr. Angelyn Lao and member Paul Yu visited [The Systems Biology Institute](https://www.sbi.jp/) Tokyo headquarters in Japan. We had a meeting with Dr. Samik Ghosh to discuss about a possible collaboration. Dr. Anish Shrestha also attended the meeting virtually.
+SComB head Prof. Angelyn Lao and member Paul Yu visited [The Systems Biology Institute](https://www.sbi.jp/) Tokyo headquarters in Japan. We had a meeting with Dr. Samik Ghosh to discuss about a possible collaboration. Dr. Anish Shrestha also attended the meeting virtually.
 
 <img src='/assets/visit-sbi-tokyo.png' width='400' />
 
 <a id="iciam2023"><a/>
-### [2023/08/20-25] SComB Presents at ICIAM2023 Tokyo
+### [2023/08/20-2023/08/25] SComB Presents at ICIAM2023 Tokyo
 
-SComB members Paul Yu and Feeroz Yusoph presented their poster on Day 3 of the [ICIAM2023](https://iciam2023.org/) conference. SComB head Dr. Angelyn Lao presented in the EASIAM minisymposium on Day 5.
+SComB members Paul Yu and Feeroz Yusoph presented their poster on Day 3 of the [ICIAM2023](https://iciam2023.org/) conference. SComB head Prof. Angelyn Lao presented in the EASIAM minisymposium on Day 5.
 
 <img src='/assets/iciam2023-1.jpeg' width='400' />
 
@@ -53,9 +63,9 @@ The training materials can be accessed from this [Kaggle notebook](https://www.k
 </div>
 
 <a id="smb2023"><a/>
-### [2023/07/16 - 2023/07/21] SComB Presents at the SMB 2023
+### [2023/07/16-2023/07/21] SComB Presents at the SMB 2023
 
-SComB presented at the Society for Mathematical Biology Annual Meeting 2023: Celebrating SMB's 50th Anniversary, held at the Ohio State University, Columbus, Ohio. Dr. Angelyn Lao presented at the [Minisymposium (MS01)](https://2023.smb.org/MS01/), entitled "A reaction network analysis of insulin signaling," and at the [Poster Session (PS01)](https://2023.smb.org/PS01/), entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*."
+SComB presented at the Society for Mathematical Biology Annual Meeting 2023: Celebrating SMB's 50th Anniversary, held at the Ohio State University, Columbus, Ohio. Prof. Angelyn Lao presented at the [Minisymposium (MS01)](https://2023.smb.org/MS01/), entitled "A reaction network analysis of insulin signaling," and at the [Poster Session (PS01)](https://2023.smb.org/PS01/), entitled "Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*."
 
 <img src='/assets/smb2023-1.png' width='800' />
 
@@ -113,7 +123,7 @@ SComB had a virtual meeting with Dr. Lawrence David, Associate Director of the D
 <img src='/assets/david.png' width='800' />
 
 <a id="workshop20230417"><a/>
-### [2023/04/17 - 2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop
+### [2023/04/17-2023/04/19] ATTACK-AMR Team Attends QIAGEN Workshop
 
 The ATTACK-AMR team attended the AMR workshop conducted by QIAGEN Singapore. The workshop covers an end-to-end AMR workflow covering library preparation up to bioinformatics analysis. This was held at the Philippine Genome Center, UP Diliman.
 
@@ -346,7 +356,7 @@ The SComB research unit took part in the [DLSU Research Congress 2022](https://w
 <a id="lnest_grant"><a/>
 ### [2022/06/28] [LNest Grant Global Challenge Award 2022](https://grant.lne.st/research/global-challenge-award/)
 
-Congratulations to Mr. Paul K. Yu, a research assistant at the Systems & Computational Biology (SComB) research unit of the College of Science Center for Natural Sciences and Environmental Research (CENSER) and an MS graduate fellow of the Department of Science and Technology-Science Education Institute (DOST-SEI), for being selected as one of the awardees of the LNest Grant Global Challenge Award 2022. The project title is “Systems biology approach of understanding azole resistance mechanisms in *Candida albicans*.” The research is in collaboration with Dr. Llewelyn S. Moron-Espiritu from the Department of Biology of De La Salle University and a member of the SComB research unit, and Dr. Angelyn R. Lao from the Department of Mathematics and Statistics of De La Salle University, and the head of the SComB research unit.
+Congratulations to Mr. Paul K. Yu, a research assistant at the Systems & Computational Biology (SComB) research unit of the College of Science Center for Natural Sciences and Environmental Research (CENSER) and an MS graduate fellow of the Department of Science and Technology-Science Education Institute (DOST-SEI), for being selected as one of the awardees of the LNest Grant Global Challenge Award 2022. The project title is “Systems biology approach of understanding azole resistance mechanisms in *Candida albicans*.” The research is in collaboration with Dr. Llewelyn S. Moron-Espiritu from the Department of Biology of De La Salle University and a member of the SComB research unit, and Prof. Angelyn R. Lao from the Department of Mathematics and Statistics of De La Salle University, and the head of the SComB research unit.
 
 Project summary:
 
@@ -355,14 +365,14 @@ Candidiasis is reported as the most common fungal infection in the critical care
 This news is featured in the [2401 newsletter Vol. 53 No.13, 07/12/2022](https://www.dlsu.edu.ph/wp-content/uploads/pdf/stratcom/2401/2022/2401V53N13.pdf) of De La Salle University, and also announced in the [Leave-a-Nest Website](https://global.lne.st/news/ph/2022/08/31/lvnsgrantph/).
 
 <a id="pshs_2022"><a/>
-### [2022/06/20 - 2022/07/11] DLSU-PSHS Summer Internship Program: Mathematical Modeling
+### [2022/06/20-2022/07/11] DLSU-PSHS Summer Internship Program: Mathematical Modeling
 
 The SComB research unit took part in the 2022 DLSU-PSHS Summer Internship Program. We conducted lecture-based and hands-on workshop on Mathematical Modeling. Three senior high school students from the Philippine Science High School were accepted as our interns. On week 1, lectures were given on introduction mathematical modeling and its workflow, with hands-on workshop on the Python programming language, Wolfram Mathematica software, and LaTeX typesetting using Overleaf. On week 2, the lecture was on scientific communication and the interns were given a problem set on forecasting fuel prices, to be worked as a group. This is to prepare for their final project, to be presented at the last day of the internship program. The interns attended an actual thesis proposal defense by an MS Mathematics student. On week 3, the interns were exposed to various researches at the 2022 DLSU Research Congress. The full details are shown in the <a href='/assets/pshs_2022_syllabus.pdf'>Course Syllabus<a/>.
 
 <img src='/assets/pshs-sip.png' width='800' />
 
 Instructors: 
-- Dr. Angelyn R. Lao
+- Prof. Angelyn R. Lao
 - Paul K. Yu (Teaching Assistant)
 
 Interns: 
