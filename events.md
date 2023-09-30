@@ -4,6 +4,15 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="datathon20230930"><a/>
+### [2023/09/29 - 2023/10/01] SComB Attends Philippine Datathon 2023
+
+SComB head Dr. Angelyn Lao is part of the organizing committee of the [Philippine Datathon 2023](https://www.philippinedatathon.org/) and served as the emcee of the event. SComB member Paul Yu assisted in the ushering, documentation, and logistics of the said event.
+
+<img src='/assets/2023-09-30-datathon-emcee.jpg' width='400' />
+
+<img src='/assets/2023-09-29-datathon-dinner.jpg' width='400' />
+
 <a id="visit20230821"><a/>
 ### [2023/08/21] SComB Visits SBI Tokyo
 
