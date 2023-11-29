@@ -3,11 +3,17 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="seams20231122"><a/>
+### [2023/11/22-2023/12/01] SComB Attends SEAMS School 2023
+
+SComB research fellows, Paul Yu and Feeroz Yusoph, attended the [SEAMS School 2023 Scientific Computing for Differential Equations and Applications](https://math.upd.edu.ph/seamsschoolmanila2023/). 
+
+<img src='/assets/2023-11-22-seams2023.jpg' width='400' />
 
 <a id="datathon20230930"><a/>
 ### [2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023
 
-SComB head Prof. Angelyn Lao is part of the organizing committee of the [Philippine Datathon 2023](https://www.philippinedatathon.org/) and served as the emcee of the event. SComB member Paul Yu assisted in the ushering, documentation, and logistics of the said event.
+SComB head Prof. Angelyn Lao is part of the organizing committee of the [Philippine Datathon 2023](https://www.philippinedatathon.org/) and served as the emcee of the event. SComB research fellow Paul Yu assisted in the ushering, documentation, and logistics of the said event.
 
 <img src='/assets/2023-09-30-datathon-emcee.jpg' width='400' />
 

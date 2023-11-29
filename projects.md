@@ -63,6 +63,7 @@ We aim to investigate the azole resistance mechanisms in Candida albicans using 
 
 <a href='https://www.ust.edu.ph/'><img src='/assets/ust-logo.jpg' width='100' height='100' /></a>
 <a href='https://www.stlukes.com.ph/'><img src='/assets/slmc-logo.jpg' width='100' height='100' /></a>
+<a href='https://cghmc.com.ph/'><img src='/assets/chi-gen-logo.png' width='100' height='100' /></a>
 
 ### **Funding Agencies** 
 
