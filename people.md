@@ -32,24 +32,39 @@ permalink: /people/
 
 **RESEARCH ASSISTANT**
 
-[Paul K. Yu](https://yupaulk.github.io/) (DOST-SEI CIP MS Graduate Fellow \| MS Mathematics, DLSU)
+[Paul K. Yu](https://yupaulk.github.io/), DOST-SEI CIP MS Graduate Fellow, MS Mathematics, De La Salle University
 
-[Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa) (DOST-SEI CIP MS Graduate Fellow)
+[Feeroz R. Yusoph](https://www.linkedin.com/in/feeroz-yusoph/?originalSubdomain=sa), DOST-SEI CIP MS Graduate Fellow
 
-Robert D. Unciano (Project Assistant, ATTACK-AMR \| MS Biology, FEU)
+Robert D. Unciano, MS Biology, Far Eastern University
 
-Jiaan Carlo E. Santos (Research Assistant, ATTACK-AMR \| MS Biology, DLSU)
+Jiaan Carlo E. Santos, MS Biology, De La Salle University
 
 **GRADUATE STUDENTS**
 
-Osbert Bryan T. Villasis (PhD Mathematics, DLSU)
+John Paul S. Guzman, MS Mathematics, De La Salle University
 
-John Paul S. Guzman (MS Mathematics, DLSU)
+Lara Gabrielle F. Lim, MS Mathematics, De La Salle University
 
-Christian Joseph N. Ong (Student Assistant, ATTACK-AMR \| MS Biology, DLSU)
+[Christian Joseph N. Ong](https://scholar.google.com/citations?user=DULhdgIAAAAJ&hl=en&oi=ao), MS Biology, De La Salle University
 
-Daphne Janelyn L. Go (Student Assistant, ATTACK-AMR \| BS/MS Computer Science, DLSU)
+Daphne Janelyn L. Go, BS/MS Computer Science, De La Salle University
 
-Mark Edward M. Gonzales (Student Assistant, ATTACK-AMR \| BS/MS Computer Science, DLSU)
+[Mark Edward M. Gonzales](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en&oi=ao), BS/MS Computer Science, De La Salle University
+
+**INTERNS**
+
+2023/10/04 - Present &nbsp; &nbsp; Prince Matthew F. Sy, Grade 12, De La Salle University Senior High 
+School
+
+2023/10/04 - Present &nbsp; &nbsp; Jon Raymond H. Valdez, Grade 12, De La Salle University Senior High 
+School
+
+2023/10/04 - Present &nbsp; &nbsp; Karl Anthony S. Rasing, Grade 12, De La Salle University Senior High 
+School
+
+2023/10/04 - Present &nbsp; &nbsp; Richard Ron O. DelaRosa, Grade 12, De La Salle University Senior High 
+School
+
 
 [**ALUMNI**](/alumni)
