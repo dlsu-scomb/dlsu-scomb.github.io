@@ -69,13 +69,13 @@ School
 2023/10/04 - Present &nbsp; &nbsp; Airene Moradas, Grade 12, De La Salle University Senior High 
 School
 
-2023/10/04 - Present &nbsp; &nbsp; Christan Angelo Coronel, Grade 12, De La Salle University Senior High 
+2023/10/04 - Present &nbsp; &nbsp; Christan Angelo A. Coronel, Grade 12, De La Salle University Senior High 
 School
 
-2023/10/04 - Present &nbsp; &nbsp; Kyla Marie Yee, Grade 12, De La Salle University Senior High 
+2023/10/04 - Present &nbsp; &nbsp; Kyla Marie C. Yee, Grade 12, De La Salle University Senior High 
 School
 
-2023/10/04 - Present &nbsp; &nbsp; Mary Therese Lourdes Tenorio, Grade 12, De La Salle University Senior High 
+2023/10/04 - Present &nbsp; &nbsp; Mary Therese Lourdes B. Tenorio, Grade 12, De La Salle University Senior High 
 School
 
 
