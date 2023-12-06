@@ -3,6 +3,14 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="xmas20231206"><a/>
+### [2023/12/06] SComB's Year-End Gathering
+
+SComB held its year-end gathering at The Barn by Borro.
+
+<img src='/assets/xmas-2023.jpeg' width='400' />
+
+
 <a id="seams20231122"><a/>
 ### [2023/11/22-2023/12/01] SComB Attends SEAMS School 2023
 
@@ -250,8 +258,6 @@ The ATTACK-AMR team organized a seminar entitled "Monitoring antibiotic resistan
 		<img src='/assets/seminar20230125.jpg' height='190' />
 	</div>
 </div>
-
-<img src='/assets/.jpg' width='800' />
 
 <a id="xmas2022"><a/>
 ### [2022/12/15] ATTACK-AMR Christmas Party

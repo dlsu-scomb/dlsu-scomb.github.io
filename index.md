@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/12/06] SComB's Year-End Gathering**](/events/#xmas20231206)
+
 [**[2023/11/22-2023/12/01] SComB Attends SEAMS School 2023**](/events/#seams20231122)
 
 [**[2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023**](/events/#datathon20230930)
