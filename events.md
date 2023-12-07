@@ -3,13 +3,21 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="vpri-xmas20231207"><a/>
+### [2023/12/07] SComB Attends DLSU OVPRI Christmas Party
+
+SComB members Paul Yu, Robert Unciano, and Lara Lim attended the De La Salle University Office of the Vice President for Research and Innovation Christmas party.
+
+<img src='/assets/vpri-xmas-2023-1.png' width='400' />
+
+<img src='/assets/vpri-xmas-2023-2.png' width='400' />
+
 <a id="xmas20231206"><a/>
 ### [2023/12/06] SComB's Year-End Gathering
 
 SComB held its year-end gathering at The Barn by Borro.
 
 <img src='/assets/xmas-2023.jpeg' width='400' />
-
 
 <a id="seams20231122"><a/>
 ### [2023/11/22-2023/12/01] SComB Attends SEAMS School 2023
