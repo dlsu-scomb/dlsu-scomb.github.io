@@ -6,6 +6,10 @@ permalink: /papers/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2023 <br>
+[**Comparative analysis of kinetic realizations of insulin signaling.**](https://www.sciencedirect.com/science/article/pii/S0022519323002692) <br>
+P.V. Lubenia, E.R. Mendoza, and A.R. Lao. <br>
+*Journal of Theoretical Biology, 111672.*
+
 [**Protein Embeddings Improve Phage-Host Interaction Prediction.**](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0289030) <br>
 M.E.M. Gonzales, J.C. Ureta, and A.M.S. Shrestha. <br>
 *PLOS One, 18(7), e0289030.*

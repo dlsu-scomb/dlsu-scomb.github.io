@@ -26,6 +26,13 @@ SComB research fellows, Paul Yu and Feeroz Yusoph, attended the [SEAMS School 20
 
 <img src='/assets/2023-11-22-seams2023.jpg' width='800' />
 
+<a id="paper20231119"><a/> <br>
+### [2023/11/19] SComB Paper Published in Journal of Theoretical Biology (Scopus Q1-91th)
+
+The paper entitled "Comparative analysis of kinetic realizations of insulin signaling" was published in Journal of Theoretical Biology. The authors are Patrick Vincent N. Lubenia, Eduardo R. Mendoza, and Angelyn R. Lao.
+
+<img src='/assets/t2d-insulin-map.png' width='800' />
+
 <a id="datathon20230930"><a/> <br>
 ### [2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023
 
@@ -69,9 +76,9 @@ SComB member Dr. Llewelyn Espiritu visited the ATTACK-AMR Thailand counterpart, 
 <img src='/assets/mahidol-visit.jpg' width='800' />
 
 <a id="paper20230724"><a/> <br>
-### [2023/07/24] ATTACK-AMR paper published in PLoS ONE (Scopus Q1-87th)
+### [2023/07/24] ATTACK-AMR Paper Published in PLoS ONE (Scopus Q1-87th)
 
-The ATTACK-AMR paper entitled "Protein embeddings improve phage-host interaction prediction" was published in PLoS ONE. The authors are Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha. To know more, see [Projects](/projects).
+The ATTACK-AMR paper entitled "Protein embeddings improve phage-host interaction prediction" was published in PLoS ONE. The authors are Mark Edward M. Gonzales, Jennifer C. Ureta, and Anish M.S. Shrestha. To know more, see [Projects](/projects).
 
 <img src='/assets/protein-phi.png' width='800' />
 
@@ -311,9 +318,9 @@ In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department 
 <img src='/assets/psm_joy.jpg' width='800' />
 
 <a id="paper20221116"><a/> <br>
-### [2022/11/16] ATTACK-AMR paper published in mSystems (Scopus Q1-94th)
+### [2022/11/16] ATTACK-AMR Paper Published in mSystems (Scopus Q1-94th)
 
-The ATTACK-AMR paper entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*" was published in mSystems journal of the American Society for Microbiology. The authors are Paul K. Yu, Llewelyn S. Moron-Espiritu, Angelyn R. Lao. To know more, see [Projects](/projects).
+The ATTACK-AMR paper entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*" was published in mSystems journal of the American Society for Microbiology. The authors are Paul K. Yu, Llewelyn S. Moron-Espiritu, and Angelyn R. Lao. To know more, see [Projects](/projects).
 
 <img src='/assets/erg-pathway.jpg' width='800' />
 

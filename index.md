@@ -18,6 +18,8 @@ layout: home
 
 [**[2023/11/22-2023/12/01] SComB Attends SEAMS School 2023**](/events/#seams20231122)
 
+[**[2023/11/19] SComB Paper Published in Journal of Theoretical Biology (Scopus Q1-91th)**](/events/#paper20231119)
+
 [**[2023/09/29-2023/10/01] SComB Attends Philippine Datathon 2023**](/events/#datathon20230930)
 
 [**[2023/09/25-2023/09/27] SComB Visits Taiwan Universities**](/events/#taiwan20230925)
@@ -28,7 +30,7 @@ layout: home
 
 [**[2023/08/17] SComB Visits Mahidol University**](/events/#visit20230817)
 
-[**[2023/07/24] ATTACK-AMR paper published in PLoS ONE (Scopus Q1-87th)**](/events/#paper20230724)
+[**[2023/07/24] ATTACK-AMR Paper Published in PLoS ONE (Scopus Q1-87th)**](/events/#paper20230724)
 
 [**[2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop**](/events/#workshop20230719)
 
