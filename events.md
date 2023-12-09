@@ -69,7 +69,7 @@ SComB member Dr. Llewelyn Espiritu visited the ATTACK-AMR Thailand counterpart, 
 <img src='/assets/mahidol-visit.jpg' width='800' />
 
 <a id="paper20230724"><a/> <br>
-### [2023/07/24] ATTACK-AMR paper published in PLoS ONE
+### [2023/07/24] ATTACK-AMR paper published in PLoS ONE (Scopus Q1-87th)
 
 The ATTACK-AMR paper entitled "Protein embeddings improve phage-host interaction prediction" was published in PLoS ONE. The authors are Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha. To know more, see [Projects](/projects).
 
@@ -311,7 +311,7 @@ In the PSM cluster 1 symposium, Dr. Joy Scaria, Associate Professor, Department 
 <img src='/assets/psm_joy.jpg' width='800' />
 
 <a id="paper20221116"><a/> <br>
-### [2022/11/16] ATTACK-AMR paper published in mSystems
+### [2022/11/16] ATTACK-AMR paper published in mSystems (Scopus Q1-94th)
 
 The ATTACK-AMR paper entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*" was published in mSystems journal of the American Society for Microbiology. The authors are Paul K. Yu, Llewelyn S. Moron-Espiritu, Angelyn R. Lao. To know more, see [Projects](/projects).
 

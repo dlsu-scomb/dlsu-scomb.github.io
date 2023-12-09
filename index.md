@@ -28,7 +28,7 @@ layout: home
 
 [**[2023/08/17] SComB Visits Mahidol University**](/events/#visit20230817)
 
-[**[2023/07/24] ATTACK-AMR paper published in PLoS ONE**](/events/#paper20230724)
+[**[2023/07/24] ATTACK-AMR paper published in PLoS ONE (Scopus Q1-87th)**](/events/#paper20230724)
 
 [**[2023/07/19] SComB x BioinfoLab Organizes R for Computational Biology Workshop**](/events/#workshop20230719)
 
