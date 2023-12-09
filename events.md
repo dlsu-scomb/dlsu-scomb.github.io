@@ -19,6 +19,15 @@ SComB held its year-end gathering at The Barn by Borro.
 
 <img src='/assets/xmas-2023.jpeg' width='800' />
 
+<a id="mfet20231201"><a/> <br>
+### [2023/12/01] ATTACK-AMR Member Wins 2nd Prize in 2023 MFET Award
+
+ATTACK-AMR student member Mark Edward Gonzales bagged 2nd prize in 2023 Magsaysay Future Engineers/Technologists (MFET) Award, organized by the National Academy of Science and Technology, Philippines (NAST PHL). It aims to recognize outstanding research outputs on engineering and technology at the collegiate level and to encourage young Filipino students to pursue a career in science. 
+
+Mark presented his research paper entitled "Protein embeddings improve phage-host interaction prediction" in front of a jury composed of esteemed NAST members. This was held at Century Park Hotel, Manila. The recording can be viewed [here](https://www.facebook.com/nastphl/videos/1327641157955663). 
+
+<img src='/assets/mfet-2023.png' width='800' />
+
 <a id="seams20231122"><a/> <br>
 ### [2023/11/22-2023/12/01] SComB Attends SEAMS School 2023
 

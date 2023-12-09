@@ -16,6 +16,8 @@ layout: home
 
 [**[2023/12/06] SComB's Year-End Gathering**](/events/#xmas20231206)
 
+[**[2023/12/01] ATTACK-AMR Member Wins 2nd Prize in 2023 MFET Award**](/events/#mfet20231201)
+
 [**[2023/11/22-2023/12/01] SComB Attends SEAMS School 2023**](/events/#seams20231122)
 
 [**[2023/11/19] SComB Paper Published in Journal of Theoretical Biology (Scopus Q1-91th)**](/events/#paper20231119)
