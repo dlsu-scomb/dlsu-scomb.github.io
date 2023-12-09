@@ -3,6 +3,8 @@ layout: page
 title: Join Us!
 permalink: /joinus/
 ---
+![SComB Banner](/assets/scomb-banner.gif)
+
 Are you passionate about unraveling the mysteries of life through the lens of computational analysis and systems biology? Look no further! We invite talented and enthusiastic individuals to join our Systems and Computational Biology Unit, where cutting-edge research meets innovation.
 
 ### About Us:
