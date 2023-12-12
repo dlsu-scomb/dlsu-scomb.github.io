@@ -3,6 +3,15 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="censer-xmas20231212"><a/> <br>
+### [2023/12/12] SComB Attends CENSER Christmas Party
+
+SComB members Paul Yu, Robert Unciano, and Paul Rainier Capule attended the CENSER Christmas party.
+
+<img src='/assets/censer-grp.jpg' width='800' />
+
+<img src='/assets/censer-poster.png' width='800' />
+
 <a id="vpri-xmas20231207"><a/> <br>
 ### [2023/12/07] SComB Attends DLSU OVPRI Christmas Party
 

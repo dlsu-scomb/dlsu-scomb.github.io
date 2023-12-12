@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2023/12/12] SComB Attends CENSER Christmas Party**](/events/#censer-xmas20231212)
+
 [**[2023/12/07] SComB Attends OVPRI Christmas Party**](/events/#vpri-xmas20231207)
 
 [**[2023/12/06] SComB's Year-End Gathering**](/events/#xmas20231206)
