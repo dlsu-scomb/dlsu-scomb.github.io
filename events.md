@@ -6,11 +6,14 @@ permalink: /events/
 <a id="censer-xmas20231212"><a/> <br>
 ### [2023/12/12] SComB Attends CENSER Christmas Party
 
-SComB members Paul Yu, Robert Unciano, and Paul Rainier Capule attended the CENSER Christmas party.
+SComB members Paul Yu, Robert Unciano, and Paul Rainier Capule attended the CENSER Christmas party. Paul Yu also did a three-minute flash presentation of the study entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*."
+
 
 <img src='/assets/censer-grp.jpg' width='800' />
 
 <img src='/assets/censer-poster.png' width='800' />
+
+The submitted poster is as shown below:
 
 <img src='/assets/2023-11-29-SComB-Poster.png' width='800' />
 
