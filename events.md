@@ -8,7 +8,6 @@ permalink: /events/
 
 SComB members Paul Yu, Robert Unciano, and Paul Rainier Capule attended the CENSER Christmas party. Paul Yu also did a three-minute flash presentation of the study entitled "Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*."
 
-
 <img src='/assets/censer-grp.jpg' width='800' />
 
 <img src='/assets/censer-poster.png' width='800' />
