@@ -12,6 +12,8 @@ SComB members Paul Yu, Robert Unciano, and Paul Rainier Capule attended the CENS
 
 <img src='/assets/censer-poster.png' width='800' />
 
+<img src='/assets/2023-11-29-SComB-Poster.png' width='800' />
+
 <a id="vpri-xmas20231207"><a/> <br>
 ### [2023/12/07] SComB Attends DLSU OVPRI Christmas Party
 
