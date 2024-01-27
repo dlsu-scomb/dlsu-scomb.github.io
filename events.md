@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="psm20240127"><a/> <br>
+### [2024/01/27] SComB Attends PSM Cluster 1 Symposium
+
+SComB members attended the [Philippine Society for Microbiology, Inc. (PSM) Cluster 1 Symposium](https://www.psm.org.ph/2023/2023-cluster-1-symposium/), headed by Dr. Llewelyn Espiritu, with the theme of "Computational microbiology and biotechnology in an evolving microbial world." One of the speakers is Dr. Anish Shrestha, who talked about "Understanding life through enormous piles of sequence data." This was held at the University Theatre, Trinity University of Asia, Quezon City.
+
+<img src='/assets/2024-01-27-psm.jpg' width='800' />
+
 <a id="censer-xmas20231212"><a/> <br>
 ### [2023/12/12] SComB Attends CENSER Christmas Party
 
