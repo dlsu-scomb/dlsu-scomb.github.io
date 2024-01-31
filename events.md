@@ -3,6 +3,17 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+[****](/events/#)
+
+<a id="interns20240131"><a/> <br>
+### [2024/01/31] DLSU SHS interns at SComB
+
+De La Salle University senior high school student interns met with SComB head Prof. Angelyn Lao and SComB research fellow Paul Yu to present the progress updates of their respective projects on "Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment" and "Understanding Filipino’s Communication Dynamics Through Topic Modeling Analysis."
+
+<img src='/assets/2024-01-31-group1.jpeg' width='800' />
+
+<img src='/assets/2024-01-31-group2.jpeg' width='800' />
+
 <a id="psm20240127"><a/> <br>
 ### [2024/01/27] SComB Attends PSM Cluster 1 Symposium
 

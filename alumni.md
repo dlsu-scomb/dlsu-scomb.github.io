@@ -7,18 +7,24 @@ layout: page
 
 **INTERNS**
 
-2022/06/20 - 2022/07/11 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 11, Philippine Science High School - Bicol Region Campus
+2022 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 11, Philippine Science High School - Bicol Region Campus
 
-2022/06/20 - 2022/07/11 &nbsp; &nbsp; **Megan Marie B. Sio**, Grade 11, Philippine Science High School - Western Visayas Campus
+2022 &nbsp; &nbsp; **Megan Marie B. Sio**, Grade 11, Philippine Science High School - Western Visayas Campus
 
-2022/06/20 - 2022/07/11 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**, Grade 11, Philippine Science High School - CALABARZON Region Campus
+2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**, Grade 11, Philippine Science High School - CALABARZON Region Campus
 
-2022/05/30 - 2022/06/07 &nbsp; &nbsp; **Joaquin Miguel L. Fuentebella**, BS Mathematics, De La Salle University
+2022 - 2023 &nbsp; &nbsp; **Joaquin Miguel L. Fuentebella**, BS Mathematics, De La Salle University
+
+2019 - 2020 &nbsp; &nbsp; **Philipe Chan**, Grade 12, De La Salle University Senior High School
+
+2019 - 2020 &nbsp; &nbsp; **Rlan Manero**, Grade 12, De La Salle University Senior High School
+
+2019 - 2020 &nbsp; &nbsp; **Matthew Te**, Grade 12, De La Salle University Senior High School
 
 **SHS STUDENTS**
 
-2022/10/25 - 2023/05/12 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 12, Philippine Science High School - Bicol Region Campus
+2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 12, Philippine Science High School - Bicol Region Campus
 
-2022/10/25 - 2023/05/12 &nbsp; &nbsp; **Edriel B. Guanzon**, Grade 12, Philippine Science High School - Bicol Region Campus
+2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon**, Grade 12, Philippine Science High School - Bicol Region Campus
 
-2022/10/25 - 2023/05/12 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo**, Grade 12, Philippine Science High School - Bicol Region Campus
+2022 - 2023 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo**, Grade 12, Philippine Science High School - Bicol Region Campus

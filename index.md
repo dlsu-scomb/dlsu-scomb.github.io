@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/01/31] DLSU SHS interns at SComB**](/events/#interns20240131)
+
 [**[2024/01/27] SComB Attends PSM Cluster 1 Symposium**](/events/#psm20240127)
 
 [**[2024/01/22-25] SComB Attends IWOMB 2024**](/events/#iwomb20240122)
