@@ -56,7 +56,7 @@ Jiaan Carlo E. Santos, ATTACK-AMR Research Assistant, MS Biology, De La Salle Un
 **STUDENT MEMBERS**
 
 <img src='/assets/people/paul-capule.png' width='50' />
-Paul Rainier Capule, MS Biology, De La Salle university
+Paul Rainier D. Capule, MS Biology, De La Salle university
 
 <img src='/assets/people/jp-guzman.png' width='50' />
 John Paul S. Guzman, MS Mathematics, De La Salle University
