@@ -14,6 +14,8 @@ layout: home
 
 [**[2024/01/27] SComB Attends PSM Cluster 1 Symposium**](/events/#psm20240127)
 
+[**[2024/01/22-25] SComB Attends IWOMB 2024**](/events/#iwomb20240122)
+
 [**[2023/12/12] SComB Attends CENSER Christmas Party**](/events/#censer-xmas20231212)
 
 [**[2023/12/07] SComB Attends OVPRI Christmas Party**](/events/#vpri-xmas20231207)

@@ -12,6 +12,13 @@ SComB members attended the [Philippine Society for Microbiology, Inc. (PSM) Clus
 
 <img src='/assets/2024-01-27-psm-anish-talk.png' width='800' />
 
+<a id="iwomb20240122"><a/> <br>
+### [2024/01/22-25] SComB Attends IWOMB 2024
+
+SComB head Prof. Angelyn Lao attended the [Philippine Society for Mathematical Biology](https://www.facebook.com/profile.php?id=100092609835908) [2024 International Workshop on Mathematical Biology (IWOMB 2024)](https://sites.google.com/view/iwomb2024/home?authuser=0). She is also part of the organizing committee of the conference. This was held at the Paradise Garden Resort Hotel and Convention Center Boracay, Boracay Island, Philippines.
+
+<img src='/assets/2024-01-22-IWOMB.jpg' width='800' />
+
 <a id="censer-xmas20231212"><a/> <br>
 ### [2023/12/12] SComB Attends CENSER Christmas Party
 
