@@ -10,6 +10,8 @@ SComB members attended the [Philippine Society for Microbiology, Inc. (PSM) Clus
 
 <img src='/assets/2024-01-27-psm.jpg' width='800' />
 
+<img src='/assets/2024-01-27-psm-anish-talk.png' width='800' />
+
 <a id="censer-xmas20231212"><a/> <br>
 ### [2023/12/12] SComB Attends CENSER Christmas Party
 
