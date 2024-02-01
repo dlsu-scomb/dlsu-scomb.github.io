@@ -12,7 +12,9 @@ layout: home
 
 **NEWS & EVENTS**
 
-[**[2024/01/31] DLSU SHS interns at SComB**](/events/#interns20240131)
+[**[2024/02/01] SComB Head Elected as PSMB VP**](/events/#psmb20240201)
+
+[**[2024/01/31] DLSU SHS Interns at SComB**](/events/#interns20240131)
 
 [**[2024/01/27] SComB Attends PSM Cluster 1 Symposium**](/events/#psm20240127)
 

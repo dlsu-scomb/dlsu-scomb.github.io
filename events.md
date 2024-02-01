@@ -3,10 +3,15 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
-[****](/events/#)
+<a id="psmb20240201"><a/> <br>
+### [2024/02/01] SComB Head Elected as PSMB VP
+
+Congratulations! Prof. Angelyn Lao for being elected as the [Philippine Society for Mathematical Biology](https://www.facebook.com/profile.php?id=100092609835908) Vice President.
+
+<img src='/assets/PSMB-board-vp.jpg' width='800' />
 
 <a id="interns20240131"><a/> <br>
-### [2024/01/31] DLSU SHS interns at SComB
+### [2024/01/31] DLSU SHS Interns at SComB
 
 De La Salle University senior high school student interns met with SComB head Prof. Angelyn Lao and SComB research fellow Paul Yu to present the progress updates of their respective projects on "Meta-Analysis on the Removal of Microplastics of Biological and Chemical Wastewater Treatment" and "Understanding Filipino’s Communication Dynamics Through Topic Modeling Analysis."
 
