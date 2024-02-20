@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="pgl20240216"><a/> <br>
+### [2024/02/16] SComB Participates in PGL's Seminar
+
+Prof. Angelyn Lao and Dr. Anish Shrestha participated as panelists in the [PGL (Practical Genomics Laboratory)](https://www.facebook.com/photo/?fbid=351189664550376&set=a.106449685691043) seminar entitled "Toward a World of Precision Everything: Data Distillation and Prediction in the Life Sciences." The keynote speaker is Prof. Fred Wright, the Director of the Bioinformatics Research Center at the North Carolina State University. The moderator is PGL's head Prof. Ma. Carmen Lagman. SComB members Paul Yu, Feeroz Yusoph, and Paul Capule also attended the event.
+
+<img src='/assets/2024-02-16-pgl-seminar.jpg' width='800' />
+
 <a id="psmb20240201"><a/> <br>
 ### [2024/02/01] SComB Head Elected as PSMB VP
 

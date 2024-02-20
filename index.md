@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/02/16] SComB Participates in PGL's Seminar**](/events/#pgl20240216)
+
 [**[2024/02/01] SComB Head Elected as PSMB VP**](/events/#psmb20240201)
 
 [**[2024/01/31] DLSU SHS Interns at SComB**](/events/#interns20240131)
@@ -19,13 +21,5 @@ layout: home
 [**[2024/01/27] SComB Attends PSM Cluster 1 Symposium**](/events/#psm20240127)
 
 [**[2024/01/22-25] SComB Attends IWOMB 2024**](/events/#iwomb20240122)
-
-[**[2023/12/12] SComB Attends CENSER Christmas Party**](/events/#censer-xmas20231212)
-
-[**[2023/12/07] SComB Attends OVPRI Christmas Party**](/events/#vpri-xmas20231207)
-
-[**[2023/12/06] SComB's Year-End Gathering**](/events/#xmas20231206)
-
-[**[2023/12/01] ATTACK-AMR Member Wins 2nd Prize in 2023 MFET Award**](/events/#mfet20231201)
 
 [See all News & Events](/events)
