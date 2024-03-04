@@ -12,6 +12,10 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/02/27-29] SComB Attends eAsia-AMR Hands-on Workshop**](/events/#eAsia20240227)
+
+[**[2024/02/23] SComB Attends eAsia-AMR Meeting**](/events/#eAsia20240223)
+
 [**[2024/02/16] SComB Participates in PGL's Seminar**](/events/#pgl20240216)
 
 [**[2024/02/01] SComB Head Elected as PSMB VP**](/events/#psmb20240201)

@@ -3,6 +3,24 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="eAsia20240227"><a/> <br>
+### [2024/02/27-29] SComB Attends eAsia-AMR Hands-on Workshop
+
+SComB members attended the eAsia-AMR hands-on workshop on phylogenetic tress in R at Keio University SFC Campus hosted by Dr. Haruo Suzuki, who is an expert in the field of bioinformatics and genome microbiology.
+
+<img src='/assets/2024-02-27-eAsia-AMR-hands-on-1.png' width='800' />
+
+<img src='/assets/2024-02-27-eAsia-AMR-hands-on-2.jpg' width='800' />
+
+<a id="eAsia20240223"><a/> <br>
+### [2024/02/23] SComB Attends eAsia-AMR Meeting
+
+SComB members attended the eAsia-AMR meeting at Keio University Mita Campus. During the morning session, all teams presented their progress updates and the [EnD-AMR-Asia consortium](https://env.w3.kanazawa-u.ac.jp/end-amr-asia/). In the afternoon session, Dr. Haruo Suzuki held a workshop on Introduction to R. After the workshop, the team had a gathering at the nearby izakaya.
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-1.jpeg' width='800' />
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-2.jpg' width='800' />
+
 <a id="pgl20240216"><a/> <br>
 ### [2024/02/16] SComB Participates in PGL's Seminar
 
