@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/03/13] JP Defends His MS Mathematics Thesis**](/events/#msthesis20240313)
+
 [**[2024/02/27-29] SComB Attends eAsia-AMR Hands-on Workshop**](/events/#eAsia20240227)
 
 [**[2024/02/23] SComB Attends eAsia-AMR Meeting**](/events/#eAsia20240223)

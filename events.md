@@ -3,6 +3,21 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="msthesis20240313"><a/> <br>
+### [2024/03/13] JP Defends His MS Mathematics Thesis
+
+Congratulations to Mr. John Paul Guzman for successfully defending his MS Mathematics thesis entitled "Aspect-Based Sentiment Analysis of Filipino COVID-19 Tweets with Memory Networks."
+
+<img src='/assets/2024-03-13-jp-defense.png' width='800' />
+
+ABSTRACT
+
+Sentiment analysis is the process of extracting opinions from text. It has a wide variety of applications, such as monitoring social media, processing customer reviews, and improving health communication. Aspect-based sentiment classification (ABSC) is a type of sentiment analysis that determines sentiments toward specified aspects in a given text. Knowledge about the specific target of the opinion allows for a more fine-grained analysis of sentiments. This results in richer insights that can lead to further applications.
+
+In this paper, the goal is to model the ABSC task to be applicable to texts in various languages and topics. To achieve this, we study the mathematical foundations of machine learning and deep learning. We explore techniques to overcome the challenges associated with multilingual ABSC, such as working with limited data, varying grammar structures, and out-of-vocabulary words. Then, we construct a memory network as a mathematical model for the task of multilingual ABSC. Our model is evaluated on four datasets to demonstrate its capacity to learn the grammatical rules pertinent to ABSC across various languages and topics. Three benchmark datasets in English are used to compare our model with existing ones. Additionally, we created a multilingual dataset referred to as the FHT dataset. This dataset consists of health-related tweets published in the Philippines during the COVID-19 pandemic. The tweets are written in English and Filipino, with possible code-switching. Our model achieved slight improvements over similar models in the benchmark datasets. Meanwhile, its performance in the FHT dataset is comparable to that observed in the benchmark datasets. Finally, we demonstrated potential applications that utilize insights from an ABSC model. This includes using ABSC to analyze the sentiments gathered during the COVID-19 pandemic.
+
+Keywords: Machine Learning, Sentiment Analysis, Aspect-Based Sentiment Classification, Twitter
+
 <a id="eAsia20240227"><a/> <br>
 ### [2024/02/27-29] SComB Attends eAsia-AMR Hands-on Workshop
 
