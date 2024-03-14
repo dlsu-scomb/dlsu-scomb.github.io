@@ -15,12 +15,6 @@ layout: page
 
 2022 - 2023 &nbsp; &nbsp; **Joaquin Miguel L. Fuentebella**, BS Mathematics, De La Salle University
 
-2019 - 2020 &nbsp; &nbsp; **Philipe Chan**, Grade 12, De La Salle University Senior High School
-
-2019 - 2020 &nbsp; &nbsp; **Rlan Manero**, Grade 12, De La Salle University Senior High School
-
-2019 - 2020 &nbsp; &nbsp; **Matthew Te**, Grade 12, De La Salle University Senior High School
-
 **SHS STUDENTS**
 
 2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 12, Philippine Science High School - Bicol Region Campus
@@ -28,3 +22,9 @@ layout: page
 2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon**, Grade 12, Philippine Science High School - Bicol Region Campus
 
 2022 - 2023 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo**, Grade 12, Philippine Science High School - Bicol Region Campus
+
+2019 - 2020 &nbsp; &nbsp; **Philipe Chan**, Grade 12, De La Salle University Senior High School
+
+2019 - 2020 &nbsp; &nbsp; **Rlan Manero**, Grade 12, De La Salle University Senior High School
+
+2019 - 2020 &nbsp; &nbsp; **Matthew Te**, Grade 12, De La Salle University Senior High School
