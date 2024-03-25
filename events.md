@@ -30,11 +30,19 @@ SComB members attended the eAsia-AMR hands-on workshop on phylogenetic tress in 
 <a id="eAsia20240223"><a/> <br>
 ### [2024/02/23] SComB Attends eAsia-AMR Meeting
 
-SComB members attended the eAsia-AMR meeting at Keio University Mita Campus. During the morning session, all teams presented their progress updates and the [EnD-AMR-Asia consortium](https://env.w3.kanazawa-u.ac.jp/end-amr-asia/). In the afternoon session, Dr. Haruo Suzuki held a workshop on Introduction to R. After the workshop, the team had a gathering at the nearby izakaya.
+SComB members attended the eAsia-AMR meeting at Keio University Mita Campus, Tokyo organized by the Japan team. Teams from Thailand, Australia, and the Philippines were physically present while the US team and some members  who were not able to attend in person attended the meeting virtually. Our Year 2 eAsia research on exploring alternative non-antibiotic treatments to tackle AMR (ATTACK-AMR) has made significant strides, particularly the broadening of our collaboration. This year, we extend a warm welcome to the [EnD-AMR-Asia consortium](https://env.w3.kanazawa-u.ac.jp/end-amr-asia/), facilitated by Prof. Ryo Honda, to contribute their perspectives and efforts towards local and global AMR surveillance. 
 
-<img src='/assets/2024-02-23-eAsia-AMR-workshop-1.jpeg' width='800' />
+During the morning session, all teams presented their progress updates followed by the introduction of the EnD-AMR-Asia consortium. In the afternoon session, Dr. Haruo Suzuki held a workshop on Introduction to R and phylogenetic analysis. After the workshop, the team had a gathering at a nearby izakaya.
 
-<img src='/assets/2024-02-23-eAsia-AMR-workshop-2.jpg' width='800' />
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-1.jpg' width='800' />
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-2.png' width='800' />
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-3.jpeg' width='800' />
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-4.png' width='800' />
+
+<img src='/assets/2024-02-23-eAsia-AMR-workshop-5.jpg' width='800' />
 
 <a id="pgl20240216"><a/> <br>
 ### [2024/02/16] SComB Participates in PGL's Seminar
