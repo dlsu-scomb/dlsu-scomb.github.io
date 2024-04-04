@@ -3,7 +3,6 @@ layout: page
 ---
 **PHD STUDENTS**
 
-2013 - 2022 &nbsp; &nbsp; **Osbert Bryan T. Villasis**, PhD Candidate Mathematics, De La Salle University
 
 **INTERNS**
 

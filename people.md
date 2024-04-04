@@ -55,6 +55,8 @@ Jiaan Carlo E. Santos, ATTACK-AMR Research Assistant, MS Biology, De La Salle Un
 
 **STUDENT MEMBERS**
 
+Osbert Bryan T. Villasis, PhD Candidate Mathematics, De La Salle University
+
 <img src='/assets/people/paul-capule.png' width='50' />
 Paul Rainier D. Capule, MS Biology, De La Salle university
 
