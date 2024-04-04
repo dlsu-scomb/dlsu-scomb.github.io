@@ -55,6 +55,7 @@ Jiaan Carlo E. Santos, ATTACK-AMR Research Assistant, MS Biology, De La Salle Un
 
 **STUDENT MEMBERS**
 
+<img src='/assets/people/no-photo.png' width='50' />
 Osbert Bryan T. Villasis, PhD Candidate Mathematics, De La Salle University
 
 <img src='/assets/people/paul-capule.png' width='50' />
