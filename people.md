@@ -3,7 +3,6 @@ layout: page
 title: People
 permalink: /people/
 ---
-
 **UNIT HEAD**
 
 <img src='/assets/people/angelyn-lao.png' width='50' />
@@ -76,6 +75,21 @@ Daphne Janelyn L. Go, BS/MS Computer Science, De La Salle University
 <img src='/assets/people/mark-gonzales.png' width='50' />
 [Mark Edward M. Gonzales](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en&oi=ao), BS/MS Computer Science, De La Salle University
 
+<img src='/assets/people/no-photo.png' width='50' />
+Micah Allia Acyatan, BS Biology, De La Salle University
+
+<img src='/assets/people/no-photo.png' width='50' />
+Lance Yurik Cadoy, BS Biology, De La Salle University
+
+<img src='/assets/people/no-photo.png' width='50' />
+Joachim Xavier Po, BS Biology, De La Salle University
+
+<img src='/assets/people/no-photo.png' width='50' />
+Raissa Adellaide Sison, BS Biology, De La Salle University
+
+<img src='/assets/people/no-photo.png' width='50' />
+Kathlyn Tio, BS Biology, De La Salle University
+
 **INTERNS**
 
 2023/10/04 - Present &nbsp; &nbsp; Prince Matthew F. Sy, Grade 12, De La Salle University Senior High 
@@ -102,5 +116,6 @@ School
 2023/10/04 - Present &nbsp; &nbsp; Mary Therese Lourdes B. Tenorio, Grade 12, De La Salle University Senior High 
 School
 
+2023/08/13 - 2024/04/22 &nbsp; &nbsp; Yuan Caleb P. Eseo, BS Biology with Specialization in Medical Biology, De La Salle University-Dasmarinas
 
 [**ALUMNI**](/alumni)

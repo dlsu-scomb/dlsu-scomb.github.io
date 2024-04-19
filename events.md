@@ -3,6 +3,17 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="celebrate20240418"><a/> <br>
+### [2024/04/18] SComB Celebrates Bioinfo-AMR team's Best Presentation & Jiaan's Birthday
+
+Congratulations to Micah, Yurik, Joachim, Raissa, Kath, and their adviser Dr. Llewelyn Espiritu for being selected as one of the best presentations in the THBIOL1 thesis proposal. Their thesis proposal is entitled "Genome analysis of *Escherichia coli* isolated from environmental wastewater."
+
+The team gathered at Crabs N Crack, Aseana Parqal Mall, to celebrate. Additionally, we jointly celebrated the birthday of our SComB RA, Jiaan Santos.
+
+<img src='/assets/2024-04-18-bioinfo-amr-best-presentation.jpg' width='800' />
+
+<img src='/assets/2024-04-18-jiaan-bday.jpeg' width='800' />
+
 <a id="msthesis20240313"><a/> <br>
 ### [2024/03/13] JP Defends His MS Mathematics Thesis
 

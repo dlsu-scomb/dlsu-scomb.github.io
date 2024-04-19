@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/04/18] SComB Celebrates Bioinfo-AMR team's Best Presentation & Jiaan's Birthday**](/events/#celebrate20240418)
+
 [**[2024/03/13] JP Defends His MS Mathematics Thesis**](/events/#msthesis20240313)
 
 [**[2024/02/27-29] SComB Attends eAsia-AMR Hands-on Workshop**](/events/#eAsia20240227)
