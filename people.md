@@ -75,20 +75,20 @@ Daphne Janelyn L. Go, BS/MS Computer Science, De La Salle University
 <img src='/assets/people/mark-gonzales.png' width='50' />
 [Mark Edward M. Gonzales](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en&oi=ao), BS/MS Computer Science, De La Salle University
 
-<img src='/assets/people/no-photo.png' width='50' />
-Micah Allia Acyatan, BS Biology, De La Salle University
+<img src='/assets/people/micah-acyatan.png' width='50' />
+Micah Allia G. Acyatan, BS Biology, De La Salle University
 
-<img src='/assets/people/no-photo.png' width='50' />
-Lance Yurik Cadoy, BS Biology, De La Salle University
+<img src='/assets/people/lance-cadoy.png' width='50' />
+Lance Yurik C. Cadoy, BS Biology, De La Salle University
 
-<img src='/assets/people/no-photo.png' width='50' />
-Joachim Xavier Po, BS Biology, De La Salle University
+<img src='/assets/people/joachim-po.png' width='50' />
+Joachim Xavier B. Po, BS Biology, De La Salle University
 
-<img src='/assets/people/no-photo.png' width='50' />
-Raissa Adellaide Sison, BS Biology, De La Salle University
+<img src='/assets/people/raissa-sison.png' width='50' />
+Raissa Adellaide M. Sison, BS Biology, De La Salle University
 
-<img src='/assets/people/no-photo.png' width='50' />
-Kathlyn Tio, BS Biology, De La Salle University
+<img src='/assets/people/kathlyn-tio.png' width='50' />
+Kathlyn L. Tio, BS Biology, De La Salle University
 
 **INTERNS**
 
