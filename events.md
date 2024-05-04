@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="msp20240504"><a/> <br>
+### [2024/05/04] SComB Head Presents at the MSP Davao Online Lecture Series
+
+SComB head Prof. Angelyn Lao presented at the MSP Davao Online Lecture Series. Her talk is entitled "Seeking intriguing problems and mathematical creativity in modelling." This was held virtually via Zoom.
+
+<img src='/assets/2024-05-04-msp-davao-talk.png' width='800' />
+
 <a id="celebrate20240418"><a/> <br>
 ### [2024/04/18] SComB Celebrates Bioinfo-AMR team's Best Presentation & Jiaan's Birthday
 
