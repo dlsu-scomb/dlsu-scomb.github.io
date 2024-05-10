@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/05/08] ATTACK-AMR Project Meeting**](/events/#attackamr20240508)
+
 [**[2024/05/04] SComB Head Presents at the MSP Davao Online Lecture Series**](/events/#msp20240504)
 
 [**[2024/04/18] SComB Celebrates Bioinfo-AMR team's Best Presentation & Jiaan's Birthday**](/events/#celebrate20240418)

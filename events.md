@@ -3,6 +3,14 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+[****](/events/#)
+<a id="attackamr20240508"><a/> <br>
+### [2024/05/08] ATTACK-AMR Project Meeting
+
+The ATTACK-AMR project had a meeting to discuss the direction and milestones for year 3. We also had a celebration for Daphne's birthday.
+
+<img src='/assets/2024-05-08-attack-amr-meeting.png' width='800' />
+
 <a id="msp20240504"><a/> <br>
 ### [2024/05/04] SComB Head Presents at the MSP Davao Online Lecture Series
 
