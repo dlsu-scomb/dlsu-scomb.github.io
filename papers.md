@@ -11,7 +11,7 @@ M.B. Merlin, and A.R. Lao <br>
 In *Encyclopedia of Sustainable Technologies, 2nd Edition, 1, 394-406*
 
 [**Epidemiological modeling of health information dynamics on Twitter**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/research/journals/apssr/2024-march-vol24-1/ra7.pdf) <br>
-F. Yusoph, J.C. Bernadas, C.K. Cheng, and A.R. Lao <br>
+F.R. Yusoph, J.C. Bernadas, C.K. Cheng, and A.R. Lao <br>
 *Asia-Pacific Social Science Review, 24(1)*
 
 [**Comparative analysis of kinetic realizations of insulin signaling**](https://www.sciencedirect.com/science/article/pii/S0022519323002692) <br>
