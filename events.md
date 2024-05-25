@@ -3,7 +3,6 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
-[****](/events/#)
 <a id="attackamr20240508"><a/> <br>
 ### [2024/05/08] ATTACK-AMR Project Meeting
 
