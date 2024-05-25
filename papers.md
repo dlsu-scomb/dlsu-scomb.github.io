@@ -20,7 +20,7 @@ P.V. Lubenia, E.R. Mendoza, and A.R. Lao <br>
 
 2023 <br>
 [**Protein embeddings improve phage-host interaction prediction**](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0289030) <br>
-M.E.M. Gonzales, J.C. Ureta, and A.M.S. Shrestha <br>
+M.M. Gonzales, J.C. Ureta, and A.M.S. Shrestha <br>
 *PLOS One, 18(7), e0289030*
 
 2022 <br>
@@ -29,7 +29,7 @@ P.K. Yu, L.S. Moron-Espiritu, and A.R. Lao <br>
 *mSystems, 7(6), e00691-22*
 
 [**Systems biology approach of understanding insulin resistance: linkage between type 2 diabetes & Alzheimer’s disease**](https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.13.463890.full.pdf) <br>
-O.B. Villasis, D.S. Tan, E.R. Mendoza, and A.R. Lao <br>
+O.T. Villasis, D.Y. Tan, E.R. Mendoza, and A.R. Lao <br>
 *bioRxiv doi:10.1101/2022.04.13.463890*
 
 [**Reaction network analysis of metabolic insulin signaling**](https://link.springer.com/article/10.1007/s11538-022-01087-3) <br>
@@ -62,7 +62,7 @@ C.P. Arceo, E.C. Jose, A.R. Lao, and E.R. Mendoza <br>
 *Journal of Mathematical Chemistry, 56(2), 395-422*
 
 [**AuToDiDAC: automated tool for disease detection and assessment for cacao black pod rot**](https://www.sciencedirect.com/science/article/pii/S0261219417302867) <br>
-D.S. Tan, R.N. Leong, A.F. Laguna, C.A. Ngo, A.R. Lao, D.M. Amalin, and D.G. Alvindia <br>
+D.Y. Tan, R.F. Leong, A.B. Laguna, C.M. Ngo, A.R. Lao, D.M. Amalin, and D.G. Alvindia <br>
 *Crop Protection, 103, 98-102*
 
 2016 <br>
