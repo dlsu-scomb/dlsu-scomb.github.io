@@ -66,9 +66,6 @@ John Paul S. Guzman, MS Mathematics, De La Salle University
 <img src='/assets/people/lara-lim.png' width='50' />
 Lara Gabrielle F. Lim, MS Mathematics, De La Salle University
 
-<img src='/assets/people/cj-ong.png' width='50' />
-[Christian Joseph N. Ong](https://scholar.google.com/citations?user=DULhdgIAAAAJ&hl=en&oi=ao), MS Biology, De La Salle University
-
 <img src='/assets/people/daphne-go.png' width='50' />
 Daphne Janelyn L. Go, BS/MS Computer Science, De La Salle University
 
