@@ -98,7 +98,7 @@ School
 2023/10/04 - Present &nbsp; &nbsp; Karl Anthony S. Rasing, Grade 12, De La Salle University Senior High 
 School
 
-2023/10/04 - Present &nbsp; &nbsp; Richard Ron O. DelaRosa, Grade 12, De La Salle University Senior High 
+2023/10/04 - Present &nbsp; &nbsp; Richard Ron O. Dela Rosa, Grade 12, De La Salle University Senior High 
 School
 
 2023/10/04 - Present &nbsp; &nbsp; Airene Moradas, Grade 12, De La Salle University Senior High 

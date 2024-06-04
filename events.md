@@ -3,6 +3,16 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+
+<a id="dlsushsrescon20240603"><a/> <br>
+### [2024/06/03] SComB SHS Interns' Poster Entries Accepted at DLSU SHS Research Congress 2024
+
+Congratulations to the SComB SHS Interns for having their poster entries accepted at the De La Salle University Senior High School Research Congress 2024. The first group comprises Richard Ron O. Dela Rosa, Karl Anthony S. Rasing, Prince Matthew F. Sy, and Jon Raymond H. Valdez. They are supervised by Paul Yu. Their poster is entitled "Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes." The second group is composed of Airene Moradas, Christan Angelo A. Coronel, Kyla Marie C. Yee, and Mary Therese Lourdes B. Tenorio. They are supervised by Feeroz Yusoph. Their poster is entitled "Understanding the communication dynamics of tweets about antibiotics through topic modeling." Both groups are under the guidance of Prof. Angelyn Lao as their thesis adviser.
+
+<img src='/assets/2024-06-03-dlsushsrescon-1.jpg' width='800' />
+
+<img src='/assets/2024-06-03-dlsushsrescon-2.jpg' width='800' />
+
 <a id="attackamr20240508"><a/> <br>
 ### [2024/05/08] ATTACK-AMR Project Meeting
 

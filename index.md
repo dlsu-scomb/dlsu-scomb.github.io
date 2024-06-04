@@ -12,6 +12,8 @@ layout: home
 
 **NEWS & EVENTS**
 
+[**[2024/06/03] SComB SHS Interns' Poster Entries Accepted at DLSU SHS Research Congress 2024**](/events/#dlsushsrescon20240603)
+
 [**[2024/05/08] ATTACK-AMR Project Meeting**](/events/#attackamr20240508)
 
 [**[2024/05/04] SComB Head Presents at the MSP Davao Online Lecture Series**](/events/#msp20240504)
