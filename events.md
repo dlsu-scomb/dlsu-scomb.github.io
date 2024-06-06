@@ -3,6 +3,12 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="symposium20240606"><a/> <br>
+### [2024/06/06] SComB Head Presents at the 2024 International Symposium on Science and Education
+
+SComB head Prof. Angelyn Lao presented a talk entitled "Modeling analysis of communication dynamics" at the 2024 International Symposium on Science and Education in National Taiwan Normal University, Taiwan.
+
+<img src='/assets/2024-06-06-symposium.jpg' width='800' />
 
 <a id="dlsushsrescon20240603"><a/> <br>
 ### [2024/06/03] SComB SHS Interns' Poster Entries Accepted at DLSU SHS Research Congress 2024
