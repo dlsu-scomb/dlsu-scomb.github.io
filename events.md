@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="censer20240606"><a/> <br>
+### [2024/06/06] SComB Members Attend CENSER Team-Building Activity
+
+SComB members, Paul Yu and Jiaan Santos, attended the CENSER Team-Building Activity at the Food Club, Ayala Malls Manila Bay. At the same time, we also celebrated Dr. Amalin's and Mr. Kyrie Santos' birthday.
+
+<img src='/assets/2024-06-06-censer.jpg' width='800' />
+
 <a id="symposium20240606"><a/> <br>
 ### [2024/06/06] SComB Head Presents at the 2024 International Symposium on Science and Education
 

@@ -16,6 +16,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 **NEWS & EVENTS**
 
+[**[2024/06/06] SComB Members Attend CENSER Team-Building Activity**](/events/#censer20240606)
+
 [**[2024/06/06] SComB Head Presents at the 2024 International Symposium on Science and Education**](/events/#symposium20240606)
 
 [**[2024/06/03] SComB SHS Interns' Poster Entries Accepted at DLSU SHS Research Congress 2024**](/events/#dlsushsrescon20240603)
