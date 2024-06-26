@@ -89,7 +89,7 @@ Kathlyn L. Tio, BS Biology, De La Salle University
 
 **INTERNS**
 
-2023/10/04 - Present &nbsp; &nbsp; Prince Matthew F. Sy, Grade 12, De La Salle University Senior High 
+2023/10/04 - Present &nbsp; &nbsp; Prince Matthew P. Sy, Grade 12, De La Salle University Senior High 
 School
 
 2023/10/04 - Present &nbsp; &nbsp; Jon Raymond H. Valdez, Grade 12, De La Salle University Senior High 
