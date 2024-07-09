@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="attackamr20240708"><a/> <br>
+### [2024/07/08] ATTACK-AMR Project Meeting
+
+The ATTACK-AMR project had a meeting to discuss initial results. PSHS SIP interns, Matt and Janika, and BS/MS-CS student Kim Williame Lee from the DLSU Bioinformatics Lab also attended the meeting.
+
+<img src='/assets/2024-07-08-attack-amr-meeting.jpg' width='800' />
+
 <a id="ksmb20240630"><a/> <br>
 ### [2024/06/30 - 07/06] SComB Members Participate in KSMB-SMB 2024
 
