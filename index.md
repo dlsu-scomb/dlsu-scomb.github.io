@@ -18,6 +18,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 [**[2024/07/08] ATTACK-AMR Project Meeting**](/events/#attackamr20240708)
 
+[**[2024/07/05] SComB Head Elected as PRO of MSP**](/events/#msp20240705)
+
 [**[2024/06/30 - 07/06] SComB Members Participate in KSMB-SMB 2024**](/events/#ksmb20240630)
 
 [**[2024/06/06] SComB Members Attend CENSER Team-Building Activity**](/events/#censer20240606)

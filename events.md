@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="msp20240705"><a/> <br>
+### [2024/07/05] SComB Head Elected as PRO of MSP
+
+SComB head, Prof. Angelyn Lao, was elected as the Public Relations Officer of the Mathematical Society of the Philippines for the year 2024-2025.
+
+<img src='/assets/2024-07-05-msp-officer.jpg' width='400' />
+
 <a id="attackamr20240708"><a/> <br>
 ### [2024/07/08] ATTACK-AMR Project Meeting
 
