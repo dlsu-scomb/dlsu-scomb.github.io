@@ -3,6 +3,17 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="ksmb20240630"><a/> <br>
+### [2024/06/30 - 07/06] SComB Members Participate in KSMB-SMB 2024
+
+SComB head, Prof. Angelyn Lao, and member, Paul Yu participated at the Joint annual meeting of the Korean Society for Mathematical Biology and the Society for Mathematical Biology (KSMB-SMB 2024). Prof. Angelyn Lao served as minisymposium chair and presented a talk on "Maintaining the productivity of co-culture systems in the face of environmental change." Paul Yu presented a contributed talk entitled "Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease."
+
+<img src='/assets/2024-07-01-ksmb-1.png' width='800' />
+
+<img src='/assets/2024-07-01-ksmb-2.jpg' width='800' />
+
+<img src='/assets/2024-07-01-ksmb-3.jpg' width='800' />
+
 <a id="censer20240606"><a/> <br>
 ### [2024/06/06] SComB Members Attend CENSER Team-Building Activity
 
