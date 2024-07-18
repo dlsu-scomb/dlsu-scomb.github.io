@@ -3,6 +3,24 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="psm20240718"><a/> <br>
+### [2024/07/18-19] SComB Head Presents at PSM
+
+SComB head, Prof. Angelyn Lao, gave an plenary talk entitled "Graph Theoretical Analysis of Biological and Ecological Systems" at the Philippine Society for Microbiology held at the University of St. La Salle, Bacolod.
+
+<img src='/assets/2024-07-18-psm-1.jpg' width='400' />
+
+<img src='/assets/2024-07-18-psm-2.jpg' width='800' />
+
+<a id="paase20240715"><a/> <br>
+### [2024/07/15-17] SComB Head Presents at PAASE Annual Meeting
+
+SComB head, Prof. Angelyn Lao, gave an oral presentation entitled "Graph Theoretical Analysis of Biological and Ecological Systems" at the PAASE Annual Meeting held at the University of the Philippines, Los Baños.
+
+<img src='/assets/2024-07-15-paase-1.jpg' width='800' />
+
+<img src='/assets/2024-07-15-paase-2.jpg' width='800' />
+
 <a id="msp20240705"><a/> <br>
 ### [2024/07/05] SComB Head Elected as PRO of MSP
 

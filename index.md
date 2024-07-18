@@ -16,6 +16,10 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 **NEWS & EVENTS**
 
+[**[2024/07/18-19] SComB Head Presents at PSM**](/events/#psm20240718)
+
+[**[2024/07/15-17] SComB Head Presents at PAASE Annual Meeting**](/events/#paase20240715)
+
 [**[2024/07/08] ATTACK-AMR Project Meeting**](/events/#attackamr20240708)
 
 [**[2024/07/05] SComB Head Elected as PRO of MSP**](/events/#msp20240705)
