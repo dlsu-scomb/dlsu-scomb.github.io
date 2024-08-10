@@ -12,11 +12,15 @@ layout: page
 
 #### PHD STUDENTS
 
-2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate)
+2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate) -> MS Applied Statistics, Macquarie University
 
 #### MS STUDENTS
 
 2024 &nbsp; &nbsp; **John Paul S. Guzman**
+
+2023 &nbsp; &nbsp; **Abigail R. Espina** -> MS Physiology, University of the Philippines Manila
+
+2019 &nbsp; &nbsp; **Abel G. Lucido** -> PhD Bioinformatics, Universitat de Lleida
 
 #### INTERNS
 
@@ -44,13 +48,13 @@ layout: page
 
 2022 &nbsp; &nbsp; **Megan Marie B. Sio**
 
-2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**
+2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson** -> BS Mathematics, Ateneo de Manila University
 
 #### SHS STUDENTS
 
 2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano** -> BS Civil Engineering, University of the Philippines Diliman
 
-2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon** -> University of the Philippines Diliman
+2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon** -> BS Electrical Engineering, University of the Philippines Diliman
 
 2022 - 2023 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo** -> BS Computer Engineering, Ateneo de Naga University
 
