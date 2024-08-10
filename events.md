@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="farewell20240808"><a/> <br>
+### [2024/08/08] Farewell Lunch for Patrick and Paul
+
+SComB head, Prof. Angelyn Lao, treated SComB members Patrick Lubenia and Paul Yu to a farewell lunch at Spectrum, Fairmont Makati. Patrick will be pursuing his PhD in Operations Research at the University of Pittsburgh, and Paul will be pursuing his PhD in Bioinformatics and Genomics at Pennsylvania State University this coming fall. May your new endeavors bring you endless possibilities and opportunities.
+
+<img src='/assets/2024-08-08-farewell-lunch.jpg' width='400' />
+
 <a id="psm20240718"><a/> <br>
 ### [2024/07/18-19] SComB Head Presents at PSM
 
