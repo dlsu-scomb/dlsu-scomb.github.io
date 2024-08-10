@@ -62,35 +62,35 @@ permalink: /people/
 
 <img src='/assets/people/lara-lim.png' width='100' />
 #### Lara Gabrielle F. Lim <br>
-MS Mathematics
+*MS Mathematics*
 
 <img src='/assets/people/daphne-go.png' width='100' />
 #### Daphne Janelyn L. Go <br>
-BS/MS Computer Science
+*BS/MS Computer Science*
 
 <img src='/assets/people/mark-gonzales.png' width='100' />
 #### [Mark Edward M. Gonzales](https://scholar.google.com/citations?user=YSwwCpAAAAAJ&hl=en&oi=ao) <br>
-BS/MS Computer Science
+*BS/MS Computer Science*
 
 <img src='/assets/people/micah-acyatan.png' width='100' />
 #### Micah Allia G. Acyatan <br>
-BS Biology
+*BS Biology*
 
 <img src='/assets/people/lance-cadoy.png' width='100' />
 #### Lance Yurik C. Cadoy <br>
-BS Biology
+*BS Biology*
 
 <img src='/assets/people/joachim-po.png' width='100' />
 #### Joachim Xavier B. Po <br>
-BS Biology
+*BS Biology*
 
 <img src='/assets/people/raissa-sison.png' width='100' />
 #### Raissa Adellaide M. Sison <br>
-BS Biology
+*BS Biology*
 
 <img src='/assets/people/kathlyn-tio.png' width='100' />
 #### Kathlyn L. Tio <br>
-BS Biology
+*BS Biology*
 
 ### INTERNS
 
