@@ -10,11 +10,11 @@ To elucidate the causes and consequences of a system or network, models are meti
 
 Through the systematic and rigorous methodologies employed at SComB, the theoretical properties of complex systems and networks become more comprehensible. Modeling these properties not only aids in the understanding of current observations but also in predicting future behaviors and outcomes. This integrative approach makes the exploration and interpretation of complex systems more plausible and actionable, ultimately contributing to advancements in fields such as biology, medicine, and agriculture.
 
-**CURRENT PROJECTS**
+### CURRENT PROJECTS
 
 [**Metagenomic and genomic surveillance of antimicrobial resistance in hospital wastewater and computational prediction of efficacy of alternative non-antibiotic therapeutics (ATTACK-AMR)**](/projects/#attack_amr)
 
-**NEWS & EVENTS**
+### NEWS & EVENTS
 
 [**[2024/08/08] Farewell Lunch for Patrick and Paul**](/events/#farewell20240808)
 
@@ -56,4 +56,4 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 [**[2024/01/22-25] SComB Attends IWOMB 2024**](/events/#iwomb20240122)
 
-[See all News & Events](/events)
+[**See all News & Events**](/events)

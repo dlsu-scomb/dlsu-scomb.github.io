@@ -1,29 +1,60 @@
 ---
 layout: page
 ---
-**PHD STUDENTS**
+### GUEST RESEARCHERS
 
+2024 &nbsp; &nbsp; **Patrick Vincent N. Lubenia** -> PhD Industrial Engineering, University of Pittsburgh
 
-**INTERNS**
+### RESEARCH ASSISTANTS
 
-2022 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 11, Philippine Science High School - Bicol Region Campus
+2024 &nbsp; &nbsp; **Paul K. Yu** -> PhD Bioinformatics and Genomics, Pennsylvania State University
 
-2022 &nbsp; &nbsp; **Megan Marie B. Sio**, Grade 11, Philippine Science High School - Western Visayas Campus
+### PHD STUDENTS
 
-2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**, Grade 11, Philippine Science High School - CALABARZON Region Campus
+2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate)
 
-2022 - 2023 &nbsp; &nbsp; **Joaquin Miguel L. Fuentebella**, BS Mathematics, De La Salle University
+### MS STUDENTS
 
-**SHS STUDENTS**
+2024 &nbsp; &nbsp; **John Paul S. Guzman**
 
-2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano**, Grade 12, Philippine Science High School - Bicol Region Campus
+### INTERNS
 
-2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon**, Grade 12, Philippine Science High School - Bicol Region Campus
+2023 - 2024 &nbsp; &nbsp; **Prince Matthew P. Sy** -> BS Computer Science, De La Salle University
 
-2022 - 2023 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo**, Grade 12, Philippine Science High School - Bicol Region Campus
+2023 - 2024 &nbsp; &nbsp; **Jon Raymond H. Valdez** -> BS Human Biology, De La Salle University
 
-2019 - 2020 &nbsp; &nbsp; **Philipe Chan**, Grade 12, De La Salle University Senior High School
+2023 - 2024 &nbsp; &nbsp; **Karl Anthony S. Rasing** -> BS Computer Engineering, De La Salle University
 
-2019 - 2020 &nbsp; &nbsp; **Rlan Manero**, Grade 12, De La Salle University Senior High School
+2023 - 2024 &nbsp; &nbsp; **Richard Ron O. Dela Rosa** -> BS Human Biology, De La Salle University
 
-2019 - 2020 &nbsp; &nbsp; **Matthew Te**, Grade 12, De La Salle University Senior High School
+2023 - 2024 &nbsp; &nbsp; **Airene Moradas**
+
+2023 - 2024 &nbsp; &nbsp; **Christan Angelo A. Coronel**
+
+2023 - 2024 &nbsp; &nbsp; **Kyla Marie C. Yee**
+
+2023 - 2024 &nbsp; &nbsp; **Mary Therese Lourdes B. Tenorio**
+
+2023 - 2024 &nbsp; &nbsp; **Yuan Caleb P. Eseo**
+
+2022 - 2023 &nbsp; &nbsp; **Joaquin Miguel L. Fuentebella**
+
+2022 &nbsp; &nbsp; **Gerard C. Aurellano** -> BS Civil Engineering, University of the Philippines Diliman
+
+2022 &nbsp; &nbsp; **Megan Marie B. Sio**
+
+2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**
+
+### SHS STUDENTS
+
+2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano** -> BS Civil Engineering, University of the Philippines Diliman
+
+2022 - 2023 &nbsp; &nbsp; **Edriel B. Guanzon** -> University of the Philippines Diliman
+
+2022 - 2023 &nbsp; &nbsp; **Ethan Matthew T. Templonuevo** -> BS Computer Engineering, Ateneo de Naga University
+
+2019 - 2020 &nbsp; &nbsp; **Philipe Chan**
+
+2019 - 2020 &nbsp; &nbsp; **Rlan Manero**
+
+2019 - 2020 &nbsp; &nbsp; **Matthew Te**
