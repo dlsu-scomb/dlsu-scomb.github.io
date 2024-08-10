@@ -46,7 +46,7 @@ layout: page
 
 2022 &nbsp; &nbsp; **Gerard C. Aurellano** -> BS Civil Engineering, University of the Philippines Diliman
 
-2022 &nbsp; &nbsp; **Megan Marie B. Sio**
+2022 &nbsp; &nbsp; **Megan Marie B. Sio** -> BS Biochemistry, University of the Philippines Manila
 
 2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson** -> BS Applied Mathematics, Ateneo de Manila University
 
