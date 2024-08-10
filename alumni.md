@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Alumni
 ---
 ### GUEST RESEARCHERS
 
