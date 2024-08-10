@@ -48,7 +48,7 @@ layout: page
 
 2022 &nbsp; &nbsp; **Megan Marie B. Sio**
 
-2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson** -> BS Mathematics, Ateneo de Manila University
+2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson** -> BS Applied Mathematics, Ateneo de Manila University
 
 #### SHS STUDENTS
 
