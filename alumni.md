@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Alumni
 ---
+
 ### GUEST RESEARCHERS
 
 2024 &nbsp; &nbsp; **Patrick Vincent N. Lubenia** -> PhD Industrial Engineering, University of Pittsburgh
