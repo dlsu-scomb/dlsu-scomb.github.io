@@ -2,23 +2,23 @@
 layout: page
 ---
 
-### GUEST RESEARCHERS
+#### GUEST RESEARCHERS
 
 2024 &nbsp; &nbsp; **Patrick Vincent N. Lubenia** -> PhD Industrial Engineering, University of Pittsburgh
 
-### RESEARCH ASSISTANTS
+#### RESEARCH ASSISTANTS
 
 2024 &nbsp; &nbsp; **Paul K. Yu** -> PhD Bioinformatics and Genomics, Pennsylvania State University
 
-### PHD STUDENTS
+#### PHD STUDENTS
 
 2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate)
 
-### MS STUDENTS
+#### MS STUDENTS
 
 2024 &nbsp; &nbsp; **John Paul S. Guzman**
 
-### INTERNS
+#### INTERNS
 
 2023 - 2024 &nbsp; &nbsp; **Prince Matthew P. Sy** -> BS Computer Science, De La Salle University
 
@@ -46,7 +46,7 @@ layout: page
 
 2022 &nbsp; &nbsp; **Ethan Lestat L. Tiongson**
 
-### SHS STUDENTS
+#### SHS STUDENTS
 
 2022 - 2023 &nbsp; &nbsp; **Gerard C. Aurellano** -> BS Civil Engineering, University of the Philippines Diliman
 
