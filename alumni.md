@@ -4,23 +4,23 @@ layout: page
 
 #### GUEST RESEARCHERS
 
-2024 &nbsp; &nbsp; **Patrick Vincent N. Lubenia** -> PhD Industrial Engineering, University of Pittsburgh
+2021 - 2024 &nbsp; &nbsp; **Patrick Vincent N. Lubenia** -> PhD Industrial Engineering, University of Pittsburgh
 
 #### RESEARCH ASSISTANTS
 
-2024 &nbsp; &nbsp; **Paul K. Yu** -> PhD Bioinformatics and Genomics, Pennsylvania State University
+2020 - 2024 &nbsp; &nbsp; **Paul K. Yu** -> PhD Bioinformatics and Genomics, Pennsylvania State University
 
 #### PHD STUDENTS
 
-2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate) -> MS Applied Statistics, Macquarie University
+2016 - 2023 &nbsp; &nbsp; **Osbert Bryan T. Villasis** (PhD Candidate) -> MS Applied Statistics, Macquarie University
 
 #### MS STUDENTS
 
-2024 &nbsp; &nbsp; **John Paul S. Guzman**
+2022 - 2024 &nbsp; &nbsp; **John Paul S. Guzman**
 
-2023 &nbsp; &nbsp; **Abigail R. Espina** -> MS Physiology, University of the Philippines Manila
+2021 - 2023 &nbsp; &nbsp; **Abigail R. Espina** -> MS Physiology, University of the Philippines Manila
 
-2019 &nbsp; &nbsp; **Abel G. Lucido** -> PhD Bioinformatics, Universitat de Lleida
+2018 - 2019 &nbsp; &nbsp; **Abel G. Lucido** -> PhD Bioinformatics, Universitat de Lleida
 
 #### INTERNS
 
@@ -32,13 +32,13 @@ layout: page
 
 2023 - 2024 &nbsp; &nbsp; **Richard Ron O. Dela Rosa** -> BS Human Biology, De La Salle University
 
-2023 - 2024 &nbsp; &nbsp; **Airene Moradas**
+2023 - 2024 &nbsp; &nbsp; **Airene Moradas** -> BS Computer Science, De La Salle University
 
-2023 - 2024 &nbsp; &nbsp; **Christan Angelo A. Coronel**
+2023 - 2024 &nbsp; &nbsp; **Christan Angelo A. Coronel** -> BS Biology, De La Salle University
 
-2023 - 2024 &nbsp; &nbsp; **Kyla Marie C. Yee**
+2023 - 2024 &nbsp; &nbsp; **Kyla Marie C. Yee** -> Doctor of Dental Medicine, Centro Escolar University
 
-2023 - 2024 &nbsp; &nbsp; **Mary Therese Lourdes B. Tenorio**
+2023 - 2024 &nbsp; &nbsp; **Mary Therese Lourdes B. Tenorio** -> BS Biology, De La Salle University
 
 2023 - 2024 &nbsp; &nbsp; **Yuan Caleb P. Eseo**
 
