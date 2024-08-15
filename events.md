@@ -3,6 +3,13 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="Despedida20240815"><a/> <br>
+### [2024/08/15] SComB Despedida for Paul
+
+SComB head, Prof. Angelyn Lao with the whole SComB team, treated SComB Paul Yu to a Despedida lunch at The Barn, near DLSU. Paul will be pursuing his PhD in Bioinformatics and Genomics at Pennsylvania State University this coming fall. May your new endeavors bring you endless possibilities and opportunities.
+
+<img src='/assets/2024-08-15-PaulYuDespedida.jpg' width='400' />
+
 <a id="farewell20240808"><a/> <br>
 ### [2024/08/08] Farewell Lunch for Patrick and Paul
 
