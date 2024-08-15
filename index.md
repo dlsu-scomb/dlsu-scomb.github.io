@@ -16,6 +16,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 ### NEWS & EVENTS
 
+[**[2024/08/15] SComB Despedida for Paul**](/events/#Despedida20240815)
+
 [**[2024/08/08] Farewell Lunch for Patrick and Paul**](/events/#farewell20240808)
 
 [**[2024/07/18-19] SComB Head Presents at PSM**](/events/#psm20240718)
