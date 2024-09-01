@@ -6,6 +6,10 @@ permalink: /papers/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES & BOOK CHAPTERS**
 
 #### 2024
+[**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf) <br>
+P.K. Yu, G.C. Aurellano, E.B. Guanzon, E.T. Templonuevo, U.C. Chua, B.V. Samson, J.S. delos Santos, and A.R. Lao <br>
+*Philippine Journal of Science, 153(4), 1277-1284*
+
 [**P-graph approach to modeling sustainable ecological networks**](https://www.sciencedirect.com/science/article/pii/B9780323903868000383?via%3Dihub) <br>
 M.B. Merlin, and A.R. Lao <br>
 In *Encyclopedia of Sustainable Technologies, 2nd Edition, 1, 394-406*
