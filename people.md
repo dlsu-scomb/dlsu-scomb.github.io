@@ -5,9 +5,9 @@ permalink: /people/
 ---
 ### UNIT HEAD
 
-<img src='/assets/people/angelyn-lao.png' width='100' /> 
-#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
-*Professor, Department of Mathematics & Statistics*
+<img src='/assets/people/lyn-espiritu.png' width='100' />
+#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
+*Associate Professor, Department of Biology*
 
 ### HONORARY SCIENTIST-IN-RESIDENCE
 
@@ -17,9 +17,13 @@ permalink: /people/
 
 ### FACULTY MEMBERS
 
+<img src='/assets/people/angelyn-lao.png' width='100' /> 
+#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
+*Director, Center for Natural Sciences and Environmental Research (CENSER)*
+
 <img src='/assets/people/divina-amalin.png' width='100' />
 #### [Divina M. Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629) <br>
-*Director, Center for Natural Sciences and Environmental Research (CENSER)*
+*Professor, Department of Biology*
 
 <img src='/assets/people/malu-enriquez.png' width='100' />
 #### [Ma. Luisa D. Enriquez](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742676594) <br>
@@ -28,10 +32,6 @@ permalink: /people/
 <img src='/assets/people/anish-shrestha.png' width='100' />
 #### [Anish M.S. Shrestha](https://www.a-transposable-element.com/) <br>
 *Associate Professor, Department of Software Technology*
-
-<img src='/assets/people/lyn-espiritu.png' width='100' />
-#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
-*Associate Professor, Department of Biology*
 
 <img src='/assets/people/nathalie-lim-cheng.png' width='100' />
 #### [Nathalie Rose Lim-Cheng](https://scholar.google.com.ph/citations?user=Y--J7f8AAAAJ&hl=en) <br>
