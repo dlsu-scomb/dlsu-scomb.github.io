@@ -9,7 +9,7 @@ permalink: /events/
 
 Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered and interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
 
-<img src='/assets/2024-Dr.David-Poster.png' width='600' />
+<img src='/assets/2024-Dr.David-Poster.png' width='400' />
 <img src='/assets/2024-Dr.David-Talk-1.png' width='600' />
 <img src='/assets/2024-Dr.David-Talk-2.png' width='600' />
 
