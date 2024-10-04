@@ -3,6 +3,21 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+
+<a id="DrDavidTalk20240918"><a/> <br>
+### [2024/09/18] Dr. Lawrence David gave a Talk Entitled Genomics, Diet, and The Human Gut Microbiome”
+
+Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered and interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
+
+<img src='/assets/2024-Dr.David-Poster.png' width='400' />
+<img src='/assets/2024-Dr.David-Talk-1.png' width='400' />
+<img src='/assets/2024-Dr.David-Talk-2.png' width='400' />
+
+<a id="MeetingwithDrDavid2024815"><a/> <br>
+### [2024/08/15] Meeting with Visiting Professor Dr. Lawrence David
+
+SComB research members and a few undergraduate students met with visiting professor Dr. Lawrence David from Duke University. Dr. Lawrence David is currently doing his balik scientist engagement with FNRI and also teaching part time at DLSU.
+
 <a id="Despedida20240815"><a/> <br>
 ### [2024/08/15] SComB Despedida for Paul
 
