@@ -20,7 +20,7 @@ permalink: /people/
 <img src='/assets/people/lyn-espiritu.png' width='100' />
 #### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
 *Associate Professor, Department of Biology*
-*Officer In Charge, SComB*
+*,Officer In Charge, SComB*
 
 <img src='/assets/people/divina-amalin.png' width='100' />
 #### [Divina M. Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629) <br>
