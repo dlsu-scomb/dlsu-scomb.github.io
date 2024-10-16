@@ -5,6 +5,14 @@ permalink: /events/
 ---
 
 <a id="DrDavidTalk20240918"><a/> <br>
+### [2024/09/28] SComB Attends PNMCC 24th Annual Symposium at Trinity University of Asia
+
+The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and Lance Yurik Cadoy are part of the organizing committee of the 24th Annual Symposium of PNMCC with the theme “Unveiling Microbial Diversity through Metabarcoding and Metagenomics”. The event was also attended by the faculty and students of De La Salle University.
+
+<img src='/assets/2024-PNMCC-DLSU.png' width='600' />
+<img src='/assets/2024-PNMCC-DLSU2.png' width='600' />
+
+<a id="DrDavidTalk20240918"><a/> <br>
 ### [2024/09/18] Dr. Lawrence David gave a Talk Entitled Genomics, Diet, and The Human Gut Microbiome”
 
 Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered and interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
