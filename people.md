@@ -5,9 +5,9 @@ permalink: /people/
 ---
 ### UNIT HEAD
 
-<img src='/assets/people/lyn-espiritu.png' width='100' />
-#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
-*Associate Professor, Department of Biology*
+<img src='/assets/people/angelyn-lao.png' width='100' /> 
+#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
+*Director, Center for Natural Sciences and Environmental Research (CENSER)*
 
 ### HONORARY SCIENTIST-IN-RESIDENCE
 
@@ -17,9 +17,10 @@ permalink: /people/
 
 ### FACULTY MEMBERS
 
-<img src='/assets/people/angelyn-lao.png' width='100' /> 
-#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
-*Director, Center for Natural Sciences and Environmental Research (CENSER)*
+<img src='/assets/people/lyn-espiritu.png' width='100' />
+#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
+*Associate Professor, Department of Biology*
+*Officer In Charge, SComB*
 
 <img src='/assets/people/divina-amalin.png' width='100' />
 #### [Divina M. Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629) <br>
