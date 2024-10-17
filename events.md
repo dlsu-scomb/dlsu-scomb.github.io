@@ -9,6 +9,7 @@ permalink: /events/
 
 The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and Lance Yurik Cadoy are part of the organizing committee of the 24th Annual Symposium of PNMCC with the theme “Unveiling Microbial Diversity through Metabarcoding and Metagenomics”. The event was also attended by the faculty and students of De La Salle University.
 
+<img src='/assets/2024-PNMCC-Program.jpg' width='400' />
 <img src='/assets/2024-PNMCC-DLSU.jpg' width='600' />
 <img src='/assets/2024-PNMCC-DLSU2.jpg' width='600' />
 
