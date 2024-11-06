@@ -8,9 +8,9 @@ permalink: /events/
 
 SComB members Dr. Angelyn Lao, Jiaan Santos, and Robert Unciano attended the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results hosted by the DOST-PCHRD last November 5, 2024 in Acacia Hotel, Muntinlupa City.
 
-<img src='/assets/2024-11-05-DOST.jpg' width='600' />
-<img src='/assets/2024-11-05-DOST-1.jpg' width='600' />
-<img src='/assets/2024-11-05-DOST-2.jpg' width='600' />
+<img src='/assets/2024-11-05-SComB-DOST.jpg' width='600' />
+<img src='/assets/2024-11-05-SComB-DOST-1.jpg' width='600' />
+<img src='/assets/2024-11-05-SComB-DOST-2.jpg' width='600' />
 
 <a id="PNMCCPoster20240918"><a/> <br>
 ### [2024/10/28] Dr.Angelyn Lao participated at the 22nd Annual Meeting of China Society for Industrial and Applied Mathematics at Nanjing, China
