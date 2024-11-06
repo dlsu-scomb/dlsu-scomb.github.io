@@ -3,8 +3,15 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="PNMCCPoster20240918"><a/> <br>
+### [2024/09/28] Jiaan Santos and Aiko Ishimura joins the Non-competing Category of the Poster Presentation at the 24th Annual Symposium of PNMCC at Trinity University Asia
 
-<a id="DrDavidTalk20240918"><a/> <br>
+SComB members Jiaan Santos and Biology undergraduate student Aiko Ishimura participated in the non-competing category of the Poster Presentation at the 24th Annual Symposium of PNMCC held at Trinity University of Asia. Jiaan Santos showcased the poster of his research under the ATTACK-AMR project entitled: “Metagenomic Insights on the Microbial Profiles and Resitomes of Hospital Wastewaters in Metro Manila, Philippines” and Aiko Ishimura presented her research poster entitled “Bacterial Community and Antimicrobial Resistant Genes Profile in Hospital Wastewater Among Economic Classes: A Systematic Review”.
+
+<img src='/assets/2024-PNMCC-Poster.jpg' width='600' />
+<img src='/assets/2024-PNMCC-Poster-4.jpg' width='600' />
+
+<a id="PNMCC20240918"><a/> <br>
 ### [2024/09/28] SComB Attends PNMCC 24th Annual Symposium at Trinity University of Asia
 
 The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and Lance Yurik Cadoy are part of the organizing committee of the 24th Annual Symposium of PNMCC with the theme “Unveiling Microbial Diversity through Metabarcoding and Metagenomics”. The event was also attended by the faculty and students of De La Salle University.
