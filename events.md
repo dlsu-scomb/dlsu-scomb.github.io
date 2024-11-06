@@ -3,6 +3,15 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id="PNMCC20240918"><a/> <br>
+### [2024/11/05] SComB attends the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results by the DOST-PCHRD.
+
+SComB members Dr. Angelyn Lao, Jiaan Santos, and Robert Unciano attended the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results hosted by the DOST-PCHRD last November 5, 2024 in Acacia Hotel, Muntinlupa City.
+
+<img src='/assets/2024-11-05-DOST.jpg' width='600' />
+<img src='/assets/2024-11-05-DOST-1.jpg' width='600' />
+<img src='/assets/2024-11-05-DOST-2.jpg' width='600' />
+
 <a id="PNMCCPoster20240918"><a/> <br>
 ### [2024/10/28] Dr.Angelyn Lao participated at the 22nd Annual Meeting of China Society for Industrial and Applied Mathematics at Nanjing, China
 
@@ -28,7 +37,7 @@ SComB members Jiaan Santos and Biology undergraduate student Aiko Ishimura parti
 <img src='/assets/2024-09-28-PNMCC-Poster-4.jpg' width='400' />
 
 <a id="PNMCC20240918"><a/> <br>
-### [2024/09/28] SComB Attends PNMCC 24th Annual Symposium at Trinity University of Asia
+### [2024/09/28] SComB attends PNMCC 24th Annual Symposium at Trinity University of Asia
 
 The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and Lance Yurik Cadoy are part of the organizing committee of the 24th Annual Symposium of PNMCC with the theme “Unveiling Microbial Diversity through Metabarcoding and Metagenomics”. The event was also attended by the faculty and students of De La Salle University.
 
