@@ -9,8 +9,8 @@ permalink: /events/
 Visiting Professor from University of Nebraska Medical Center, Dr.Piero Bianco gave his talk “Stalled DNA Replication Fork in E.coli and SSB Interactome” via zoom hosted by SComB.
 
 <img src='/assets/2024-10-25-Piero.png' width='400' />
-<img src='/assets/2024-10-25-Piero-1.png' width='400' />
-<img src='/assets/2024-10-25-Piero-2.jpeg' width='400' />
+<img src='/assets/2024-10-25-Piero-1.png' width='600' />
+<img src='/assets/2024-10-25-Piero-2.jpg' width='600' />
 
 <a id="PNMCCPoster20240918"><a/> <br>
 ### [2024/09/28] Jiaan Santos and Aiko Ishimura joins the Non-competing Category of the Poster Presentation at the 24th Annual Symposium of PNMCC at Trinity University Asia
