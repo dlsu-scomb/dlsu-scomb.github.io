@@ -4,7 +4,14 @@ title: News & Events
 permalink: /events/
 ---
 <a id="PNMCCPoster20240918"><a/> <br>
-### [2024/09/28] SComB hosted the webinar of Dr. Piero Bianco entitled “Stalled DNA Replication Fork in E.coli and SSB Interactome”
+### [2024/10/28] Dr.Angelyn Lao participated at the 22nd Annual Meeting of China Society for Industrial and Applied Mathematics at Nanjing, China
+
+The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics took place last October 24 to 27, 2024 at Nanjing, China was attended by Dr. Angelyn Lao. During the event, Dr. Lao presented her research titled “Comparison of Reaction Networks of Insulin Signaling”.
+
+<img src='/assets/2024-10-26-Lao-China.jpg' width='600' />
+
+<a id="PNMCCPoster20240918"><a/> <br>
+### [2024/10/25] SComB hosted the webinar of Dr. Piero Bianco entitled “Stalled DNA Replication Fork in E.coli and SSB Interactome”
 
 Visiting Professor from University of Nebraska Medical Center, Dr.Piero Bianco gave his talk “Stalled DNA Replication Fork in E.coli and SSB Interactome” via zoom hosted by SComB.
 
