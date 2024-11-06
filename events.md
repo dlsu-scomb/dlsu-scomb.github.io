@@ -9,7 +9,7 @@ permalink: /events/
 SComB members Jiaan Santos and Biology undergraduate student Aiko Ishimura participated in the non-competing category of the Poster Presentation at the 24th Annual Symposium of PNMCC held at Trinity University of Asia. Jiaan Santos showcased the poster of his research under the ATTACK-AMR project entitled: “Metagenomic Insights on the Microbial Profiles and Resitomes of Hospital Wastewaters in Metro Manila, Philippines” and Aiko Ishimura presented her research poster entitled “Bacterial Community and Antimicrobial Resistant Genes Profile in Hospital Wastewater Among Economic Classes: A Systematic Review”.
 
 <img src='/assets/2024-PNMCC-Poster.jpg' width='600' />
-<img src='/assets/2024-PNMCC-Poster-4.jpg' width='600' />
+<img src='/assets/2024-09-28-PNMCC-Poster-4.jpg' width='600' />
 
 <a id="PNMCC20240918"><a/> <br>
 ### [2024/09/28] SComB Attends PNMCC 24th Annual Symposium at Trinity University of Asia
