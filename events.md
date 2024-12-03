@@ -4,7 +4,7 @@ title: News & Events
 permalink: /events/
 ---
 <a id="PNMCC20240918"><a/> <br>
-### [2024/12/03] SComB attends CENSER’s Christmas Party
+### [2024/12/03] SComB attends CENSER’s Christmas Party 2024
 
 SComB attended CENSER's Christmas Party, organized by Dr. Angelyn Lao, the director of CENSER. SComB members Robert Unciano and Paul Capule represented the research unit at this gathering. The event provided a valuable opportunity for the heads of research centers and research assistants to connect and foster relationships within the research center.
 
