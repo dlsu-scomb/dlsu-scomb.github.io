@@ -9,7 +9,9 @@ permalink: /events/
 The Thailand team, under the leadership of Dr. Tavan Janvilisri, visited the Philippines for the first meeting of e-Asia for 2025 at De La Salle University. During this visit, the team also had the opportunity to tour the campus and explore the laboratories of the Philippine team.
 
 <img src='/assets/01-15-2025_ATTACK-AMR_Meeting.jpg' width='600' />
+
 <img src='/assets/01-15-2025_ATTACK-AMR_Meeting-1.jpeg' width='600' />
+
 <img src='/assets/01-15-2025_ATTACK-AMR_Meeting-2.jpg' width='600' />
 
 <a id="CENSERChristmasParty"><a/> <br>
@@ -25,7 +27,9 @@ SComB attended CENSER's Christmas Party, organized by Dr. Angelyn Lao, the direc
 SComB members Dr. Angelyn Lao, Jiaan Santos, and Robert Unciano attended the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results hosted by the DOST-PCHRD last November 5, 2024 in Acacia Hotel, Muntinlupa City.
 
 <img src='/assets/2024-11-05-SComB-DOST.jpg' width='600' />
+
 <img src='/assets/2024-11-05-SComB-DOST-1.jpg' width='400' />
+
 <img src='/assets/2024-11-05-SComB-DOST-2.jpg' width='400' />
 
 <a id="PNMCCPoster20240918"><a/> <br>
@@ -41,7 +45,9 @@ The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics 
 Visiting Professor from University of Nebraska Medical Center, Dr.Piero Bianco gave his talk “Stalled DNA Replication Fork in E.coli and SSB Interactome” via zoom hosted by SComB.
 
 <img src='/assets/2024-10-25-Piero.png' width='400' />
+
 <img src='/assets/2024-10-25-Piero-1.png' width='600' />
+
 <img src='/assets/2024-10-25-Piero-2.png' width='600' />
 
 <a id="PNMCCPoster20240918"><a/> <br>
@@ -50,6 +56,7 @@ Visiting Professor from University of Nebraska Medical Center, Dr.Piero Bianco g
 SComB members Jiaan Santos and Biology undergraduate student Aiko Ishimura participated in the non-competing category of the Poster Presentation at the 24th Annual Symposium of PNMCC held at Trinity University of Asia. Jiaan Santos showcased the poster of his research under the ATTACK-AMR project entitled: “Metagenomic Insights on the Microbial Profiles and Resitomes of Hospital Wastewaters in Metro Manila, Philippines” and Aiko Ishimura presented her research poster entitled “Bacterial Community and Antimicrobial Resistant Genes Profile in Hospital Wastewater Among Economic Classes: A Systematic Review”.
 
 <img src='/assets/2024-PNMCC-Poster.jpg' width='400' />
+
 <img src='/assets/2024-09-28-PNMCC-Poster-4.jpg' width='400' />
 
 <a id="PNMCC20240918"><a/> <br>
@@ -58,7 +65,9 @@ SComB members Jiaan Santos and Biology undergraduate student Aiko Ishimura parti
 The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and Lance Yurik Cadoy are part of the organizing committee of the 24th Annual Symposium of PNMCC with the theme “Unveiling Microbial Diversity through Metabarcoding and Metagenomics”. The event was also attended by the faculty and students of De La Salle University.
 
 <img src='/assets/2024-PNMCC-Program.jpg' width='400' />
+
 <img src='/assets/2024-PNMCC-DLSU.jpg' width='600' />
+
 <img src='/assets/2024-PNMCC-DLSU2.jpg' width='600' />
 
 <a id="DrDavidTalk20240918"><a/> <br>
@@ -67,7 +76,9 @@ The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and La
 Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered and interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
 
 <img src='/assets/2024-Dr.David-Poster.png' width='400' />
+
 <img src='/assets/2024-Dr.David-Talk-1.png' width='600' />
+
 <img src='/assets/2024-Dr.David-Talk-2.png' width='600' />
 
 <a id="MeetingwithDrDavid2024815"><a/> <br>
