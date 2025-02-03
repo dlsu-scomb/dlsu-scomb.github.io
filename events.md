@@ -3,14 +3,23 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
-<a id="PNMCC20240918"><a/> <br>
+<a id="ATTACK-AMRMeeting"><a/> <br>
+### [2025/01/15] Thailand Team Visit to the Philippines for e-Asia Meeting 2025
+
+The Thailand team, under the leadership of Dr. Tavan Janvilisri, visited the Philippines for the first meeting of e-Asia for 2025 at De La Salle University. During this visit, the team also had the opportunity to tour the campus and explore the laboratories with the Philippine team.
+
+<img src='/assets/01-15-2025_ATTACK-AMR_Meeting.jpg' width='600' />
+<img src='/assets/01-15-2025_ATTACK-AMR_Meeting_1.jpeg' width='600' />
+<img src='/assets/01-15-2025_ATTACK-AMR_Meeting_2.jpg' width='600' />
+
+<a id="CENSERChristmasParty"><a/> <br>
 ### [2024/12/03] SComB attends CENSER’s Christmas Party 2024
 
 SComB attended CENSER's Christmas Party, organized by Dr. Angelyn Lao, the director of CENSER. SComB members Robert Unciano and Paul Capule represented the research unit at this gathering. The event provided a valuable opportunity for the heads of research centers and research assistants to connect and foster relationships within the research center.
 
 <img src='/assets/DLSU-CENSER-PARTY-2024.jpg' width='600' />
 
-<a id="PNMCC20240918"><a/> <br>
+<a id="AMRDOST"><a/> <br>
 ### [2024/11/05] SComB attends the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results by the DOST-PCHRD.
 
 SComB members Dr. Angelyn Lao, Jiaan Santos, and Robert Unciano attended the Antimicrobial (AMR) Research and Development (R&D) Scoping and Assessment Launching and Dissemination of Results hosted by the DOST-PCHRD last November 5, 2024 in Acacia Hotel, Muntinlupa City.
