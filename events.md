@@ -6,7 +6,7 @@ permalink: /events/
 <a id="ATTACK-AMRMeeting"><a/> <br>
 ### [2025/01/15] Thailand Team Visit to the Philippines for e-Asia Meeting 2025
 
-The Thailand team, under the leadership of Dr. Tavan Janvilisri, visited the Philippines for the first meeting of e-Asia for 2025 at De La Salle University. During this visit, the team also had the opportunity to tour the campus and explore the laboratories with the Philippine team.
+The Thailand team, under the leadership of Dr. Tavan Janvilisri, visited the Philippines for the first meeting of e-Asia for 2025 at De La Salle University. During this visit, the team also had the opportunity to tour the campus and explore the laboratories of the Philippine team.
 
 <img src='/assets/01-15-2025_ATTACK-AMR_Meeting.jpg' width='600' />
 <img src='/assets/01-15-2025_ATTACK-AMR_Meeting-1.jpeg' width='600' />
