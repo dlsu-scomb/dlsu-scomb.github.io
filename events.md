@@ -3,6 +3,14 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+
+<a id="PAASE20250715"><a/> <br>
+### [2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition
+
+SComB member Paul Yu presented a poster titled "Systems Biology Approach to Understanding Insulin Resistance as a Linkage Between Type 2 Diabetes and Alzheimer Disease." Among all submitted posters, his was preselected to compete in the prestigious Rapid Fire Competition. Out of ten finalists, Paul was awarded 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition, held virtually via Zoom on July 15, 2025.
+
+<img src='/assets/2025-07-15_PAASE_APAMS.jpg' width='600' />
+
 <a id="ATTACK-AMRMeeting"><a/> <br>
 ### [2025/01/15] Thailand Team Visit to the Philippines for e-Asia Meeting 2025
 

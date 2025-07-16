@@ -16,6 +16,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 ### NEWS & EVENTS
 
+[**[2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition**](/events/#PAASE20250715)
+
 [**[2024/08/15] SComB Despedida for Paul**](/events/#Despedida20240815)
 
 [**[2024/08/08] Farewell Lunch for Patrick and Paul**](/events/#farewell20240808)
