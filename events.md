@@ -11,6 +11,15 @@ SComB member Paul Yu presented a poster titled "Systems Biology Approach to Unde
 
 <img src='/assets/2025-07-15_PAASE_APAMS.jpg' width='600' />
 
+<a id="ASM20250620"><a/> <br>
+### [2025/06/20] SComB Participates in American Society for Microbiology 2025 International Conference
+
+SComB member Jiaan Santos showcased his research through a poster presentation and a rapid-fire talk entitled “Investigating the Resistome, Microbial Composition, and Mobilome from Hospital Wastewaters in Metro Manila Using a Shotgun Metagenomics Approach” at the 2025 American Society for Microbiology International Conference, held on June 20 at the Los Angeles Convention Center, USA. His work was featured in the Clinical and Public Health Microbiology (CPHM) track, specifically within the session focused on Molecular and Genome Sequencing for Diagnostics and AMR Detection.
+
+<img src='/assets/2025-06-20_ASM_poster.jpg' width='600' />
+
+<img src='/assets/2025-06-20_ASM_talk.jpg' width='600' />
+
 <a id="ATTACK-AMRMeeting"><a/> <br>
 ### [2025/01/15] Thailand Team Visit to the Philippines for e-Asia Meeting 2025
 
