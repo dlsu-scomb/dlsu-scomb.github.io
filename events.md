@@ -4,6 +4,13 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="PAASE20250719"><a/> <br>
+### [2025/07/19] Congratulations to Dr. Angelyn Lao - PAASE Rising Star Award
+
+SComB congratulates Dr. Angelyn Lao for receiving the "Philippine-American Academy of Science and Engineering Rising Star" at the 45th APAMS, held July 19-20, 2025, at the University of South Carolina.
+
+<img src='/assets/PAASE-LAO.jpg' width='600' />
+
 <a id="PAASE20250715"><a/> <br>
 ### [2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition
 
