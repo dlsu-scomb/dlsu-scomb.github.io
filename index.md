@@ -16,6 +16,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 ### NEWS & EVENTS
 
+[**[2025/07/19] Dr. Angelyn Lao receives the PAASE Rising Star Award**](/events/#PAASE20250719)
+
 [**[2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition**](/events/#PAASE20250715)
 
 [**[2025/06/20] SComB Participates in American Society for Microbiology 2025 International Conference**](/events/#ASM20250620)
