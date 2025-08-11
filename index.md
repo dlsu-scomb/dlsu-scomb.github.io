@@ -20,6 +20,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 [**[2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition**](/events/#PAASE20250715)
 
+[**[2025/07/01] Dr. Angelyn Lao chaired EASIAM 2025**](/events/#EASIAM20250701)
+
 [**[2025/06/20] SComB Participates in American Society for Microbiology 2025 International Conference**](/events/#ASM20250620)
 
 [**[2024/08/15] SComB Despedida for Paul**](/events/#Despedida20240815)
