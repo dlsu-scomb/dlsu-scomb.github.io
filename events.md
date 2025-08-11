@@ -18,8 +18,8 @@ SComB member Paul Yu presented a poster titled "Systems Biology Approach to Unde
 
 <img src='/assets/2025-07-15_PAASE_APAMS.jpg' width='600' />
 
-, Philippines.
-<a id="PAASE20250715"><a/> <br>
+
+<a id="EASIAM20250701"><a/> <br>
 ### [2025/07/01] Dr. Angelyn Lao chaired the 18th East Asia SIAM Section Conference 
 
 Dr. Angelyn Lao served as Chair for the 18th East Asia SIAM Section Conference, held from June 30 to July 4, 2025, at De La Salle University. Additionally, during the 2025 EASIAM event at De La Salle University, a symposium was organized on the theme of “Mathematical Biology and Ecology,” highlighting SComB's research on reaction networks and mathematical epidemiology.
