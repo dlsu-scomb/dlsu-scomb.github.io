@@ -9,13 +9,12 @@ permalink: /people/
 #### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
 *Director, Center for Natural Sciences and Environmental Research (CENSER)*
 
-### HONORARY SCIENTIST-IN-RESIDENCE
-
-<img src='/assets/people/ed-mendoza.png' width='100' />
-#### [Eduardo R. Mendoza](https://ed-r-mendoza.github.io/) <br>
-*Adjunct Professor, Department of Mathematics & Statistics*
-
 ### FACULTY MEMBERS
+
+<img src='/assets/people/angelyn-lao.png' width='100' /> 
+#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
+*Director, Center for Natural Sciences and Environmental Research (CENSER)*
+*Professor, Department of Mathematics & Statistics*
 
 <img src='/assets/people/divina-amalin.png' width='100' />
 #### [Divina M. Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629) <br>
@@ -38,9 +37,12 @@ permalink: /people/
 
 ### AFFILIATE RESEARCHERS
 
+<img src='/assets/people/ed-mendoza.png' width='100' />
+#### [Eduardo R. Mendoza](https://ed-r-mendoza.github.io/) <br>
+*Honorary Scientist-in-Residence, CENSER & Department of Mathematics & Statistics*
+
 <img src='/assets/people/lyn-espiritu.png' width='100' />
 #### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
-*Associate Professor, Department of Biology*
 
 ### RESEARCH ASSISTANTS
 
