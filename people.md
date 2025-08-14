@@ -17,11 +17,6 @@ permalink: /people/
 
 ### FACULTY MEMBERS
 
-<img src='/assets/people/lyn-espiritu.png' width='100' />
-#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
-*Associate Professor, Department of Biology*
-*,Officer In Charge, SComB*
-
 <img src='/assets/people/divina-amalin.png' width='100' />
 #### [Divina M. Amalin](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711629) <br>
 *Professor, Department of Biology*
@@ -40,6 +35,12 @@ permalink: /people/
 
 <img src='/assets/people/nilda-munoz.png' width='100' />
 #### [Ma. Nilda M. Muñoz](https://scholar.google.com.ph/citations?hl=en&user=5lNV_VEAAAAJ&view_op=list_works&sortby=pubdate)
+
+### AFFILIATE RESEARCHERS
+
+<img src='/assets/people/lyn-espiritu.png' width='100' />
+#### [Llewelyn M. Espiritu](https://www.dlsu.edu.ph/colleges/cos/faculty-profile/?personnel=32742711505) <br>
+*Associate Professor, Department of Biology*
 
 ### RESEARCH ASSISTANTS
 
