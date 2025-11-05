@@ -5,7 +5,7 @@ permalink: /people/
 ---
 ### UNIT HEAD
 
-<img src='/assets/people/robert-leong.jpeg' width='100' /> 
+<img src='/assets/people/robert-leong.png' width='100' /> 
 #### [Robert Neil F. Leong]() <br>
 *Assistant Professor, Department of Mathematics & Statistics*
 
