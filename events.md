@@ -5,11 +5,11 @@ permalink: /events/
 ---
 
 <a id="PAASE20251026"><a/> <br>
-### [2025/10/26] Dr. Angelyn Lao presented at the 23rd China SIAM Annual Meeting
+### [2025/10/26] Dr. Angelyn Lao presented at the 23rd CSIAM Annual Conference
 
 The 23rd Annual Conference of China Society for Industrial and Applied Mathematics was held from October 23 to 26, 2025, at Changsha, Nanjing, China. SComB member, Angelyn Lao, was invited by the organizers of the session to present her talk titled “Reaction Networks Approach of Modeling Biological and Disease Dynamics.”
 
-<img src='/assets/PAASE-LAO.jpg' width='600' />
+<img src='/assets/2025-10-26-CSIAM-LAO.png' width='600' />
 
 <a id="PAASE20250719"><a/> <br>
 ### [2025/07/19] Congratulations to Dr. Angelyn Lao - PAASE Rising Star Award
