@@ -5,9 +5,9 @@ permalink: /people/
 ---
 ### UNIT HEAD
 
-<img src='/assets/people/angelyn-lao.png' width='100' /> 
-#### [Angelyn R. Lao](https://angelynlao.github.io/) <br>
-*Director, Center for Natural Sciences and Environmental Research (CENSER)*
+<img src='/assets/people/robert-leong.jpeg' width='100' /> 
+#### [Robert Neil F. Leong]() <br>
+*Assistant Professor, Department of Mathematics & Statistics*
 
 ### FACULTY MEMBERS
 
