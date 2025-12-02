@@ -5,6 +5,15 @@ permalink: /papers/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES & BOOK CHAPTERS**
 
+#### 2025
+[**A Reaction Network Approach to Modeling Carbon Dioxide Removal Systems**]() <br>
+N. Fortun, P. Gaspar, E. Jose, A. Lao, E. Mendoza, and L. Razon <br>
+*Accepted for Publication at the Process Integration and Optimization for Sustainability*
+
+[**Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture**](https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html) <br>
+N. Fortun, A. Lao, E. Mendoza, and L. Razon <br>
+*MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729, 2026.*
+
 #### 2024
 [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf) <br>
 P.K. Yu, G.C. Aurellano, E.B. Guanzon, E.T. Templonuevo, U.C. Chua, B.V. Samson, J.S. delos Santos, and A.R. Lao <br>
