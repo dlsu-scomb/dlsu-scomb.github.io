@@ -8,6 +8,8 @@ permalink: /events/
 
 The International Workshopon Mathematical Biology was held from January 06 to 09, 2026, at Iloilo City, Philippines with the theme: "Spicing up research: a Taste of Mathematical Biology". SComB member Dr. Angelyn Lao assisted in the organization and preparation of the workshop and was re-elected as a board member in the event. The event was sponsored by CENSER.
 
+<img src='/assets/2026-01-06-IWOMB.png' width='600' />
+
 <a id="PAASE20251026"><a/> <br>
 ### [2025/10/26] Dr. Angelyn Lao presented at the 23rd CSIAM Annual Conference
 
