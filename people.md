@@ -96,6 +96,10 @@ permalink: /people/
 #### Kathlyn L. Tio <br>
 *BS Biology*
 
+<img src='/assets/people/iverson-alay.png' width='100' />
+#### Iverson Paul V. Alay <br>
+*BS Mathematics with Specialization in Computer Applications*
+
 ### INTERNS
 
 ### [ALUMNI](/alumni)
