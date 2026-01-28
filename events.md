@@ -3,10 +3,17 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+<a id= "TMS20260121"><a/> <br>
+### [2026/01/21] Dr. Angelyn Lao and Lara Gabrielle Lim presented at the 61st Annual Meeting of the Taiwan Mathematical Society
+
+The 61st annual meeting of the Taiwan Mathematical Society was held from January 21-22, 2026, at the National Chung Cheng University, Taiwan. SComB members Dr. Angelyn Lao and Lara Gabrielle Lim presented their works on "Asian Oceanian Women in Mathematics" and "Stock Market Analysis using Persistent Homology".
+
+<img src='/assets/2026-01-22-TMS.png' width='600' />
+
 <a id= "IWOMB20260106"><a/> <br>
 ### [2026/01/06] SComB attends the IWOMB2026
 
-The International Workshopon Mathematical Biology was held from January 06 to 09, 2026, at Iloilo City, Philippines with the theme: "Spicing up research: a Taste of Mathematical Biology". SComB member Dr. Angelyn Lao assisted in the organization and preparation of the workshop and was re-elected as a board member in the event. The event was sponsored by CENSER.
+The International Workshop on Mathematical Biology was held from January 06 to 09, 2026, at Iloilo City, Philippines with the theme: "Spicing up research: a Taste of Mathematical Biology". SComB members Dr. Angelyn Lao and Dr. Robert Neil Leong assisted in the organization and preparation of the workshop. Dr. Lao was re-elected as a board member in the event. The event was sponsored by CENSER.
 
 <img src='/assets/2026-01-06-IWOMB.png' width='600' />
 
