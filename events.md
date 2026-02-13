@@ -5,14 +5,14 @@ permalink: /events/
 ---
 
 
-<a id="SS20260114"></a> <br>
-### [2026/02/12] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios
+<a id="HC20260211"></a> <br>
+### [2026/02/11] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios
 
-Golden Jubilee Professor Dr. Heriberto Cabezas Y Fernandez delivered a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios last February 12, 2026 at the Research Commons, Brother Andrew Gonzales FSC building. The event was organized by CENSER and the Gokongwei College of Engineering.
+Golden Jubilee Professor Dr. Heriberto Cabezas Y Fernandez delivered a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios last February 11, 2026 at the Research Commons, Brother Andrew Gonzales FSC building. The event was organized by CENSER and the Gokongwei College of Engineering.
 
 <img src='/assets/2026-02-12-HC.png' width='600' />
 
-<a id="AC20260114"></a> <br>
+<a id="AC20260211"></a> <br>
 ### [2026/02/11] Ms. Amanda Cabezas delivers a talk on Communicating with Data
 
 Ms. Amanda Cabezas delivered a talk entitled "Communicating with Data" last Febuary 11, 2026 at the Pablo Nicholas Seminar room. The event was organized by CENSER and the Department of Mathematics and Statistics.
