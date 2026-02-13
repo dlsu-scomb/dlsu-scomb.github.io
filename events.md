@@ -40,7 +40,7 @@ The International Workshop on Mathematical Biology was held from January 06 to 0
 
 <img src='/assets/2026-01-06-IWOMB.png' width='600' />
 
-<a id="PAASE20251026"><a/> <br>
+<a id="CSIAM20251026"><a/> <br>
 ### [2025/10/26] Dr. Angelyn Lao presented at the 23rd CSIAM Annual Conference
 
 The 23rd Annual Conference of China Society for Industrial and Applied Mathematics was held from October 23 to 26, 2025, at Changsha, Nanjing, China. SComB member, Angelyn Lao, was invited by the organizers of the session to present her talk titled “Reaction Networks Approach of Modeling Biological and Disease Dynamics.”
