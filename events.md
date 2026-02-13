@@ -3,6 +3,28 @@ layout: page
 title: News & Events
 permalink: /events/
 ---
+
+<a id="SS20260114></a> <br>
+### [2026/02/12] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios
+
+Golden Jubilee Professor Dr. Heriberto Cabezas Y Fernandez delivered a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios last February 12, 2026 at the Research Commons, Brother Andrew Gonzales FSC building. The event was organized by CENSER and the Gokongwei College of Engineering.
+
+<img src='/assets/' width='600' />
+
+<a id="AC20260114></a> <br>
+### [2026/02/11] Professor Amanda Cabezas delivers a talk on Data Visualizations
+
+Golden Jubilee Professor Amanda Cabezas delivered a talk entitled "Communicating with Data" last Febuary 11, 2026 at the Pablo Nicholas Seminar room. The event was organized by CENSER and the Department of Mathematics and Statistics.
+
+<img src='/assets/' width='600' />
+
+<a id="SS20260114></a> <br>
+### [2026/01/14-16] Visiting Professor Stacey Smith? delivers several talks at DLSU
+
+Professor Stacey Smith? of the University of Ottawa visited the university last January 14-16 and delivered a talk on "A Prevalence-based Transmission Model for the Study of the Epidemiology and Control of Soil transmitted Helminthiasis" and conducted two workshops on Modeling Disease Ecology and Scientific Writing.
+
+<img src='/assets/' width='600' />
+
 <a id= "TMS20260121"><a/> <br>
 ### [2026/01/21] Dr. Angelyn Lao and Lara Gabrielle Lim presented at the 61st Annual Meeting of the Taiwan Mathematical Society
 
@@ -125,7 +147,7 @@ The members of SComB, Dr.Llewelyn Espiritu, Jiaan Santos, Robert Unciano, and La
 <a id="DrDavidTalk20240918"><a/> <br>
 ### [2024/09/18] Dr. Lawrence David gave a Talk Entitled Genomics, Diet, and The Human Gut Microbiome”
 
-Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered and interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
+Held at the Br.Andrew lecture hall last September 18, 2024, Dr. David delivered an interesting talk emphasizing the importance of diet and the gut microbiome. Among the attendees were students from the college of science, college of computer studies, and college of liberal arts. Also in attendance were Dr. Angelyn Lao (CENSER head), Dr. Llewelyn Espiritu (SComB Head), Dr. Anish Shrestha (Bioinformatics Lab Head), and Dr. Luisa Enriquez (Ethics Board Head).
 
 <img src='/assets/2024-Dr.David-Poster.png' width='400' />
 
