@@ -4,6 +4,7 @@ title: News & Events
 permalink: /events/
 ---
 
+<!--
 <a id="SS20260114"></a> <br>
 ### [2026/02/12] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios
 
@@ -17,21 +18,21 @@ Golden Jubilee Professor Dr. Heriberto Cabezas Y Fernandez delivered a talk on T
 Golden Jubilee Professor Amanda Cabezas delivered a talk entitled "Communicating with Data" last Febuary 11, 2026 at the Pablo Nicholas Seminar room. The event was organized by CENSER and the Department of Mathematics and Statistics.
 
 <img src='/assets/2026-02-11-AC.png' width='800' />
-
+-->
 <a id= "TMS20260121"><a/> <br>
 ### [2026/01/21] Dr. Angelyn Lao and Lara Gabrielle Lim presented at the 61st Annual Meeting of the Taiwan Mathematical Society
 
 The 61st annual meeting of the Taiwan Mathematical Society was held from January 21-22, 2026, at the National Chung Cheng University, Taiwan. SComB members Dr. Angelyn Lao and Lara Gabrielle Lim presented their works on "Asian Oceanian Women in Mathematics" and "Stock Market Analysis using Persistent Homology".
 
 <img src='/assets/2026-01-22-TMS.png' width='600' />
-
+<!--
 <a id= "SS20260114"></a> <br>
 ### [2026/01/14] Visiting Professor Stacey Smith? delivers several talks at DLSU
 
 Professor Stacey Smith? of the University of Ottawa visited the university last January 14-16 and delivered a talk on "A Prevalence-based Transmission Model for the Study of the Epidemiology and Control of Soil transmitted Helminthiasis" and conducted two workshops on Modeling Disease Ecology and Scientific Writing.
 
 <img src='/assets/2026-01-14-SS.png' width='800' />
-
+-->
 <a id= "IWOMB20260106"><a/> <br>
 ### [2026/01/06] SComB attends the IWOMB2026
 
