@@ -26,6 +26,8 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 [**[2026/01/06] SComB attends the IWOMB2026**](/events/#IWOMB20260106)
 
+[**[2026/01/06] Dr. Angelyn Lao presented at the 23rd CSIAM Annual Conference**](/events/#CSIAM20251026)
+
 [**[2025/07/19] Dr. Angelyn Lao receives the PAASE Rising Star Award**](/events/#PAASE20250719)
 
 [**[2025/07/15] SComB Clinches 2nd Prize in the PAASE APAMS 2025 Rapid Fire Competition**](/events/#PAASE20250715)
