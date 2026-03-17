@@ -4,12 +4,7 @@ title: News & Events
 permalink: /events/
 ---
 
-<a id="AOWM20260305"></a> <br>
-### [2026/03/05] Dr. Angelyn Lao attends the Asian Oceanian Women in Mathematics Conference
 
-Last March 5-6, 2026, SCoMB member Dr. Angelyn Lao participated as a member of the Executive Committee in the Annual Meeting and Conference of the Asian Oceanian Women in Mathematics.
-
-<img src='/assets/2026-03-05-AOWM.png' width='600' />
 
 <a id="NSTF20260310"></a> <br>
 ### [2026/03/10] Dr. Angelyn Lao attends the National Science and Technology Fair 2026 
@@ -17,6 +12,13 @@ Last March 5-6, 2026, SCoMB member Dr. Angelyn Lao participated as a member of t
 Last March 10-13, 2026, SCoMB member Dr. Angelyn Lao participated as a member of the Board of Judges for Mathematics and Computational Science (Team Category) during the 2026 National Science and Technology Fair at the Great Eastern Hotel.
 
 <img src='/assets/2026-03-10-NSTF.png' width='600' />
+
+<a id="AOWM20260305"></a> <br>
+### [2026/03/05] Dr. Angelyn Lao attends the Asian Oceanian Women in Mathematics Conference
+
+Last March 5-6, 2026, SCoMB member Dr. Angelyn Lao participated as a member of the Executive Committee in the Annual Meeting and Conference of the Asian Oceanian Women in Mathematics.
+
+<img src='/assets/2026-03-05-AOWM.png' width='600' />
 
 <a id="HC20260211"></a> <br>
 ### [2026/02/11] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios
