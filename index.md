@@ -16,7 +16,7 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 ### NEWS & EVENTS
 
-[**[2026/03/10] Dr. Angelyn Lao attends the National Science and Technology Fair 2026 **](/events/#NSTF20260310)
+[**[2026/03/10] Dr. Angelyn Lao attends the National Science and Technology Fair 2026**](/events/#NSTF20260310)
 
 [**[2026/03/05] Dr. Angelyn Lao attends the Asian Oceanian Women in Mathematics Conference**](/events/#AOWM20260305)
 
