@@ -16,6 +16,10 @@ Through the systematic and rigorous methodologies employed at SComB, the theoret
 
 ### NEWS & EVENTS
 
+[**[2026/03/10] Dr. Angelyn Lao attends the National Science and Technology Fair 2026 **](/events/#NSTF20260310)
+
+[**[2026/03/05] Dr. Angelyn Lao attends the Asian Oceanian Women in Mathematics Conference**](/events/#AOWM20260305)
+
 [**[2026/02/11] Dr. Heriberto Cabezas Y Fernandez delivers a talk on The Generalized Global Sustainability Model: Water Scarcity and Other Scenarios**](/events/#HC20260211)
 
 [**[2026/02/11] Ms. Amanda Cabezas delivers a talk on Communicating with Data**](/events/#AC20260211)
