@@ -8,7 +8,7 @@ permalink: /papers/
 #### 2026
 
 [**Investigating the resistome, taxonomic composition, and mobilome of bacterial communities in hospital wastewaters of Metro Manila using a shotgun metagenomics approach**](https://journals.asm.org/doi/10.1128/spectrum.03963-25)<br>
-Jiaan Carlo E. Santos, Daphne Janelyn L. Go, Robert D. Unciano, Paul K. Yu , Angelyn R. Lao , Ma. Luisa D. Enriquez , Llewelyn M. Espiritu , Anish M. S. Shrestha<br>
+Jiaan Carlo E. Santos, Daphne Janelyn L. Go, Robert D. Unciano, Paul K. Yu, Angelyn R. Lao, Ma. Luisa D. Enriquez, Llewelyn M. Espiritu, Anish M. S. Shrestha<br>
 *American Society for Microbiology - Microbiology Spectrum Journal, 2026, https://doi.org/10.1128/spectrum.03963-25.*
 
 
