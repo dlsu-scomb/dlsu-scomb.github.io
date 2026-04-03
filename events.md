@@ -4,7 +4,20 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="IA20260331"></a> <br>
+### [2026/03/31]ATTACK-AMR Paper Published in the Microbiology Spectrum
 
+The ATTACK-AMR paper entitled “Investigating the resistome, taxonomic composition, and mobilome of bacterial communities in hospital wastewaters of Metro Manila using a shotgun metagenomics approach” was published in the American Society for Microbiology Jorunal - Microbiology Spectrum! It's authors are: Jiaan Carlo E. Santos, Daphne Janelyn L. Go, Robert D. Unciano, Paul K. Yu , Angelyn R. Lao , Ma. Luisa D. Enriquez , Llewelyn M. Espiritu , Anish M. S. Shrestha.
+
+<img src='/assets/2026-03-31-ATTACK.png' width='600' />
+
+
+<a id="IA20260328"></a> <br>
+### [2026/03/28] Iverson Paul Alay and Joshua Samuel Habos defend their undergraduate thesis
+
+Last March 28, 2026, SComB member Iverson Paul Alay and his partner Joshua Samuel Habos successfully defend their undergraduate thesis entitled: "Simulations of the Advection-Diffusion Equation for Traffic Flow: A Finite Element Approach." This work was supervised by Dr. Angelyn Lao from De La Salle University and Dr. Julius Fergy Rabago from Kanazawa University, and paneled by Dr. Daryl Granario and Ms. Michelle Tan.
+
+<img src='/assets/2026-03-28-IA.png' width='600' />
 
 <a id="NSTF20260310"></a> <br>
 ### [2026/03/10] Dr. Angelyn Lao attends the National Science and Technology Fair 2026 
