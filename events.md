@@ -4,6 +4,48 @@ title: News & Events
 permalink: /events/
 ---
 
+<a id="MSP20260603"></a> <br>
+### [2026/06/03-05] SComB Members Dr. Angelyn Lao and Iverson Paul Alay attend the Mathematical Society of the Philippines Annual Convention
+
+Last June 3-5, 2026, SComB members Dr. Angelyn Lao and Iverson Paul Alay attend the Mathematical Society of the Philippines Annual Convention held in the Pangasinan State University at Lingayen, Pangasinan. Iverson and his partner Joshua Habos participated in the poster competition with their work “Simulations of the Advection-Diffusion Equation for Traffic Flow: A Finite Element Approach.”
+
+<img src='/assets/2026-06-03-MSP.jpg' width='800' />
+
+<a id="RV20260527"></a> <br>
+### [2026/05/27] Dr. Angelyn Lao gives a talk in the Responsible Publishing and Research Visibility Training
+
+SComB member Dr. Angelyn Lao served as an invited speaker at the Responsible Publishing and Research Visibility Training held on May 27, 2026, at the BPSU Main Campus, organized by Bataan Peninsula State University in partnership with PAASE.
+
+<img src='/assets/2026-05-27-Research Visibility.jpg' width='800' />
+
+<a id="PAASE20260527"></a> <br>
+### [2026/05/27-29] Dr. Angelyn Lao participated in the Annual PAASE Meeting and Symposium 
+
+Dr. Angelyn R. Lao, SComB member and Vice President of PAASE, participated in the 2026 Annual PAASE Meeting and Symposium (APAMS 2026) held on May 27–29, 2026, at Las Casas Filipinas de Acuzar, Bagac, Bataan.
+
+<img src='/assets/2026-05-27-PAASE.jpg' width='800' />
+
+<a id="DOST20260525"></a> <br>
+### [2026/05/25] DOST Science and Technology Foundation Unit Meeting
+
+SComB member Dr. Angelyn Lao participated in a meeting with the DOST Science and Technology Foundation Unit on May 25, 2026, as PAASE presented its accomplishments and initiatives as part of the reporting process for DOST-Certified Science and Technology Foundations.
+
+<img src='/assets/2026-05-25-DOST.jpg' width='600' />
+
+<a id="WIM20260515"></a> <br>
+### [2026/05/13] Dr. Angelyn Lao hosts the Women in Mathematics Film Festival at DLSU
+
+Last May 15, 2026, Dr. Angelyn Lao hosted the Women in Mathematics Film Festival at DLSU. The event showcased the films “Je Suit Sophie Germain” and “Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani.”
+
+<img src='/assets/2026-05-15-WIM.jpg' width='800' />
+
+<a id="ASEANA20260413"></a> <br>
+### [2026/04/13] Dr. Angelyn Lao gives a talk in the ASEAN-Africa Workshop on Computational and Applied Mathematics
+
+SComB member Dr. Angelyn Lao was invited to give a talk at the Joint ASEAN-AFRICA Workshop on Computational and Applied Mathematics, held at the National University of Singapore (NUS) last April 13, 2026. 
+
+<img src='/assets/2026-04-13-ASEAN-Africa.jpg' width='800' />
+
 <a id="IA20260331"></a> <br>
 ### [2026/03/31]ATTACK-AMR Paper Published in the Microbiology Spectrum
 
